@@ -51,8 +51,8 @@ FOR %%s IN (31-0, 31-1, 31-2, 31-3, 31-4, 31-5, 31-6, 31-7, 31-8, 31-9, 31-10, 3
 
   echo extending to size 32x32...
 
-  convert temp\a!f_stone_num!.png -background transparent -gravity southeast -extent 32x32 -define png:format=png32 temp\a!f_stone_num!.png
-  convert temp\b!f_stone_num!.png -background transparent -gravity southeast -extent 32x32 -define png:format=png32 temp\b!f_stone_num!.png
+  convert temp\a!f_stone_num!.png -background transparent -gravity southeast -extent 32x32 +repage -define png:format=png32 temp\a!f_stone_num!.png
+  convert temp\b!f_stone_num!.png -background transparent -gravity southeast -extent 32x32 +repage -define png:format=png32 temp\b!f_stone_num!.png
 
   echo done with row !stone_num!
 

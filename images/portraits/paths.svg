@@ -1,0 +1,709 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="paths.svg"
+   id="svg4099"
+   version="1.1"
+   height="147"
+   width="95"
+   inkscape:export-filename="C:\Users\adam\github\boardball\images\portraits\base\Man\nums\1.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   style="enable-background:new">
+  <sodipodi:namedview
+     inkscape:snap-midpoints="false"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="false"
+     inkscape:snap-others="false"
+     inkscape:snap-to-guides="true"
+     inkscape:snap-grids="true"
+     inkscape:snap-nodes="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-center="false"
+     inkscape:snap-intersection-paths="false"
+     inkscape:object-paths="false"
+     inkscape:guide-bbox="true"
+     showguides="true"
+     inkscape:snap-object-midpoints="false"
+     inkscape:current-layer="layer4"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-4"
+     inkscape:window-x="-4"
+     inkscape:cy="73.924475"
+     inkscape:cx="59.013057"
+     inkscape:zoom="6.5289507"
+     inkscape:pagecheckerboard="false"
+     showgrid="true"
+     id="namedview4101"
+     inkscape:window-height="753"
+     inkscape:window-width="1280"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     inkscape:snap-global="true"
+     inkscape:bbox-paths="true"
+     inkscape:measure-start="6.5,5"
+     inkscape:measure-end="23.5,5"
+     inkscape:lockguides="false">
+    <inkscape:grid
+       empspacing="0"
+       dotted="false"
+       snapvisiblegridlinesonly="false"
+       id="grid4170"
+       type="xygrid" />
+    <inkscape:grid
+       snapvisiblegridlinesonly="false"
+       opacity="0.1254902"
+       color="#ff3f3f"
+       empopacity="0.25098039"
+       empcolor="#ff3f3f"
+       empspacing="0"
+       originy="0.5"
+       originx="0.5"
+       dotted="true"
+       id="grid5009"
+       type="xygrid"
+       enabled="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4103">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3781">
+    <linearGradient
+       id="0">
+      <stop
+         id="stop3774"
+         stop-opacity="0.678"
+         stop-color="#d7a127" />
+      <stop
+         id="stop3776"
+         stop-opacity="0"
+         stop-color="#ffffe6"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3779"
+       y2="71.57"
+       x2="133.02"
+       y1="102.16"
+       x1="196.98"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#0" />
+    <marker
+       style="overflow:visible"
+       refY="0"
+       refX="0"
+       orient="auto"
+       id="DistanceX">
+      <path
+         id="path4528"
+         style="stroke:#000000;stroke-width:0.5"
+         d="M 3,-3 -3,3 M 0,-5 V 5"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <pattern
+       y="0"
+       x="0"
+       width="8"
+       patternUnits="userSpaceOnUse"
+       id="Hatch"
+       height="8">
+      <path
+         id="path4531"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M8 4 l-4,4" />
+      <path
+         id="path4533"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M6 2 l-4,4" />
+      <path
+         id="path4535"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M4 0 l-4,4" />
+    </pattern>
+    <symbol
+       id="*Model_Space" />
+    <symbol
+       id="*Paper_Space" />
+    <marker
+       style="overflow:visible"
+       refY="0"
+       refX="0"
+       orient="auto"
+       id="DistanceX-1">
+      <path
+         id="path4661"
+         style="stroke:#000000;stroke-width:0.5"
+         d="M 3,-3 -3,3 M 0,-5 V 5"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <pattern
+       y="0"
+       x="0"
+       width="8"
+       patternUnits="userSpaceOnUse"
+       id="Hatch-4"
+       height="8">
+      <path
+         id="path4664"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M8 4 l-4,4" />
+      <path
+         id="path4666"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M6 2 l-4,4" />
+      <path
+         id="path4668"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M4 0 l-4,4" />
+    </pattern>
+    <symbol
+       id="*Model_Space-0" />
+    <symbol
+       id="*Paper_Space-3" />
+    <marker
+       style="overflow:visible"
+       refY="0"
+       refX="0"
+       orient="auto"
+       id="DistanceX-8">
+      <path
+         id="path4754"
+         style="stroke:#000000;stroke-width:0.5"
+         d="M 3,-3 -3,3 M 0,-5 V 5"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <pattern
+       y="0"
+       x="0"
+       width="8"
+       patternUnits="userSpaceOnUse"
+       id="Hatch-1"
+       height="8">
+      <path
+         id="path4757"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M8 4 l-4,4" />
+      <path
+         id="path4759"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M6 2 l-4,4" />
+      <path
+         id="path4761"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M4 0 l-4,4" />
+    </pattern>
+    <symbol
+       id="*Model_Space-7" />
+    <symbol
+       id="*Paper_Space-4" />
+    <marker
+       style="overflow:visible"
+       refY="0"
+       refX="0"
+       orient="auto"
+       id="DistanceX-3">
+      <path
+         id="path4905"
+         style="stroke:#000000;stroke-width:0.5"
+         d="M 3,-3 -3,3 M 0,-5 V 5"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <pattern
+       y="0"
+       x="0"
+       width="8"
+       patternUnits="userSpaceOnUse"
+       id="Hatch-43"
+       height="8">
+      <path
+         id="path4908"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M8 4 l-4,4" />
+      <path
+         id="path4910"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M6 2 l-4,4" />
+      <path
+         id="path4912"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M4 0 l-4,4" />
+    </pattern>
+    <symbol
+       id="*Model_Space-9" />
+    <symbol
+       id="*Paper_Space-6" />
+    <marker
+       style="overflow:visible"
+       refY="0"
+       refX="0"
+       orient="auto"
+       id="DistanceX-0">
+      <path
+         id="path4768"
+         style="stroke:#000000;stroke-width:0.5"
+         d="M 3,-3 -3,3 M 0,-5 V 5"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <pattern
+       y="0"
+       x="0"
+       width="8"
+       patternUnits="userSpaceOnUse"
+       id="Hatch-5"
+       height="8">
+      <path
+         id="path4771"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M8 4 l-4,4" />
+      <path
+         id="path4773"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M6 2 l-4,4" />
+      <path
+         id="path4775"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M4 0 l-4,4" />
+    </pattern>
+    <symbol
+       id="*Model_Space-5" />
+    <symbol
+       id="*Paper_Space-2" />
+    <marker
+       style="overflow:visible"
+       refY="0"
+       refX="0"
+       orient="auto"
+       id="DistanceX-4">
+      <path
+         id="path4843"
+         style="stroke:#000000;stroke-width:0.5"
+         d="M 3,-3 -3,3 M 0,-5 V 5"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <pattern
+       y="0"
+       x="0"
+       width="8"
+       patternUnits="userSpaceOnUse"
+       id="Hatch-47"
+       height="8">
+      <path
+         id="path4846"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M8 4 l-4,4" />
+      <path
+         id="path4848"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M6 2 l-4,4" />
+      <path
+         id="path4850"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M4 0 l-4,4" />
+    </pattern>
+    <symbol
+       id="*Model_Space-6" />
+    <symbol
+       id="*Paper_Space-47" />
+    <marker
+       style="overflow:visible"
+       refY="0"
+       refX="0"
+       orient="auto"
+       id="DistanceX-5">
+      <path
+         id="path4934"
+         style="stroke:#000000;stroke-width:0.5"
+         d="M 3,-3 -3,3 M 0,-5 V 5"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <pattern
+       y="0"
+       x="0"
+       width="8"
+       patternUnits="userSpaceOnUse"
+       id="Hatch-8"
+       height="8">
+      <path
+         id="path4937"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M8 4 l-4,4" />
+      <path
+         id="path4939"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M6 2 l-4,4" />
+      <path
+         id="path4941"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M4 0 l-4,4" />
+    </pattern>
+    <symbol
+       id="*Model_Space-00" />
+    <symbol
+       id="*Paper_Space-7" />
+    <marker
+       style="overflow:visible"
+       refY="0"
+       refX="0"
+       orient="auto"
+       id="DistanceX-2">
+      <path
+         id="path5038"
+         style="stroke:#000000;stroke-width:0.5"
+         d="M 3,-3 -3,3 M 0,-5 V 5"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <pattern
+       y="0"
+       x="0"
+       width="8"
+       patternUnits="userSpaceOnUse"
+       id="Hatch-7"
+       height="8">
+      <path
+         id="path5041"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M8 4 l-4,4" />
+      <path
+         id="path5043"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M6 2 l-4,4" />
+      <path
+         id="path5045"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M4 0 l-4,4" />
+    </pattern>
+    <symbol
+       id="*Model_Space-1" />
+    <symbol
+       id="*Paper_Space-26" />
+    <marker
+       style="overflow:visible"
+       refY="0"
+       refX="0"
+       orient="auto"
+       id="DistanceX-16">
+      <path
+         id="path5764"
+         style="stroke:#000000;stroke-width:0.5"
+         d="M 3,-3 -3,3 M 0,-5 V 5"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <pattern
+       y="0"
+       x="0"
+       width="8"
+       patternUnits="userSpaceOnUse"
+       id="Hatch-45"
+       height="8">
+      <path
+         id="path5767"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M8 4 l-4,4" />
+      <path
+         id="path5769"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M6 2 l-4,4" />
+      <path
+         id="path5771"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M4 0 l-4,4" />
+    </pattern>
+    <symbol
+       id="*Model_Space-93" />
+    <symbol
+       id="*Paper_Space-73" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="mask"
+     style="display:none">
+    <rect
+       style="fill:#000000;stroke:none;stroke-width:4.96282482;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5841"
+       width="95"
+       height="147"
+       x="0"
+       y="0"
+       inkscape:label="black" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:none;stroke-width:1.0176419;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+       id="rect5831"
+       width="95"
+       height="147"
+       x="0"
+       y="0"
+       ry="8"
+       rx="8"
+       inkscape:label="white" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="border"
+     style="display:none">
+    <rect
+       rx="7.5"
+       ry="7.5"
+       y="0.5"
+       x="0.5"
+       height="146"
+       width="94"
+       id="rect5835"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+       inkscape:label="border" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="symbol background"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <path
+       transform="translate(0,115)"
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;enable-background:new"
+       d="m 87.5,-41.499988 a 40,40 0 1 0 -80,0 40,40 0 1 0 80,0 z"
+       id="path5861"
+       inkscape:connector-curvature="0"
+       inkscape:label="Symbol Background" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="nums 1-8"
+     style="display:none;opacity:1"
+     transform="translate(0,115)"
+     sodipodi:insensitive="true">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4"
+       x="47.46875"
+       y="-18.671875"
+       id="text7279"
+       inkscape:label="8"><tspan
+         sodipodi:role="line"
+         id="tspan7277"
+         x="47.46875"
+         y="-18.671875"
+         style="stroke-width:4">8</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4"
+       x="47.46875"
+       y="-18.671875"
+       id="text7311"
+       inkscape:label="7"><tspan
+         sodipodi:role="line"
+         id="tspan7309"
+         x="47.46875"
+         y="-18.671875"
+         style="stroke-width:4">7</tspan></text>
+    <text
+       id="text7283"
+       y="-18.671875"
+       x="47.46875"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4"
+       xml:space="preserve"
+       inkscape:label="6"><tspan
+         y="-18.671875"
+         x="47.46875"
+         sodipodi:role="line"
+         id="tspan7313"
+         style="stroke-width:4">6</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4"
+       x="47.46875"
+       y="-18.671875"
+       id="text7287"
+       inkscape:label="5"><tspan
+         sodipodi:role="line"
+         id="tspan7285"
+         x="47.46875"
+         y="-18.671875"
+         style="stroke-width:4">5</tspan></text>
+    <text
+       id="text7291"
+       y="-18.671875"
+       x="47.46875"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4"
+       xml:space="preserve"
+       inkscape:label="4"><tspan
+         y="-18.671875"
+         x="47.46875"
+         id="tspan7289"
+         sodipodi:role="line"
+         style="stroke-width:4">4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4"
+       x="47.46875"
+       y="-18.671875"
+       id="text7295"
+       inkscape:label="3"><tspan
+         sodipodi:role="line"
+         id="tspan7293"
+         x="47.46875"
+         y="-18.671875"
+         style="stroke-width:4">3</tspan></text>
+    <text
+       id="text7299"
+       y="-18.671875"
+       x="47.46875"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4"
+       xml:space="preserve"
+       inkscape:label="2"><tspan
+         y="-18.671875"
+         x="47.46875"
+         id="tspan7297"
+         sodipodi:role="line"
+         style="stroke-width:4">2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4"
+       x="47.46875"
+       y="-18.671875"
+       id="text7303"
+       inkscape:label="1"><tspan
+         sodipodi:role="line"
+         id="tspan7301"
+         x="47.46875"
+         y="-18.671875"
+         style="stroke-width:4">1</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="nums I,II"
+     style="display:none"
+     transform="translate(0,117)"
+     sodipodi:insensitive="true">
+    <circle
+       style="display:inline;fill:#000000;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4764"
+       cx="47.5"
+       cy="-43.5"
+       r="8"
+       inkscape:label="2"
+       inkscape:export-filename="C:\Users\adam\github\boardball\H\b_nums\1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="stones"
+     style="display:none"
+     transform="translate(0,115)"
+     sodipodi:insensitive="true">
+    <path
+       style="display:none;fill:#000000;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 47.031356,-73.491145 a 32.000001,32.000001 0 0 0 -31.367186,35.218752 1.1428573,1.1428573 0 0 0 2.273438,0 24.081221,24.081221 0 0 1 40.992188,-14.656252 7.9187796,7.9187796 0 0 0 11.195312,-11.195312 32.000001,32.000001 0 0 0 -23.093752,-9.367188 z m 31.132816,27.742188 a 1.1428573,1.1428573 0 0 0 -1.101564,1.023436 24.081221,24.081221 0 0 1 -40.992188,14.656252 7.9187848,7.9187848 0 0 0 -11.195312,11.195312 32.000001,32.000001 0 0 0 54.460936,-25.851564 1.1428573,1.1428573 0 0 0 -1.171872,-1.023436 z"
+       id="path5056"
+       inkscape:connector-curvature="0"
+       inkscape:label="Vortex"
+       sodipodi:insensitive="true" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 19.5,-41.499999 a 2.5714289,2.5714289 0 0 0 1.691275,2.41612 40,40 0 0 1 23.892617,23.892616 A 2.5714289,2.5714289 0 0 0 47.5,-13.499991 2.5714289,2.5714289 0 0 0 49.916108,-15.191263 40,40 0 0 1 73.808724,-39.083879 2.5714289,2.5714289 0 0 0 75.5,-41.499999 2.5714289,2.5714289 0 0 0 73.808724,-43.916123 40,40 0 0 1 49.916108,-67.808739 2.5714289,2.5714289 0 0 0 47.5,-69.500008 2.5714289,2.5714289 0 0 0 45.083892,-67.808739 40,40 0 0 1 21.191275,-43.916123 2.5714289,2.5714289 0 0 0 19.5,-41.499999 Z"
+       style="display:none;fill:#000000;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path5780"
+       inkscape:label="Asterix"
+       inkscape:export-filename="C:\Users\adam\github\boardball\images\portraits\base\Great\path5780.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       sodipodi:insensitive="true" />
+    <path
+       id="path4956"
+       style="display:none;fill:#000000;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 58.998323,-28.008791 a 19.48306,19.48306 0 0 1 -4.88598,17.987488 2.0891993,2.0891993 0 0 0 2.008872,3.473768 36.000001,36.000001 0 0 0 26.331248,-26.331228 2.0891993,2.0891993 0 0 0 -3.473752,-2.008876 19.48306,19.48306 0 0 1 -17.987488,4.885956 1.654854,1.654854 0 0 0 -1.9929,1.992892 z m -24.989548,-1.992892 a 19.48306,19.48306 0 0 1 -17.987488,-4.885956 2.0891993,2.0891993 0 0 0 -3.473751,2.008824 36.000001,36.000001 0 0 0 26.331247,26.33128 2.0891993,2.0891993 0 0 0 2.008872,-3.473768 19.48306,19.48306 0 0 1 -4.88598,-17.987488 1.654854,1.654854 0 0 0 -1.9929,-1.992892 z m 1.9929,-24.989528 a 19.48306,19.48306 0 0 1 4.88598,-17.987486 2.0891993,2.0891993 0 0 0 -2.008872,-3.473768 36.000001,36.000001 0 0 0 -26.331247,26.33123 2.0891993,2.0891993 0 0 0 3.473751,2.008872 19.48306,19.48306 0 0 1 17.987488,-4.885952 1.654854,1.654854 0 0 0 1.9929,-1.992896 z m 24.989548,1.992896 a 19.48306,19.48306 0 0 1 17.987488,4.885952 2.0891993,2.0891993 0 0 0 3.473752,-2.008872 36.000001,36.000001 0 0 0 -26.331248,-26.33123 2.0891993,2.0891993 0 0 0 -2.008872,3.473768 19.48306,19.48306 0 0 1 4.88598,17.987486 1.654854,1.654854 0 0 0 1.9929,1.992896 z"
+       inkscape:connector-curvature="0"
+       inkscape:label="Host" />
+    <path
+       id="path5854"
+       style="display:none;fill:#000000;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 87.5,-41.499988 a 40,40 0 1 0 -80,0 40,40 0 1 0 80,0 z m -1.95774,-12.360696 a 13.6,13.6 0 0 1 -8.14966,16.93312 6.2551436,6.2551436 0 0 0 -3.021336,9.298728 13.6,13.6 0 0 1 -3.359852,18.489508 13.6,13.6 0 0 1 -18.622784,-2.5182 6.2551436,6.2551436 0 0 0 -9.777256,0 13.6,13.6 0 0 1 -18.622782,2.5182 13.6,13.6 0 0 1 -3.359852,-18.489508 6.2551436,6.2551436 0 0 0 -3.021338,-9.298728 13.6,13.6 0 0 1 -8.14966,-16.93312 13.6,13.6 0 0 1 16.54628,-8.908944 6.2551436,6.2551436 0 0 0 7.909964,-5.746964 13.6,13.6 0 0 1 13.586016,-12.98342 13.6,13.6 0 0 1 13.586016,12.98342 6.2551436,6.2551436 0 0 0 7.909964,5.746964 13.6,13.6 0 0 1 16.54628,8.908944 z"
+       inkscape:connector-curvature="0"
+       inkscape:label="Great"
+       sodipodi:insensitive="true" />
+  </g>
+</svg>
