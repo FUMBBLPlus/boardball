@@ -1,0 +1,674 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="symbols.svg"
+   id="svg4099"
+   version="1.1"
+   height="128"
+   width="128"
+   inkscape:export-filename="C:\Users\adam\github\boardball\DR\b_symbol.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   style="enable-background:new">
+  <sodipodi:namedview
+     inkscape:snap-midpoints="false"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="false"
+     inkscape:snap-others="false"
+     inkscape:snap-to-guides="true"
+     inkscape:snap-grids="true"
+     inkscape:snap-nodes="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-center="false"
+     inkscape:snap-intersection-paths="false"
+     inkscape:object-paths="false"
+     inkscape:guide-bbox="true"
+     showguides="true"
+     inkscape:snap-object-midpoints="false"
+     inkscape:current-layer="g5248"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-4"
+     inkscape:window-x="-4"
+     inkscape:cy="68.132345"
+     inkscape:cx="93.355371"
+     inkscape:zoom="2.5324359"
+     inkscape:pagecheckerboard="false"
+     showgrid="true"
+     id="namedview4101"
+     inkscape:window-height="753"
+     inkscape:window-width="1280"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     inkscape:snap-global="true"
+     inkscape:bbox-paths="true"
+     inkscape:measure-start="6.5,5"
+     inkscape:measure-end="23.5,5"
+     inkscape:lockguides="false">
+    <inkscape:grid
+       empspacing="0"
+       dotted="false"
+       snapvisiblegridlinesonly="false"
+       id="grid4170"
+       type="xygrid"
+       enabled="false" />
+    <inkscape:grid
+       snapvisiblegridlinesonly="false"
+       opacity="0.1254902"
+       color="#ff3f3f"
+       empopacity="0.25098039"
+       empcolor="#ff3f3f"
+       empspacing="0"
+       originy="0.5"
+       originx="0.5"
+       dotted="true"
+       id="grid5009"
+       type="xygrid"
+       enabled="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4103">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3781">
+    <linearGradient
+       id="0">
+      <stop
+         id="stop3774"
+         stop-opacity="0.678"
+         stop-color="#d7a127" />
+      <stop
+         id="stop3776"
+         stop-opacity="0"
+         stop-color="#ffffe6"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3779"
+       y2="71.57"
+       x2="133.02"
+       y1="102.16"
+       x1="196.98"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#0" />
+    <marker
+       style="overflow:visible"
+       refY="0"
+       refX="0"
+       orient="auto"
+       id="DistanceX">
+      <path
+         id="path4528"
+         style="stroke:#000000;stroke-width:0.5"
+         d="M 3,-3 -3,3 M 0,-5 V 5"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <pattern
+       y="0"
+       x="0"
+       width="8"
+       patternUnits="userSpaceOnUse"
+       id="Hatch"
+       height="8">
+      <path
+         id="path4531"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M8 4 l-4,4" />
+      <path
+         id="path4533"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M6 2 l-4,4" />
+      <path
+         id="path4535"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M4 0 l-4,4" />
+    </pattern>
+    <symbol
+       id="*Model_Space" />
+    <symbol
+       id="*Paper_Space" />
+    <marker
+       style="overflow:visible"
+       refY="0"
+       refX="0"
+       orient="auto"
+       id="DistanceX-1">
+      <path
+         id="path4661"
+         style="stroke:#000000;stroke-width:0.5"
+         d="M 3,-3 -3,3 M 0,-5 V 5"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <pattern
+       y="0"
+       x="0"
+       width="8"
+       patternUnits="userSpaceOnUse"
+       id="Hatch-4"
+       height="8">
+      <path
+         id="path4664"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M8 4 l-4,4" />
+      <path
+         id="path4666"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M6 2 l-4,4" />
+      <path
+         id="path4668"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M4 0 l-4,4" />
+    </pattern>
+    <symbol
+       id="*Model_Space-0" />
+    <symbol
+       id="*Paper_Space-3" />
+    <marker
+       style="overflow:visible"
+       refY="0"
+       refX="0"
+       orient="auto"
+       id="DistanceX-8">
+      <path
+         id="path4754"
+         style="stroke:#000000;stroke-width:0.5"
+         d="M 3,-3 -3,3 M 0,-5 V 5"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <pattern
+       y="0"
+       x="0"
+       width="8"
+       patternUnits="userSpaceOnUse"
+       id="Hatch-1"
+       height="8">
+      <path
+         id="path4757"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M8 4 l-4,4" />
+      <path
+         id="path4759"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M6 2 l-4,4" />
+      <path
+         id="path4761"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M4 0 l-4,4" />
+    </pattern>
+    <symbol
+       id="*Model_Space-7" />
+    <symbol
+       id="*Paper_Space-4" />
+    <marker
+       style="overflow:visible"
+       refY="0"
+       refX="0"
+       orient="auto"
+       id="DistanceX-3">
+      <path
+         id="path4905"
+         style="stroke:#000000;stroke-width:0.5"
+         d="M 3,-3 -3,3 M 0,-5 V 5"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <pattern
+       y="0"
+       x="0"
+       width="8"
+       patternUnits="userSpaceOnUse"
+       id="Hatch-43"
+       height="8">
+      <path
+         id="path4908"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M8 4 l-4,4" />
+      <path
+         id="path4910"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M6 2 l-4,4" />
+      <path
+         id="path4912"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M4 0 l-4,4" />
+    </pattern>
+    <symbol
+       id="*Model_Space-9" />
+    <symbol
+       id="*Paper_Space-6" />
+    <marker
+       style="overflow:visible"
+       refY="0"
+       refX="0"
+       orient="auto"
+       id="DistanceX-0">
+      <path
+         id="path4768"
+         style="stroke:#000000;stroke-width:0.5"
+         d="M 3,-3 -3,3 M 0,-5 V 5"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <pattern
+       y="0"
+       x="0"
+       width="8"
+       patternUnits="userSpaceOnUse"
+       id="Hatch-5"
+       height="8">
+      <path
+         id="path4771"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M8 4 l-4,4" />
+      <path
+         id="path4773"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M6 2 l-4,4" />
+      <path
+         id="path4775"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M4 0 l-4,4" />
+    </pattern>
+    <symbol
+       id="*Model_Space-5" />
+    <symbol
+       id="*Paper_Space-2" />
+    <marker
+       style="overflow:visible"
+       refY="0"
+       refX="0"
+       orient="auto"
+       id="DistanceX-4">
+      <path
+         id="path4843"
+         style="stroke:#000000;stroke-width:0.5"
+         d="M 3,-3 -3,3 M 0,-5 V 5"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <pattern
+       y="0"
+       x="0"
+       width="8"
+       patternUnits="userSpaceOnUse"
+       id="Hatch-47"
+       height="8">
+      <path
+         id="path4846"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M8 4 l-4,4" />
+      <path
+         id="path4848"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M6 2 l-4,4" />
+      <path
+         id="path4850"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M4 0 l-4,4" />
+    </pattern>
+    <symbol
+       id="*Model_Space-6" />
+    <symbol
+       id="*Paper_Space-47" />
+    <marker
+       style="overflow:visible"
+       refY="0"
+       refX="0"
+       orient="auto"
+       id="DistanceX-5">
+      <path
+         id="path4934"
+         style="stroke:#000000;stroke-width:0.5"
+         d="M 3,-3 -3,3 M 0,-5 V 5"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <pattern
+       y="0"
+       x="0"
+       width="8"
+       patternUnits="userSpaceOnUse"
+       id="Hatch-8"
+       height="8">
+      <path
+         id="path4937"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M8 4 l-4,4" />
+      <path
+         id="path4939"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M6 2 l-4,4" />
+      <path
+         id="path4941"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M4 0 l-4,4" />
+    </pattern>
+    <symbol
+       id="*Model_Space-00" />
+    <symbol
+       id="*Paper_Space-7" />
+    <marker
+       style="overflow:visible"
+       refY="0"
+       refX="0"
+       orient="auto"
+       id="DistanceX-2">
+      <path
+         id="path5038"
+         style="stroke:#000000;stroke-width:0.5"
+         d="M 3,-3 -3,3 M 0,-5 V 5"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <pattern
+       y="0"
+       x="0"
+       width="8"
+       patternUnits="userSpaceOnUse"
+       id="Hatch-7"
+       height="8">
+      <path
+         id="path5041"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M8 4 l-4,4" />
+      <path
+         id="path5043"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M6 2 l-4,4" />
+      <path
+         id="path5045"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M4 0 l-4,4" />
+    </pattern>
+    <symbol
+       id="*Model_Space-1" />
+    <symbol
+       id="*Paper_Space-26" />
+    <marker
+       style="overflow:visible"
+       refY="0"
+       refX="0"
+       orient="auto"
+       id="DistanceX-16">
+      <path
+         id="path5764"
+         style="stroke:#000000;stroke-width:0.5"
+         d="M 3,-3 -3,3 M 0,-5 V 5"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <pattern
+       y="0"
+       x="0"
+       width="8"
+       patternUnits="userSpaceOnUse"
+       id="Hatch-45"
+       height="8">
+      <path
+         id="path5767"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M8 4 l-4,4" />
+      <path
+         id="path5769"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M6 2 l-4,4" />
+      <path
+         id="path5771"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M4 0 l-4,4" />
+    </pattern>
+    <symbol
+       id="*Model_Space-93" />
+    <symbol
+       id="*Paper_Space-73" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="orig symbol - 30px"
+     style="display:none"
+     transform="translate(0,96)"
+     sodipodi:insensitive="true">
+    <path
+       id="path4861"
+       style="display:inline;fill:#000000;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m -15,17 a 10,10 0 1 0 -20,0 10,10 0 1 0 20,0 z m -0.489435,-3.090174 a 3.4,3.4 0 0 1 -2.037415,4.23328 1.5637859,1.5637859 0 0 0 -0.755334,2.324682 3.4,3.4 0 0 1 -0.839963,4.622377 3.4,3.4 0 0 1 -4.655696,-0.62955 1.5637859,1.5637859 0 0 0 -2.444314,0 3.4,3.4 0 0 1 -4.655696,0.62955 3.4,3.4 0 0 1 -0.839963,-4.622377 1.5637859,1.5637859 0 0 0 -0.755334,-2.324682 3.4,3.4 0 0 1 -2.037415,-4.23328 3.4,3.4 0 0 1 4.13657,-2.227236 1.5637859,1.5637859 0 0 0 1.977491,-1.436741 A 3.4,3.4 0 0 1 -25,6.9999939 a 3.4,3.4 0 0 1 3.396504,3.2458551 1.5637859,1.5637859 0 0 0 1.977491,1.436741 3.4,3.4 0 0 1 4.13657,2.227236 z"
+       inkscape:connector-curvature="0"
+       inkscape:label="Great orig 30" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="32px"
+     style="display:none"
+     sodipodi:insensitive="true"
+     transform="translate(0,-64)">
+    <rect
+       transform="translate(0,160)"
+       style="display:inline;fill:none;stroke:none;stroke-width:1.70477259;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+       id="rect5206"
+       width="31"
+       height="31"
+       x="1"
+       y="0"
+       inkscape:label="rect31"
+       inkscape:export-filename="C:\Users\adam\github\boardball\images\logos\32px\symbol.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       transform="translate(0,160)"
+       y="0"
+       x="0"
+       height="32"
+       width="32"
+       id="rect5208"
+       style="display:inline;fill:none;stroke:none;stroke-width:1.75976527;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+       inkscape:label="rect32"
+       inkscape:export-filename="C:\Users\adam\github\boardball\images\logos\32px\symbol.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       transform="translate(0,160)"
+       inkscape:label="Great 31"
+       inkscape:connector-curvature="0"
+       d="m 26.8333,15.500003 a 10.3333,10.3333 0 1 0 -20.6666,0 10.3333,10.3333 0 1 0 20.6666,0 z m -0.505748,-3.193169 a 3.513322,3.513322 0 0 1 -2.105322,4.374375 1.6159069,1.6159069 0 0 0 -0.780509,2.402163 3.513322,3.513322 0 0 1 -0.867959,4.776441 3.513322,3.513322 0 0 1 -4.810871,-0.650533 1.6159069,1.6159069 0 0 0 -2.525782,0 3.513322,3.513322 0 0 1 -4.810871,0.650533 A 3.513322,3.513322 0 0 1 9.558279,19.083372 1.6159069,1.6159069 0 0 0 8.77777,16.681209 3.513322,3.513322 0 0 1 6.672448,12.306834 3.513322,3.513322 0 0 1 10.94689,10.005364 1.6159069,1.6159069 0 0 0 12.990291,8.520736 3.513322,3.513322 0 0 1 16.5,5.1666968 a 3.513322,3.513322 0 0 1 3.509709,3.3540392 1.6159069,1.6159069 0 0 0 2.043401,1.484628 3.513322,3.513322 0 0 1 4.274442,2.30147 z"
+       style="display:inline;fill:#000000;stroke:#000000;stroke-width:1.03332996;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;enable-background:new"
+       id="path5210"
+       inkscape:export-filename="C:\Users\adam\github\boardball\images\logos\32px\symbol.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+  <g
+     style="display:none"
+     inkscape:label="48px"
+     id="g5222"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true"
+     transform="translate(0,-64)">
+    <rect
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="C:\Users\adam\github\boardball\images\logos\48px\symbol.png"
+       inkscape:label="rect31"
+       y="144"
+       x="1"
+       height="47"
+       width="47"
+       id="rect5216"
+       style="display:inline;fill:none;stroke:none;stroke-width:2.58465528;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new" />
+    <rect
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="C:\Users\adam\github\boardball\images\logos\48px\symbol.png"
+       inkscape:label="rect32"
+       style="display:inline;fill:none;stroke:none;stroke-width:2.63964772;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+       id="rect5218"
+       width="48"
+       height="48"
+       x="0"
+       y="144" />
+    <path
+       inkscape:label="Great orig 30"
+       inkscape:connector-curvature="0"
+       d="m 40.5,167.5 a 16,16 0 1 0 -32,0 16,16 0 1 0 32,0 z m -0.783096,-4.94428 a 5.44,5.44 0 0 1 -3.259864,6.77325 2.5020574,2.5020574 0 0 0 -1.208534,3.71949 5.44,5.44 0 0 1 -1.343941,7.39581 5.44,5.44 0 0 1 -7.449114,-1.00728 2.5020574,2.5020574 0 0 0 -3.910902,0 5.44,5.44 0 0 1 -7.449114,1.00728 5.44,5.44 0 0 1 -1.343941,-7.39581 2.5020574,2.5020574 0 0 0 -1.208534,-3.71949 5.44,5.44 0 0 1 -3.259864,-6.77325 5.44,5.44 0 0 1 6.618512,-3.56357 2.5020574,2.5020574 0 0 0 3.163986,-2.29879 A 5.44,5.44 0 0 1 24.5,151.5 a 5.44,5.44 0 0 1 5.434406,5.19336 2.5020574,2.5020574 0 0 0 3.163986,2.29879 5.44,5.44 0 0 1 6.618512,3.56357 z"
+       style="display:inline;fill:#000000;stroke:#000000;stroke-width:1.60000002;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;enable-background:new"
+       id="path5224"
+       inkscape:export-filename="C:\Users\adam\github\boardball\images\logos\48px\symbol.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g5233"
+     inkscape:label="64px"
+     style="display:none"
+     transform="translate(0,-64)"
+     sodipodi:insensitive="true">
+    <rect
+       y="128"
+       x="0"
+       height="64"
+       width="64"
+       id="rect5229"
+       style="display:inline;fill:none;stroke:none;stroke-width:3.5195303;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+       inkscape:label="rect32"
+       inkscape:export-filename="C:\Users\adam\github\boardball\images\logos\64px\symbol.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:label="Great orig 30"
+       inkscape:connector-curvature="0"
+       d="m 53,160 a 21,21 0 1 0 -42,0 21,21 0 1 0 42,0 z m -1.027814,-6.48936 a 7.14,7.14 0 0 1 -4.278571,8.88989 3.2839504,3.2839504 0 0 0 -1.586201,4.88183 7.14,7.14 0 0 1 -1.763923,9.70699 7.14,7.14 0 0 1 -9.776961,-1.32206 3.2839504,3.2839504 0 0 0 -5.13306,0 7.14,7.14 0 0 1 -9.776961,1.32206 7.14,7.14 0 0 1 -1.763923,-9.70699 3.2839504,3.2839504 0 0 0 -1.586201,-4.88183 7.14,7.14 0 0 1 -4.278572,-8.88989 7.14,7.14 0 0 1 8.686798,-4.6772 3.2839504,3.2839504 0 0 0 4.152731,-3.01715 7.14,7.14 0 0 1 7.132658,-6.8163 7.14,7.14 0 0 1 7.132658,6.8163 3.2839504,3.2839504 0 0 0 4.152732,3.01715 7.14,7.14 0 0 1 8.686796,4.6772 z"
+       style="display:inline;fill:#000000;stroke:#000000;stroke-width:2.0999999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;enable-background:new"
+       id="path5235"
+       inkscape:export-filename="C:\Users\adam\github\boardball\images\logos\64px\symbol.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+  <g
+     transform="translate(0,-64)"
+     style="display:none"
+     inkscape:label="96px"
+     id="g5248"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
+    <rect
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="C:\Users\adam\github\boardball\images\logos\96px\symbol.png"
+       inkscape:label="rect32"
+       style="display:inline;fill:none;stroke:none;stroke-width:5.27929544;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+       id="rect5244"
+       width="96"
+       height="96"
+       x="0"
+       y="96" />
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="C:\Users\adam\github\boardball\images\logos\96px\symbol.png"
+       id="path5246"
+       style="display:inline;fill:#000000;stroke:#000000;stroke-width:3.14999986;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;enable-background:new"
+       d="m 79.5,144 a 31.5,31.5 0 1 0 -63,0 31.5,31.5 0 1 0 63,0 z m -1.541721,-9.73404 a 10.71,10.71 0 0 1 -6.417856,13.33484 4.9259256,4.9259256 0 0 0 -2.379302,7.32274 10.71,10.71 0 0 1 -2.645885,14.56049 10.71,10.71 0 0 1 -14.665441,-1.98309 4.9259256,4.9259256 0 0 0 -7.69959,0 10.71,10.71 0 0 1 -14.665441,1.98309 10.71,10.71 0 0 1 -2.645885,-14.56049 4.9259256,4.9259256 0 0 0 -2.379302,-7.32274 10.71,10.71 0 0 1 -6.417858,-13.33484 10.71,10.71 0 0 1 13.030198,-7.0158 4.9259256,4.9259256 0 0 0 6.229096,-4.52572 A 10.71,10.71 0 0 1 48,112.49999 a 10.71,10.71 0 0 1 10.698987,10.22445 4.9259256,4.9259256 0 0 0 6.229098,4.52572 10.71,10.71 0 0 1 13.030194,7.0158 z"
+       inkscape:connector-curvature="0"
+       inkscape:label="Great orig 30" />
+  </g>
+  <g
+     style="display:none"
+     inkscape:label="128px"
+     id="g5242"
+     inkscape:groupmode="layer"
+     transform="translate(0,-64)">
+    <rect
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="C:\Users\adam\github\boardball\images\logos\128px\symbol.png"
+       inkscape:label="rect32"
+       style="display:inline;fill:none;stroke:none;stroke-width:7.03906059;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+       id="rect5238"
+       width="128"
+       height="128"
+       x="0"
+       y="64" />
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="C:\Users\adam\github\boardball\images\logos\128px\symbol.png"
+       id="path5240"
+       style="display:inline;fill:#000000;stroke:#000000;stroke-width:4.19999981;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;enable-background:new"
+       d="m 106,127.00001 a 42,42 0 1 0 -84,0 42,42 0 1 0 84,0 z m -2.05563,-12.97872 a 14.28,14.28 0 0 1 -8.55714,17.77978 6.5679008,6.5679008 0 0 0 -3.172402,9.76366 14.28,14.28 0 0 1 -3.527846,19.41398 14.28,14.28 0 0 1 -19.553922,-2.64412 6.5679008,6.5679008 0 0 0 -10.26612,0 14.28,14.28 0 0 1 -19.553922,2.64412 14.28,14.28 0 0 1 -3.527846,-19.41398 6.5679008,6.5679008 0 0 0 -3.172402,-9.76366 14.28,14.28 0 0 1 -8.557144,-17.77978 14.28,14.28 0 0 1 17.373596,-9.3544 6.5679008,6.5679008 0 0 0 8.305462,-6.0343 A 14.28,14.28 0 0 1 64,84.99999 a 14.28,14.28 0 0 1 14.265316,13.6326 6.5679008,6.5679008 0 0 0 8.305464,6.0343 14.28,14.28 0 0 1 17.37359,9.3544 z"
+       inkscape:connector-curvature="0"
+       inkscape:label="Great orig 30" />
+  </g>
+</svg>

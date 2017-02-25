@@ -2,7 +2,7 @@
 
 ### premium/Root/root.svg
 
-Public domain taken from [openclipart.org] and is licensed under [CC0 1.0].
+Taken from [openclipart.org] and is public domain (licensed under [CC0 1.0]).
 
 ## stones
 

@@ -35,12 +35,12 @@ FOR %%s IN (31-0, 31-1, 31-2, 31-3, 31-4, 31-5, 31-6, 31-7, 31-8, 31-9, 31-10, 3
   convert temp\a!f_stone_num!.png %1\a_nums\%%n.png -compose Overlay -composite -define png:format=png32 temp\a!f_stone_num!.png
   convert temp\b!f_stone_num!.png %1\b_nums\%%n.png -compose Overlay -composite -define png:format=png32 temp\b!f_stone_num!.png
 
-  echo adding second number overlay...
+  echo adding second symbol overlay...
 
   convert temp\a!f_stone_num!.png %1\a_symbol.png -compose Overlay -composite -define png:format=png32 temp\a!f_stone_num!.png
   convert temp\b!f_stone_num!.png %1\b_symbol.png -compose Overlay -composite -define png:format=png32 temp\b!f_stone_num!.png
 
-  echo adding second symbol overlay...
+  echo adding second number overlay...
 
   convert temp\a!f_stone_num!.png %1\a_nums\%%n.png -compose Overlay -composite -define png:format=png32 temp\a!f_stone_num!.png
   convert temp\b!f_stone_num!.png %1\b_nums\%%n.png -compose Overlay -composite -define png:format=png32 temp\b!f_stone_num!.png

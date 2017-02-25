@@ -1,4 +1,4 @@
-Stone image and background of 196px are taken from [Sente Goban] and are property of [Senten Sàrl]. They are (hopefully) reused with permission. The owner reserves all rights. Do not reuse them without explicit permission by [Senten Sàrl].
+Stone image is taken from [Sente Goban] and are property of [Senten Sàrl]. They are (hopefully) reused with permission. The owner reserves all rights. Do not reuse it without explicit permission by [Senten Sàrl].
 
 #### Copyright
 
