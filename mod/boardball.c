@@ -26,8 +26,15 @@ int main(int argc, char *argv[])
   sprintf(prpath, "\"%s\\%s\"", dname, "boardball.bat");
 
   char* cmdline = GetCommandLine();
-  char* args = malloc(strlen(cmdline)-strlen(argv[0])-2);
-  sprintf(args, "%s", &cmdline[strlen(argv[0]) + 2]);
+  int argslen = strlen(cmdline)-strlen(argv[0])-2;
+  char* args = malloc(argslen);
+  if(argslen > 0){
+    sprintf(args, "%s", &cmdline[strlen(argv[0]) + 2]);
+  }
+  else
+  {
+    args = "";
+  };
 
   HINSTANCE hRet = ShellExecute(
         HWND_DESKTOP, //Parent window
