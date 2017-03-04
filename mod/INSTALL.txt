@@ -13,30 +13,13 @@ Installation
    that.
 3. The downloaded JNL file should be listed in the Downloads bar
    or menu of your Browser.
-
-   Depending on your configuration, when you click on the JNLP
-   file...
-
-   a) you might get asked what to do with that file in a dialog.
-      In this case, Java Web Start Launcher is probably the
-      candidate for opening the JNLP. You should be able to set
-      a different program for this and that is what you should
-      do. Browse and select Boardball.exe. You should have an
-      option to make it the default program which you probably
-      not want to do.
-
-   b) FFB client might get started automatically.
-      In this case, right click on the JNLP and select "Show in
-      Folder" or something like that. Windows Explorer should
-      open with the JNLP file selected. Right click on the file
-      and select "Open with" and then "Choose Deafalt
-      Program...". In the window, clikc on the Browse icon and
-      add Boardball.exe. You might want to deselect "Always use
-      the selected program to open this kind of file".
-
-
-
-   If Java starts immediately when you click on the JNLP file
-
-
-   you click on it, Java might get started automatically.
+4. Right click on the JNLP and select "Show in Folder" or
+   something like that. Windows Explorer should open with the
+   JNLP file selected.
+5. Right click on the file and select "Open with" and then
+   "Choose Deafalt Program...".
+6. In the window, click on the Browse icon and add
+   Boardball.exe. You might want to deselect "Always use the
+   selected program to open this kind of file".
+7. Done. Boardball will appear in the Open With list the next
+   time. Thus, points 5 and 6 shold be no repeated.
