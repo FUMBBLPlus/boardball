@@ -161,6 +161,8 @@ Stone sets are not progressing and the base set could be assembled in a common w
 [url=/p/messages?op=new&to=SzieberthAdam]Conact with the staff[/url] to get a set of stones. We are currently waiting for the official response about our request for a relief of the [url=/help:TeamNames]Naming Policy[/url] which means applicants have to wait a little.
 
 Once you have your stones you have to apply them to this league. Members of this league can apply to tournaments in the [url=https://fumbbl.com/p/group?op=view&group=10771]Boardball Tournaments[/url] group. That group kicks all members once a tournament starts which is the reason to requesting a separate application. We need our members listed somewhere to have our banner in the [url=https://fumbbl.com/p/groups]FUMBBL Groups[/url] page.
+
+Joined members are also invited to the Boardball Discord group.
 [/block]\
 
 [block=center][size=18]Tournament Format[/size][/block]\
@@ -413,22 +415,25 @@ Note that individual tournaments may have different client settings.
 [/table]\
 [/block]\
 
-[block=center][size=18]Design and UI[/size][/block]\
+[block=center][size=18]FFB Client Mod[/size][/block]\
 [block=automargin width=650px]\
 
-Full FFB client modding is underway:
+Boardball has its own FFB client mod. For best user experience it is advised to play and spectate Boardball games with that instead of the standard FFB client. Get it [url=https://github.com/FUMBBLPlus/boardball/releases/tag/mod]HERE[/url]. Currently it works on Windows only but it is planned to support Linux and OSX as well soon.
+
+Changes implemented:
+[ulist]\
+[li][url=/i/515588]Wooden board[/url].
+[li]Bloodspots removed.
+[/ulist]\
+Changes planned:
 
 [list=1]\
-[li]Custom [url=/i/515588]board[/url]. Done.
-[li]Remove bloodspots. Done.
-[li]Add a ball.
-[li]Replace prone and stun markers.
-[li]Replace sounds.
-[li]Replace dice.
-[li]Replace the rest of the images.
+[li]Custom ball.
+[li]Custom prone and stun markers.
+[li]Custom sounds.
+[li]Custom dice.
+[li]Customise the rest of the UI.
 [/list]\
-
-More info soon.
 [/block]\
 
 [block=center][size=18]Technical[/size][/block]\
@@ -441,7 +446,7 @@ Technically, special stones are star players in a [url=/p/race?id=1228]separate 
 Wishlist for FUMBBL in order of preference:
 
 [list=1]\
-[li]Official relief of the [url=/help:TeamNames]Naming Policy[/url].
+[li]Official relief of the [url=/help:TeamNames]Team Naming Policy[/url].
 [li]Hidden/private team options (skill assignment information).
 [li]Ruleset/Team Settings/Progression/Predetermined/Skills per Player: Ability to set limit for each round with a comma separated list like for Skills.
 [li]Ruleset/Team Settings/Progression/Predetermined/Skills: Ability to set up more skills than 9 from a single category.
@@ -452,6 +457,8 @@ Wishlist for FUMBBL in order of preference:
 [/list]\
 
 Source code of the group (bbcode, images, etc.) is at [url]https://github.com/FUMBBLPlus/boardball[/url].
+
+Modding is done by downloading FFB client JAR files, deleting hash check files thus removing validation, adding/replacing resources (images/sounds), editing config (INI) files. This is done by prepare.bat. To start the client, the proper java command has to get issued which is done by boardball.bat. The exe file is a mere launcher of boardball.bat. It looks nicer in the Open With context menu with the Boardball icon.
 [/block]\
 
 [block=center][size=18]License[/size][/block]\
