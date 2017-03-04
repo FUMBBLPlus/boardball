@@ -16,10 +16,32 @@ Installation
 4. Right click on the JNLP and select "Show in Folder" or
    something like that. Windows Explorer should open with the
    JNLP file selected.
-5. Right click on the file and select "Open with" and then
-   "Choose Deafalt Program...".
-6. In the window, click on the Browse icon and add
+5. Right click on the file and select "Open With" and if you see
+   a "Choose Deafalt Program..." or "Choose Another App"
+   subitem, then click on it as well.
+6. In the window, click on the Browse icon and open
    Boardball.exe. You might want to deselect "Always use the
    selected program to open this kind of file".
-7. Done. Boardball will appear in the Open With list the next
-   time. Thus, points 5 and 6 shold be no repeated.
+7. Click OK and done. Please wait patiently for the first time,
+   as the mod to downloads the FFB client files and does the
+   modifications.
+
+   Note that Boardball will appear in the Open With list the
+   next time. Thus, points 5-7 should be no repeated. Instead,
+   just click on Boardbold in the Open With context.
+
+
+Client Setup
+------------
+
+For the best user experience the following client settings are
+recommended:
+
+* User Settings -> Sound -> Sound off.
+  Sounds are to get modded later.
+* User Settings -> Icons -> Roster Icons (Both).
+* User Settings -> Pitch -> Pitch Customization
+    -> Use Default Pitch
+  Boardball board got hacked to replace the default pitch.
+* User Settings -> Pitch -> Pitch Weather
+    -> Change Pitch with Weather
