@@ -7,6 +7,9 @@ set root=%root:~0,-1%
 
 echo Setting up Boardball...
 
+echo   Downloading INSTALL.txt ...
+call "%root%\bin\w32\gnuwin32\wget" -O "%root%\README.txt" -q --no-check-certificate https://raw.githubusercontent.com/FUMBBLPlus/boardball/master/mod/README.txt 2> NUL
+
 for %%d IN (boardball, jar) do (
   if not exist "%root%\%%d" (
     echo   Creating %%d directory...

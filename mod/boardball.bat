@@ -10,6 +10,7 @@ endlocal
 call "%root%\ensure_java_home.bat"
 IF %ERRORLEVEL% NEQ 0 goto pause_before_end
 setlocal
+:java_home_set
 
 :parse_args
 set arg_n=0
