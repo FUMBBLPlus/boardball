@@ -1,13 +1,15 @@
 @echo off
-
+setlocal
 set root=%~dp0
 set root=%root:~0,-1%
 set args=%*
 
-if exist "%root%\jar\FantasyFootballClient.jar" goto parse_args
-
-:prepare
-call "%root%\prepare.bat"
+:ensure_java_home
+if not "%JAVA_HOME%" == "" goto java_home_set
+endlocal
+call "%root%\ensure_java_home.bat"
+IF %ERRORLEVEL% NEQ 0 goto pause_before_end
+setlocal
 
 :parse_args
 set arg_n=0
@@ -22,6 +24,11 @@ for /f "delims=" %%v in (%root%\args.txt) do (set "args=%%v")
 del %root%\args.txt
 
 :run_ffb_client
-java -noverify -cp "%root%/jar/FantasyFootballClient.jar;%root%/jar/*" com.balancedbytes.games.ffb.client.FantasyFootballClient %args%
+"%JAVA_HOME%\bin\java" -noverify -cp "%root%/jar/FantasyFootballClient.jar;%root%/jar/*" com.balancedbytes.games.ffb.client.FantasyFootballClient %args%
+goto end
+
+:pause_before_end
+pause
 
 :end
+endlocal

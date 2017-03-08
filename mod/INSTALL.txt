@@ -7,28 +7,28 @@ Installation
 
 1. Unpack the ZIP file content into a directory which is not the
    Program Files.
-2. On FUMBBL, click on a Play or Spectate link. A JNLP file gets
-   downloaded. If it starts automatically then you should right
-   click on the link and choose "Save Link as" or something like
-   that.
-3. The downloaded JNL file should be listed in the Downloads bar
+2. Run the setup.bat file.
+3. Click on a Play or Spectate link in FUMBBL. Either you will
+
+   a) be able to open the JNLP file with Boardball immediately
+   b) or you are able to save the file.
+
+   In case of (a), you are done.
+
+4. The downloaded JNL file should be listed in the Downloads bar
    or menu of your Browser.
-4. Right click on the JNLP and select "Show in Folder" or
+5. Right click on the JNLP and select "Show in Folder" or
    something like that. Windows Explorer should open with the
    JNLP file selected.
-5. Right click on the file and select "Open With" and if you see
-   a "Choose Deafalt Program..." or "Choose Another App"
-   subitem, then click on it as well.
-6. In the window, click on the Browse icon and open
-   Boardball.exe. You might want to deselect "Always use the
-   selected program to open this kind of file".
-7. Click OK and done. Please wait patiently for the first time,
-   as the mod to downloads the FFB client files and does the
-   modifications.
+6. Right click on the selected file and you should be able to
+   open it with Boardball by choosing "Open With" entry of the
+   context menu.
 
-   Note that Boardball will appear in the Open With list the
-   next time. Thus, points 5-7 should be no repeated. Instead,
-   just click on Boardbold in the Open With context.
+
+Update
+------
+
+
 
 
 Client Setup
