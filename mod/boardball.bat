@@ -6,10 +6,8 @@ set args=%*
 
 :ensure_java_home
 if not "%JAVA_HOME%" == "" goto java_home_set
-endlocal
 call "%root%\ensure_java_home.bat"
 IF %ERRORLEVEL% NEQ 0 goto pause_before_end
-setlocal
 :java_home_set
 
 :parse_args

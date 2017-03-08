@@ -35,14 +35,17 @@ int main(int argc, char *argv[])
   {
     args = "";
   };
-
+  /* Uncomment to debug:
+  MessageBox(HWND_DESKTOP,prpath,"",MB_OK);
+  MessageBox(HWND_DESKTOP,args,"",MB_OK);
+  */
   HINSTANCE hRet = ShellExecute(
         HWND_DESKTOP, //Parent window
         "open",       //Operation to perform
         prpath,       //Path to program
         args,         //Parameters
         NULL,         //Default directory
-        SW_HIDE);     //How to open
+        SW_HIDE);     //How to open; replace to SW_SHOW to debug
 
   /*
   The function returns a HINSTANCE (not really useful in this case)
