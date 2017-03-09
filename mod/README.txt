@@ -29,6 +29,9 @@ Installation
 7. Right click on the selected file and you should be able to open it with
    Boardball by choosing "Open With" entry of the context menu.
 
+Note that the common FFB client remains the default application/option to play
+and spectate.
+
 
 Update
 ------
