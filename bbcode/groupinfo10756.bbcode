@@ -42,7 +42,7 @@ For each game the player gets three Re-rolls and 100k gold for inducements which
 
 Only a single tournament is held at a time. Once it is done then the application period – usually a week or two – of the next tournament will be officially announced along with its format, deadline and other information. Players have to apply to each tournament separately like for the official FUMBBL tournaments. There is no obligation in participation or activity. More about the tournament format below.
 
-Stone sets are not progressing and the base set could be assembled in a common way only. Team options has to be filled up completely to get accepted into a tournament. The required amount of skills to get allocated depends of the expected number of rounds (skills = 14 × rounds) of the upcoming tournament. Creating a set is fast but allocating the skills is usually not. Once in a draw, it is worth to note the skills of the next opponent and decide about the special stones to be taken to the game.
+Stone sets are not progressing and the base set could be assembled in a common way only. Team options has to be filled up completely to get accepted into a tournament. The required amount of skills to get allocated depends of the expected maximum number of matches (skills = 14 × M) of the upcoming tournament. Creating a set is fast but allocating the skills is usually not. Once in a draw, it is worth to note the skills of the next opponent and decide about the special stones to be taken to the game.
 
 
 [block=center id=basestones][size=18]Base Stones[/size][/block]\
@@ -169,7 +169,7 @@ Stone sets are not progressing and the base set could be assembled in a common w
 [td][block=center][size=18]7[/size][/block][/td]\
 [td][block=center][size=18]1[/size][/block][/td]\
 [td][block=center][size=18]10[/size][/block][/td]\
-[td][size=12]Block, Mighty Blow, Stand Firm, Strong Arm, Thick Skull, Throw Team-Mate[/size][/td]\
+[td][size=12]Block, Mighty Blow, Stand Firm, Thick Skull[/size][/td]\
 [/tr]\
 \
 [/table]\
@@ -177,7 +177,7 @@ Stone sets are not progressing and the base set could be assembled in a common w
 
 [block=center id=joining][size=18]Joining[/size][/block]\
 
-[url=/p/messages?op=new&to=SzieberthAdam]Conact with the staff[/url] to get a set of stones. We are currently waiting for the official response about our request for a relief of the [url=/help:TeamNames]Naming Policy[/url] which means applicants have to wait a little.
+[url=/p/messages?op=new&to=SzieberthAdam]Conact with the staff[/url] to get a set of stones.
 
 Once you have your stones you have to apply them to this league. Members of this league can apply to tournaments in the [url=/p/group?op=view&group=10771]Boardball Tournaments[/url] group. That group kicks all members once a tournament starts which is the reason to requesting a separate application. We need our members listed somewhere to have our banner in the [url=https://fumbbl.com/p/groups]FUMBBL Groups[/url] page.
 
@@ -466,23 +466,13 @@ The [url=/p/race?id=1230]roster[/url] has each stone explicitely set with its ow
 
 Technically, special stones are star players in a [url=/p/race?id=1228]separate roster[/url]. A new roster gets cloned for each player which lets us to manage the player's individual special stones. Cloning is done with Python scripts which I refused to publish by Christer. The prices of special stones will be one of 25k, 50k, 75k, and 100k. The highest priced are designed to disallow a second special stone to get taken to the game.
 
-Wishlist for FUMBBL in order of preference:
-
-[list=1]\
-[li]Official relief of the [url=/help:TeamNames]Team Naming Policy[/url].
-[li]Hidden/private team options (skill assignment information).
-[li]Ruleset/Team Settings/Progression/Predetermined/Skills per Player: Ability to set limit for each round with a comma separated list like for Skills.
-[li]Ability to set up a default round value for open round-robin and open play.
-[li]Ruleset/Team Settings/Progression/Predetermined/Skills: Ability to set up more skills than 9 from a single category.
-[li]Ruleset or FFB client: Ability to turn off bloodspots. Preferably in the ruleset.
-[li]Ruleset/Client Options: Ability to set up [url=https://github.com/FUMBBLPlus/boardball/releases/download/pitch/boardball.zip]our own pitch[/url].
-[li]Roster;Position: Ability to assign images from gallery or use image with an explicit ID. Currently roster cloning pollutes my gallery with identical images. Another way would be to store each image only once along with its hash value and reference number. This would prevent duplicates and spare storage and admin work too.
-[li][url=/FUMBBL/Images/Pitches/basic.zip]Images/Pitches/Basic[/url]: Please remove th ugly weather indicators from the middle; there is really no need to show weather in two places parerelly.
-[/list]\
-
-Source code of the group (bbcode, images, etc.) is at [url]https://github.com/FUMBBLPlus/boardball[/url].
-
 Modding is done by downloading FFB client JAR files, deleting hash check files thus removing validation, adding/replacing resources (images/sounds), editing config (INI) files. This is done by prepare.bat. To start the client, the proper java command has to get issued which is done by boardball.bat. The exe file is a mere launcher of boardball.bat. It looks nicer in the Open With context menu with the Boardball icon.
+
+Technical links:
+[ulist]\
+[li][url=https://github.com/FUMBBLPlus/boardball]Source code and resources[/url].
+[li][url=/index.php?name=PNphpBB2&file=viewtopic&p=703047#703047]Feature requests[/url]
+[/ulist]\
 
 
 [block=center id=license][size=18]License[/size][/block]\

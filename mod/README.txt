@@ -1,9 +1,14 @@
-FFB Client Boardball Mod v1.0
+FFB Client Boardball Mod v2.0
 =============================
 
 
-Installation
+Requirements
 ------------
+Windows PC with JRE/JDK installed.
+
+
+Installation / Windows
+----------------------
 
 1. Download the ZIP file:
 
@@ -57,3 +62,19 @@ For the best user experience the following client settings are recommended:
   Boardball board got hacked to replace the default pitch.
 
 * User Settings -> Pitch -> Pitch Weather -> Change Pitch with Weather
+
+
+History
+-------
+v2.0
+More robust JAVA_HOME detection.
+
+v1.0
+Working version on two separate Windows 7 PCs (FFB v1.2.6)
+> Failed on a Windows 8.1 PC.
+
+v0.1
+Working version on author's PC (Windows 7/FFB v1.2.5)
+> Failed on another Windows 7 PC and also against FFB v1.2.6
+
+

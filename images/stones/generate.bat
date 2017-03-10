@@ -1,4 +1,5 @@
 @echo off
+setlocal enableextensions enabledelayedexpansion
 
 set arg_n=0
 for %%x in (%*) do set /A arg_n+=1
@@ -15,7 +16,6 @@ echo icon: %%n
 
 mkdir temp
 
-setlocal enableextensions enabledelayedexpansion
 set /a stone_num = 1
 
 FOR %%s IN (31-0, 31-1, 31-2, 31-3, 31-4, 31-5, 31-6, 31-7, 31-8, 31-9, 31-10, 31-11) DO (
@@ -80,11 +80,11 @@ rmdir /s /q temp
 echo done
 )
 
-endlocal
-goto eof
+goto end
 
 :usage
 echo Usage: generate.bat ^<icon_dir^>
-goto eof
+goto end
 
-:eof
+:end
+endlocal
