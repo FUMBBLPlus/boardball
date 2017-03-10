@@ -15,7 +15,6 @@ if not "%JAVA_EXE%" == "" goto java_exe_found
 set LOCAL_JAVA_VERSION=
 set LOCAL_JAVA_HOME=
 rem http://stackoverflow.com/questions/889518/windows-batch-files-how-to-set-a-variable-with-the-result-of-a-command
-rem reg query "HKLM\Software\Wow6432Node\JavaSoft\Java Runtime Environment" /v CurrentVersion 2>NUL | "%root%\bin\w32\gnuwin32\egrep.exe" -o "CurrentVersion.+" | "%root%\bin\w32\gnuwin32\sed.exe" "s/CurrentVersion\s\+REG_SZ\s\+\(.\+\)/\1/" > java_home.txt
 set key_names="HKLM\Software\JavaSoft\Java Runtime Environment", "HKLM\Software\Wow6432Node\JavaSoft\Java Runtime Environment", "HKLM\Software\JavaSoft\Java Development Kit", "HKLM\Software\Wow6432Node\JavaSoft\Java Development Kit"
 for %%k in (%key_names%) do (
   set key=%%k
