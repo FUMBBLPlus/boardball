@@ -18,22 +18,6 @@ Installation / Windows
 
 3. Run the setup.bat file.
 
-4. Click on a Play or Spectate link in FUMBBL. Either you will
-
-   a) be able to open the JNLP file with Boardball immediately
-   b) or you are able to save the file.
-
-   In case of (a), you are done.
-
-5. The downloaded JNL file should be listed in the Downloads bar or menu of your
-   Browser.
-
-6. Right click on the JNLP and select "Show in Folder" or something like that.
-   Windows Explorer should open with the JNLP file selected.
-
-7. Right click on the selected file and you should be able to open it with
-   Boardball by choosing "Open With" entry of the context menu.
-
 Note that the common FFB client remains the default application/option to play
 and spectate.
 
@@ -42,10 +26,32 @@ Update
 ------
 
 If first number of the version has been changed then you have to clear the
-installation directory and do steps from (1) to (3) of Installation.
+installation directory and do the installation.
 
 If only the second number of the version has been changed then you should re-run
-the setup.bat file and done.
+the setup script and done.
+
+
+Start
+-----
+
+1. Click on a Play or Spectate link in FUMBBL. Either you will
+
+   a) be able to open the JNLP file with Boardball immediately
+   b) or you are able to save the file.
+
+   In case of (a), you are done.
+
+2. The downloaded JNL file should be listed in the Downloads bar or menu of your
+   Browser.
+
+3. Right click on the JNLP and select "Show in Folder" or something like that.
+   Windows Explorer should open with the JNLP file selected.
+
+4. Right click on the selected file and you should be able to open it with
+   Boardball by choosing "Open With" entry of the context menu.
+
+Once started, please do the recommended Client Setup (below).
 
 
 Client Setup
