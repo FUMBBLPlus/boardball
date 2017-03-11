@@ -1,4 +1,4 @@
-FFB Client Boardball Mod v2.0
+FFB Client Boardball Mod v3.0
 =============================
 
 
@@ -72,6 +72,9 @@ For the best user experience the following client settings are recommended:
 
 History
 -------
+v3.0
+Even better JAVA.EXE detection.
+
 v2.0
 More robust JAVA_HOME detection.
 
