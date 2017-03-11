@@ -1,4 +1,5 @@
 @echo off
+rem https://sites.google.com/site/forthenerdwithin/cool-scripts/cool-command-scripts
 setlocal enableextensions enabledelayedexpansion
 set root=%~dp0
 rem remove trailing forthslash
@@ -8,12 +9,6 @@ echo Setting JAVA_HOME environment variable...
 echo   Checking existing JAVA_HOME environment variable...
 if not "%JAVA_HOME%" == "" endlocal & goto java_home_set
 
-echo   Attempting to get JAVA_HOME by searching for JAVA.EXE ...
-for %%i in (java.exe) do @set "JAVA_EXE=%%~$PATH:i"
-if not "%JAVA_EXE%" == "" goto java_exe_found
-
-set LOCAL_JAVA_VERSION=
-set LOCAL_JAVA_HOME=
 rem http://stackoverflow.com/questions/889518/windows-batch-files-how-to-set-a-variable-with-the-result-of-a-command
 set key_names="HKLM\Software\JavaSoft\Java Runtime Environment", "HKLM\Software\Wow6432Node\JavaSoft\Java Runtime Environment", "HKLM\Software\JavaSoft\Java Development Kit", "HKLM\Software\Wow6432Node\JavaSoft\Java Development Kit"
 for %%k in (%key_names%) do (

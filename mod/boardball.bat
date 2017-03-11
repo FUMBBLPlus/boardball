@@ -7,14 +7,31 @@ set args=%*
 :ensure_java_home
 if not "%JAVA_HOME%" == "" goto java_home_set
 call "%root%\ensure_java_home.bat"
-IF %ERRORLEVEL% NEQ 0 goto pause_before_end
+IF %ERRORLEVEL% NEQ 0 goto search_for_java_exe
 :java_home_set
+set "JAVA_EXE=%JAVA_HOME%\bin\java.exe"
+if not exist "%JAVA_EXE%" (
+ echo JAVA.EXE does not exist in %%JAVA_HOME%%\bin.
+ goto search_for_java_exe
+)
+goto java_exe_found
+
+:search_for_java_exe
+echo Searching for JAVA.EXE ...
+for %%i in (java.exe) do @set "JAVA_EXE=%%~$PATH:i"
+if "%JAVA_EXE%" == "" (
+  echo Error. Unable to locate JAVA.EXE.
+  exit /B 1
+  goto end
+)
+:java_exe_found
+echo JAVA.EXE found: %JAVA_EXE%
 
 :parse_args
 set arg_n=0
 for %%x in (%args%) do set /A arg_n+=1
 if not %arg_n% EQU 1 goto run_ffb_client
-if not exist %1 goto run_ffb_client
+if not exist %1 goto args_parsed
 
 :parse_jnlp_args
 rem TODO: escaping double quotes in team names by doubling them
@@ -22,12 +39,15 @@ rem TODO: escaping double quotes in team names by doubling them
 for /f "delims=" %%v in (%root%\args.txt) do (set "args=%%v")
 del %root%\args.txt
 
-:run_ffb_client
-"%JAVA_HOME%\bin\java" -noverify -cp "%root%/jar/FantasyFootballClient.jar;%root%/jar/*" com.balancedbytes.games.ffb.client.FantasyFootballClient %args%
-goto end
+:args_parsed
+echo FFB Client Arguments: %args%
 
-:pause_before_end
-pause
+:run_ffb_client
+echo Java ClassPath: "%root%/jar/FantasyFootballClient.jar;%root%/jar/*"
+set "main_class=com.balancedbytes.games.ffb.client.FantasyFootballClient"
+echo FFB Main Class: %main_class%
+"%JAVA_EXE%" -noverify -cp "%root%/jar/FantasyFootballClient.jar;%root%/jar/*" %main_class% %args%
+goto end
 
 :end
 endlocal
