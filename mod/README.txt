@@ -73,6 +73,7 @@ For the best user experience the following client settings are recommended:
 History
 -------
 v4.0
+Registry handling hopefully fixed.
 JAVA.EXE is searched in the $PATH$ first, then comes JAVA_HOME detection.
 
 v3.0
