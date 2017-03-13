@@ -1,4 +1,4 @@
-FFB Client Boardball Mod v3.0
+FFB Client Boardball Mod v4.0
 =============================
 
 
@@ -72,6 +72,9 @@ For the best user experience the following client settings are recommended:
 
 History
 -------
+v4.0
+JAVA.EXE is searched in the $PATH$ first, then comes JAVA_HOME detection.
+
 v3.0
 Even better JAVA.EXE detection.
 

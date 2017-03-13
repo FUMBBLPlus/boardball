@@ -39,7 +39,7 @@ for %%s IN (^
   ) DO (^
   echo   Downloading %%s ...
   rem http://stackoverflow.com/a/1459107/2334951
-  call "%root%\bin\w32\gnuwin32\wget" -O "%root%\jar\%%s" -q --no-check-certificate http://www.fumbbl.com/FFBClient/live/%%s 2> NUL
+  call "%root%\bin\w32\gnuwin32\wget" -O "%root%\jar\%%s" -q --no-check-certificate http://fumbbl.com/FFBClient/live/%%s 2> NUL
 )
 
 rem http://stackoverflow.com/questions/27751630/websocket-client-could-not-find-an-implementation-class/28026505#28026505

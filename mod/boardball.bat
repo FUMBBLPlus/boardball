@@ -4,28 +4,25 @@ set root=%~dp0
 set root=%root:~0,-1%
 set args=%*
 
-:ensure_java_home
-if not "%JAVA_HOME%" == "" goto java_home_set
-call "%root%\ensure_java_home.bat"
-IF %ERRORLEVEL% NEQ 0 goto search_for_java_exe
-:java_home_set
-set "JAVA_EXE=%JAVA_HOME%\bin\java.exe"
-if not exist "%JAVA_EXE%" (
- echo JAVA.EXE does not exist in %%JAVA_HOME%%\bin.
- goto search_for_java_exe
-)
-goto java_exe_found
-
 :search_for_java_exe
 echo Searching for JAVA.EXE ...
 for %%i in (java.exe) do @set "JAVA_EXE=%%~$PATH:i"
-if "%JAVA_EXE%" == "" (
+if "%JAVA_EXE%" == "" goto java_exe_by_java_home
+:java_exe_found
+echo JAVA.EXE found: %JAVA_EXE%
+goto parse_args
+
+:java_exe_by_java_home
+if not "%JAVA_HOME%" == "" goto java_home_set
+call "%root%\ensure_java_home.bat"
+:java_home_set
+set "JAVA_EXE=%JAVA_HOME%\bin\java.exe"
+if not exist "%JAVA_EXE%" (
   echo Error. Unable to locate JAVA.EXE.
   exit /B 1
   goto end
 )
-:java_exe_found
-echo JAVA.EXE found: %JAVA_EXE%
+goto java_exe_found
 
 :parse_args
 set arg_n=0
