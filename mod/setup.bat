@@ -7,9 +7,6 @@ set root=%root:~0,-1%
 
 echo Setting up Boardball...
 
-echo   Downloading README.txt ...
-call "%root%\bin\w32\gnuwin32\wget" -O "%root%\README.txt" -q --no-check-certificate https://raw.githubusercontent.com/FUMBBLPlus/boardball/master/mod/README.txt 2> NUL
-
 for %%d IN (boardball, jar) do (
   if not exist "%root%\%%d" (
     echo   Creating %%d directory...
@@ -21,6 +18,12 @@ for %%d IN (boardball, jar) do (
   )
   mkdir "%root%\%%d" 2> NUL
 )
+
+echo   Downloading README.txt ...
+call "%root%\bin\w32\gnuwin32\wget" -O "%root%\README.txt" -q --no-check-certificate https://raw.githubusercontent.com/FUMBBLPlus/boardball/master/mod/README.txt 2> NUL
+
+echo   Downloading client.ini ...
+call "%root%\bin\w32\gnuwin32\wget" -O "%root%\boardball\client.ini" -q --no-check-certificate https://raw.githubusercontent.com/FUMBBLPlus/boardball/master/mod/boardball/client.ini 2> NUL
 
 for %%s IN (^
   FantasyFootballClient.jar^
@@ -69,6 +72,19 @@ cd /D "%root%\boardball"
 call "%root%\bin\w32\7z\7za" a "%root%\jar\FantasyFootballClientResources.jar" "icons\empty.png" > NUL
 cd /D "%my_dir%"
 
+mkdir "%root%\boardball\sounds" > NUL
+for %%s IN (^
+  empty.wav^
+  ) DO (
+  echo   Downloading sound: %%s ...
+  call "%root%\bin\w32\gnuwin32\wget" -O  -O "%root%\boardball\sounds\%%s" -q --no-check-certificate https://raw.githubusercontent.com/FUMBBLPlus/boardball/master/sounds/%%s 2> NUL
+)
+
+echo   Adding sounds to FantasyFootballClientResources.jar ...
+cd /D "%root%\boardball"
+call "%root%\bin\w32\7z\7za" a "%root%\jar\FantasyFootballClientResources.jar" "sounds\*.*" > NUL
+cd /D "%my_dir%"
+
 echo   Downloading board...
 mkdir "%root%\boardball\icons\cached\pitches" 2> NUL
 call "%root%\bin\w32\gnuwin32\wget" -O "%root%\boardball\icons\cached\pitches\default.zip" -q --no-check-certificate https://github.com/FUMBBLPlus/boardball/releases/download/pitch/boardball.zip 2> NUL
@@ -78,42 +94,39 @@ cd /D "%root%\boardball"
 call "%root%\bin\w32\7z\7za" u "%root%\jar\FantasyFootballClientResources.jar" "icons\cached\pitches\default.zip" > NUL
 cd /D "%my_dir%"
 
-echo   Extracting client.ini from FantasyFootballClient.jar ...
-call "%root%\bin\w32\7z\7za" e -o"%root%\boardball" "%root%\jar\FantasyFootballClient.jar" "client.ini" > NUL
-
-echo   Removing bloodspots...
-call "%root%\bin\w32\gnuwin32\sed" "s/\(bloodspot.\+=\).\+/\1empty.png/" "%root%\boardball\client.ini" > "%root%\boardball\client.ini.bak"
-del "%root%\boardball\client.ini" > NUL
-ren "%root%\boardball\client.ini.bak" "client.ini" > NUL
-
-echo   Replacing modified client.ini in FantasyFootballClient.jar ...
+echo   Replacing client.ini in FantasyFootballClient.jar ...
 call "%root%\bin\w32\7z\7za" u "%root%\jar\FantasyFootballClient.jar" "%root%\boardball\client.ini" > NUL
-
 
 :setup_registry
 echo   Setting up registry...
 echo     Register Boardball as an Application...
 reg add "HKCU\Software\Classes\Applications\boardball.exe\shell\open\command" /ve /t REG_SZ /d "\"%root%\boardball.exe\" \"%%1\"" /f > NUL
 
+rem Check if boardball is already associated with JNLP files
 for /f "tokens=1* " %%a in ('reg query "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.jnlp\OpenWithList" ^| "%root%\bin\w32\gnuwin32\egrep.exe" -o ".+REG_SZ.+boardball.exe"') do @set jnlp_assoc=%%a
+if not "%jnlp_assoc%" == "" goto after_jnlp_assoc
+rem Get current MRUList
 for /f "delims=" %%a in ('reg query "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.jnlp\OpenWithList" /v MRUList 2^>NUL ^| "%root%\bin\w32\gnuwin32\sed.exe" "s/.\+MRUList\s\+REG_SZ\s\+\(\w\+\)/\1/"') do @set mrulist_unsorted=%%a
-rem sort MRUList
+rem Sort MRUList
 rem http://stackoverflow.com/a/28310893/2334951
 rem http://stackoverflow.com/a/25758360/2334951
 set "mrulist="
 for /f "delims=" %%a in ('echo %mrulist_unsorted% ^| "%root%\bin\w32\gnuwin32\grep.exe" -o . ^| "%root%\bin\w32\gnuwin32\sort.exe"') do @set "mrulist=!mrulist!%%a"
-if not "%jnlp_assoc%" == "" goto after_jnlp_assoc
 echo     Associate Boardball with JNLP files...
+rem Get last association character (a,b,c,...)
 for /f "tokens=1*" %%a in ('reg query "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.jnlp\OpenWithList" ^| "%root%\bin\w32\gnuwin32\egrep.exe" -o "[[:space:]]\w[[:space:]]+REG_SZ" ^| "%root%\bin\w32\gnuwin32\sort.exe" ^| "%root%\bin\w32\gnuwin32\tail.exe" -1') do @set last_jnlp_assoc_char=%%a
+rem If not found, that is an unexpected error
 if "%last_jnlp_assoc_char%" == "" goto jnlp_assoc_fail
-rem Get next alpha charater for Boardball
+rem Get next charater for boardball.exe
 for /f %%a in ('echo %last_jnlp_assoc_char% ^| "%root%\bin\w32\gnuwin32\tr.exe" "a-yA-Y" "b-zB-Z"') do set jnlp_assoc_char=%%a
+rem Append it to MRUList
 set "mrulist=%mrulist%%jnlp_assoc_char%"
+rem Add association key for boardball.exe and update MRUList
 reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.jnlp\OpenWithList" /v %jnlp_assoc_char% /t REG_SZ /d "boardball.exe" /f 1> NUL
 reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.jnlp\OpenWithList" /v MRUList /t REG_SZ /d %mrulist% /f 1> NUL
 goto after_jnlp_assoc
 :jnlp_assoc_fail
-echo Error. Unable to associate.
+echo Error. Unable to associate. Maybe Java is not installed.
 set /a errno=10
 :after_jnlp_assoc
 
