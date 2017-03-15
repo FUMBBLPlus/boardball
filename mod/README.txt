@@ -59,9 +59,6 @@ Client Setup
 
 For the best user experience the following client settings are recommended:
 
-* User Settings -> Sound -> Sound off.
-  Sounds are to get modded later.
-
 * User Settings -> Icons -> Roster Icons (Both).
 
 * User Settings -> Pitch -> Pitch Customization -> Use Default Pitch
@@ -75,6 +72,8 @@ History
 v4.0
 Registry handling hopefully fixed.
 JAVA.EXE is searched in the $PATH$ first, then comes JAVA_HOME detection.
+Sounds. Some of the events are yet silenced, and only /boo, /clap, and /laugh
+  audience sounds are added yet.
 
 v3.0
 Even better JAVA.EXE detection.
