@@ -74,10 +74,26 @@ cd /D "%my_dir%"
 
 mkdir "%root%\boardball\sounds" > NUL
 for %%s IN (^
+  bb_clap.ogg^
+  ,^
+  bb_cough.ogg^
+  ,^
+  bb_ding.ogg^
+  ,^
+  bb_ding-ding.ogg^
+  ,^
+  bb_double-stone-stone.ogg^
+  ,^
+  bb_double-stone-wood.ogg^
+  ,^
+  bb_laugh.ogg^
+  ,^
+  bb_stone-wood.ogg^
+  ,^
   empty.wav^
   ) DO (
   echo   Downloading sound: %%s ...
-  call "%root%\bin\w32\gnuwin32\wget" -O  -O "%root%\boardball\sounds\%%s" -q --no-check-certificate https://raw.githubusercontent.com/FUMBBLPlus/boardball/master/sounds/%%s 2> NUL
+  call "%root%\bin\w32\gnuwin32\wget" -O "%root%\boardball\sounds\%%s" -q --no-check-certificate https://raw.githubusercontent.com/FUMBBLPlus/boardball/master/sounds/%%s 2> NUL
 )
 
 echo   Adding sounds to FantasyFootballClientResources.jar ...

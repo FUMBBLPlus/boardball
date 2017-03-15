@@ -1,0 +1,81 @@
+bb_clap.ogg
+-------------------------------
+Derived from the sound sample recoded by Richard Frohlich
+(Texas Radio Theatre Company)
+
+Licensed under CC BY 3.0
+https://creativecommons.org/licenses/by/3.0/
+
+Source URL:
+https://www.freesound.org/s/69210/
+
+
+bb_cough.ogg
+------------------------------
+Recoded by Joe DeShon
+
+Licensed under CC BY 3.0
+https://creativecommons.org/licenses/by/3.0/
+
+Source URL:
+https://www.freesound.org/s/266019/
+
+
+bb_ding.ogg
+---------------
+Recoded by Aiwha
+http://www.aiwha-brickfilms.com/
+
+Licensed under CC BY 3.0
+https://creativecommons.org/licenses/by/3.0/
+
+Source URL:
+https://www.freesound.org/s/196106/
+
+
+bb_ding-ding.ogg
+-----------------------------------
+Public Domain
+
+Source URL:
+https://www.freesound.org/s/173932/
+
+
+bb_double-stone-stone.ogg
+----------------------
+Public Domain
+
+Source URL:
+https://www.freesound.org/s/249834/
+
+
+bb_double-stone-wood.ogg
+------------------------------------
+Public Domain
+
+Source URL:
+https://www.freesound.org/s/319228/
+
+
+bb_laugh.ogg
+------------------------
+Public Domain
+
+Source URL:
+https://www.freesound.org/s/44884/
+
+
+bb_stone-wood.ogg
+-----------------------------
+Public Domain
+
+Source URL:
+https://www.freesound.org/s/319227/
+
+
+empty.wav
+---------
+Unknown license
+
+Source URL:
+http://www.wc3c.net/showthread.php?t=103828
