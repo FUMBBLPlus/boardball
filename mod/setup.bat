@@ -74,6 +74,8 @@ cd /D "%my_dir%"
 
 mkdir "%root%\boardball\sounds" > NUL
 for %%s IN (^
+  bb_bounce-stone-stone.ogg^
+  ,^
   bb_clap.ogg^
   ,^
   bb_cough.ogg^
@@ -89,6 +91,8 @@ for %%s IN (^
   bb_laugh.ogg^
   ,^
   bb_stone-wood.ogg^
+  ,^
+  bb_stone-stone.ogg^
   ,^
   empty.wav^
   ) DO (

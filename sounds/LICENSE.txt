@@ -1,3 +1,11 @@
+bb_bounce-stone-stone.ogg
+-------------------------
+Public Domain
+
+Source URL:
+https://www.freesound.org/s/179360/
+
+
 bb_clap.ogg
 -------------------------------
 Derived from the sound sample recoded by Richard Frohlich
@@ -71,6 +79,14 @@ Public Domain
 
 Source URL:
 https://www.freesound.org/s/319227/
+
+
+bb_stone-stone.ogg
+-----------------------------
+Public Domain
+
+Source URL:
+https://www.freesound.org/s/179360/
 
 
 empty.wav
