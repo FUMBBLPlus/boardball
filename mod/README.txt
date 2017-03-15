@@ -2,8 +2,8 @@ FFB Client Boardball Mod v4.0
 =============================
 
 
-Requirements
-------------
+System Requirements
+-------------------
 Windows PC with JRE/JDK installed.
 
 
@@ -42,7 +42,7 @@ Start
 
    In case of (a), you are done.
 
-2. The downloaded JNL file should be listed in the Downloads bar or menu of your
+2. The downloaded JNLP file should be listed in the Downloads bar or menu of your
    Browser.
 
 3. Right click on the JNLP and select "Show in Folder" or something like that.
