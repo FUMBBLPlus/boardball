@@ -1,4 +1,5 @@
 @echo off
+setlocal
 
 set arg_n=0
 for %%x in (%*) do set /A arg_n+=1
@@ -27,3 +28,4 @@ echo Usage: glow.bat ^<target^> ^<background^> ^<destination^>
 goto eof
 
 :eof
+endlocal
