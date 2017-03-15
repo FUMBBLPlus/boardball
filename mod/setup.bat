@@ -88,11 +88,11 @@ for %%s IN (^
   ,^
   bb_double-stone-wood.ogg^
   ,^
+  bb_drop-stone-stone.ogg^
+  ,^
   bb_laugh.ogg^
   ,^
   bb_stone-wood.ogg^
-  ,^
-  bb_stone-stone.ogg^
   ,^
   empty.wav^
   ) DO (
