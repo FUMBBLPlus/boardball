@@ -1,1 +1,1 @@
-The aim of boardball is to step towards classic boardgames such as chess and go. It has a balanced environment with much freedom for players to build unique sets and to react their opponents'.
+The aim of luckboard is to step towards classic boardgames such as chess and go. It has a balanced environment with much freedom for players to build unique sets and to react their opponents'.

@@ -1,3 +1,3 @@
 @echo off
-windres boardball.rc -O coff -o boardball.res
-gcc -o boardball.exe boardball.c boardball.res
+windres luckboard.rc -O coff -o luckboard.res
+gcc -o luckboard.exe luckboard.c luckboard.res
