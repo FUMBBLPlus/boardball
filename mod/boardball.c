@@ -1,9 +1,9 @@
 /*
-This is the source code of the Luckboard EXE loader.
-The only purpose of the EXE is to have the nice Luckboard icon
+This is the source code of the Boardball EXE loader.
+The only purpose of the EXE is to have the nice Boardball icon
 when used with Windows Context Menu's Open with.
 
-Basically all it does is to call luckboard.bat in the same
+Basically all it does is to call boardball.bat in the same
 directory with all arguments passed to it.
 
 This is my first C program so it may be even more compact.
@@ -22,8 +22,8 @@ int main(int argc, char *argv[])
   GetModuleFileName(NULL, buff, 4096);
   char* dname = dirname(buff);
 
-  char* prpath = malloc(snprintf(NULL, 0, "%s\\%s", dname, "luckboard.bat") + 1);
-  sprintf(prpath, "\"%s\\%s\"", dname, "luckboard.bat");
+  char* prpath = malloc(snprintf(NULL, 0, "%s\\%s", dname, "boardball.bat") + 1);
+  sprintf(prpath, "\"%s\\%s\"", dname, "boardball.bat");
 
   char* cmdline = GetCommandLine();
   int argslen = strlen(cmdline)-strlen(argv[0])-2;

@@ -1,4 +1,4 @@
-FFB Client Luckboard Mod v4.0
+FFB Client Boardball Mod v4.0
 =============================
 
 
@@ -12,7 +12,7 @@ Installation / Windows
 
 1. Download the ZIP file:
 
-   https://github.com/FUMBBLPlus/luckboard/releases/download/mod/luckboard.zip
+   https://github.com/FUMBBLPlus/boardball/releases/download/mod/boardball.zip
 
 2. Unpack the ZIP file content into a directory which is not the Program Files.
 
@@ -37,7 +37,7 @@ Start
 
 1. Click on a Play or Spectate link in FUMBBL. Either you will
 
-   a) be able to open the JNLP file with Luckboard immediately
+   a) be able to open the JNLP file with Boardball immediately
    b) or you are able to save the file.
 
    In case of (a), you are done.
@@ -49,7 +49,7 @@ Start
    Windows Explorer should open with the JNLP file selected.
 
 4. Right click on the selected file and you should be able to open it with
-   Luckboard by choosing "Open With" entry of the context menu.
+   Boardball by choosing "Open With" entry of the context menu.
 
 Once started, please do the recommended Client Setup (below).
 
@@ -62,7 +62,7 @@ For the best user experience the following client settings are recommended:
 * User Settings -> Icons -> Roster Icons (Both).
 
 * User Settings -> Pitch -> Pitch Customization -> Use Default Pitch
-  Luckboard board got hacked to replace the default pitch.
+  Boardball board got hacked to replace the default pitch.
 
 * User Settings -> Pitch -> Pitch Weather -> Change Pitch with Weather
 
