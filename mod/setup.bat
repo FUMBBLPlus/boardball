@@ -7,116 +7,6 @@ set root=%root:~0,-1%
 
 echo Setting up Boardball...
 
-for %%d IN (boardball, jar) do (
-  if not exist "%root%\%%d" (
-    echo   Creating %%d directory...
-  )
-  if exist "%root%\%%d" (
-    echo   Clearing %%d directory...
-    rem http://superuser.com/questions/179660/how-to-recursively-delete-directory-from-command-line-in-windows
-    rmdir "%root%\%%d" /s /q 2> NUL
-  )
-  mkdir "%root%\%%d" 2> NUL
-)
-
-echo   Downloading README.txt ...
-call "%root%\bin\w32\gnuwin32\wget" -O "%root%\README.txt" -q --no-check-certificate https://raw.githubusercontent.com/FUMBBLPlus/boardball/master/mod/README.txt 2> NUL
-
-echo   Downloading client.ini ...
-call "%root%\bin\w32\gnuwin32\wget" -O "%root%\boardball\client.ini" -q --no-check-certificate https://raw.githubusercontent.com/FUMBBLPlus/boardball/master/mod/boardball/client.ini 2> NUL
-
-for %%s IN (^
-  FantasyFootballClient.jar^
-  ,^
-  FantasyFootballClientResources.jar^
-  ,^
-  org.osgi.core-4.3.0.jar^
-  ,^
-  jorbis-0.0.17.jar^
-  ,^
-  tinysound-1.1.1.jar^
-  ,^
-  tritonus_share.jar^
-  ,^
-  vorbisspi1.0.3.jar^
-  ) DO (
-  echo   Downloading %%s ...
-  rem http://stackoverflow.com/a/1459107/2334951
-  call "%root%\bin\w32\gnuwin32\wget" -O "%root%\jar\%%s" -q --no-check-certificate http://fumbbl.com/FFBClient/live/%%s 2> NUL
-)
-
-rem http://stackoverflow.com/questions/27751630/websocket-client-could-not-find-an-implementation-class/28026505#28026505
-echo   Downloading tyrus-standalone-client-1.9.jar ...
-call "%root%\bin\w32\gnuwin32\wget" -O "%root%\jar\tyrus-standalone-client-1.9.jar" -q --no-check-certificate http://repo1.maven.org/maven2/org/glassfish/tyrus/bundles/tyrus-standalone-client/1.9/tyrus-standalone-client-1.9.jar 2> NUL
-
-for %%s in (^
-  FantasyFootballClient.jar^
-  ,^
-  FantasyFootballClientResources.jar^
-  ) DO (
-  call "%root%\bin\w32\7z\7za" l -ba -slt "%root%\jar\%%s" "META-INF\*" > "%root%\META-INF.lst.txt"
-  rem http://stackoverflow.com/a/11225757/2334951
-  for %%t in ("%root%\META-INF.lst.txt") do if not %%~zt lss 1 (
-    echo   Clearing META-INF of %%s ...
-    call "%root%\bin\w32\7z\7za" d "%root%\jar\%%s" "META-INF\*" > NUL
-  )
-  del "%root%\META-INF.lst.txt" > NUL
-)
-
-echo   Downloading empty image...
-mkdir "%root%\boardball\icons" > NUL
-call "%root%\bin\w32\gnuwin32\wget" -O "%root%\boardball\icons\empty.png" -q --no-check-certificate https://raw.githubusercontent.com/FUMBBLPlus/boardball/master/images/empty.png 2> NUL
-
-echo   Adding empty image to FantasyFootballClientResources.jar ...
-cd /D "%root%\boardball"
-call "%root%\bin\w32\7z\7za" a "%root%\jar\FantasyFootballClientResources.jar" "icons\empty.png" > NUL
-cd /D "%my_dir%"
-
-mkdir "%root%\boardball\sounds" > NUL
-for %%s IN (^
-  bb_bounce-stone-stone.ogg^
-  ,^
-  bb_clap.ogg^
-  ,^
-  bb_cough.ogg^
-  ,^
-  bb_ding.ogg^
-  ,^
-  bb_ding-ding.ogg^
-  ,^
-  bb_double-stone-stone.ogg^
-  ,^
-  bb_double-stone-wood.ogg^
-  ,^
-  bb_drop-stone-stone.ogg^
-  ,^
-  bb_laugh.ogg^
-  ,^
-  bb_stone-wood.ogg^
-  ,^
-  empty.wav^
-  ) DO (
-  echo   Downloading sound: %%s ...
-  call "%root%\bin\w32\gnuwin32\wget" -O "%root%\boardball\sounds\%%s" -q --no-check-certificate https://raw.githubusercontent.com/FUMBBLPlus/boardball/master/sounds/%%s 2> NUL
-)
-
-echo   Adding sounds to FantasyFootballClientResources.jar ...
-cd /D "%root%\boardball"
-call "%root%\bin\w32\7z\7za" a "%root%\jar\FantasyFootballClientResources.jar" "sounds\*.*" > NUL
-cd /D "%my_dir%"
-
-echo   Downloading board...
-mkdir "%root%\boardball\icons\cached\pitches" 2> NUL
-call "%root%\bin\w32\gnuwin32\wget" -O "%root%\boardball\icons\cached\pitches\default.zip" -q --no-check-certificate https://github.com/FUMBBLPlus/boardball/releases/download/pitch/boardball.zip 2> NUL
-
-echo   Replacing board in FantasyFootballClientResources.jar ...
-cd /D "%root%\boardball"
-call "%root%\bin\w32\7z\7za" u "%root%\jar\FantasyFootballClientResources.jar" "icons\cached\pitches\default.zip" > NUL
-cd /D "%my_dir%"
-
-echo   Replacing client.ini in FantasyFootballClient.jar ...
-call "%root%\bin\w32\7z\7za" u "%root%\jar\FantasyFootballClient.jar" "%root%\boardball\client.ini" > NUL
-
 :setup_registry
 echo   Setting up registry...
 echo     Register Boardball as an Application...
@@ -146,7 +36,8 @@ reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.jnlp\
 reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.jnlp\OpenWithList" /v MRUList /t REG_SZ /d %mrulist% /f 1> NUL
 goto after_jnlp_assoc
 :jnlp_assoc_fail
-echo Error. Unable to associate. Maybe Java is not installed.
+echo Error. Unable to associate. Java might not have been installed.
+echo Otherwise, open JNLP file with boardball.exe manually.
 set /a errno=10
 :after_jnlp_assoc
 

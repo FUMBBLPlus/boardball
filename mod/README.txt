@@ -1,5 +1,5 @@
-FFB Client Boardball Mod v4.0
-=============================
+FFB Client Boardball Mod v1.1.0
+===============================
 
 
 System Requirements
@@ -7,29 +7,41 @@ System Requirements
 Windows PC with JRE/JDK installed.
 
 
-Installation / Windows
-----------------------
+Installation
+------------
 
 1. Download the ZIP file:
 
    https://github.com/FUMBBLPlus/boardball/releases/download/mod/boardball.zip
 
-2. Unpack the ZIP file content into a directory which is not the Program Files.
+2. Unpack the ZIP file content into a directory.
 
 3. Run the setup.bat file.
+
+   If errors were reported then you have to associate boardball.exe with JNLP
+   files manually. At (4) of the Start process (see below) you will not find
+   boardball.exe in the context menu, but there should be an option to add it,
+   either by clicking on Open With or Open With > Choose default program and
+   then by clicking on the Browse button.
 
 Note that the common FFB client remains the default application/option to play
 and spectate.
 
 
+Uninstallation
+--------------
+Start both of the REG files in the troubleshoot folder.
+
+
 Update
 ------
 
-If first number of the version has been changed then you have to clear the
-installation directory and do the installation.
+If you intend to keep new files in place of the old ones, update is done by
+downloading the new ZIP file and unpacking and overwriting all the previous
+ones.
 
-If only the second number of the version has been changed then you should re-run
-the setup script and done.
+If you intend to keep new files in a different location then uninstall
+boardball and do a new installation.
 
 
 Start
@@ -65,28 +77,3 @@ For the best user experience the following client settings are recommended:
   Boardball board got hacked to replace the default pitch.
 
 * User Settings -> Pitch -> Pitch Weather -> Change Pitch with Weather
-
-
-History
--------
-v4.0
-Registry handling hopefully fixed.
-JAVA.EXE is searched in the $PATH$ first, then comes JAVA_HOME detection.
-Sounds. Some of the events are yet silenced, and only /boo, /clap, and /laugh
-  audience sounds are added yet.
-
-v3.0
-Even better JAVA.EXE detection.
-
-v2.0
-More robust JAVA_HOME detection.
-
-v1.0
-Working version on two separate Windows 7 PCs (FFB v1.2.6)
-> Failed on a Windows 8.1 PC.
-
-v0.1
-Working version on author's PC (Windows 7/FFB v1.2.5)
-> Failed on another Windows 7 PC and also against FFB v1.2.6
-
-
