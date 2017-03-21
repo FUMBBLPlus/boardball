@@ -1,0 +1,3812 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: /BZBFQOvu89/zbbWWSqlU/kxeftKg
+ sMD0zqarNfVGQU=
+SHA-256-Digest-Manifest: HI0Xhhx8IVERTVl8VzS97cFd5pI/bso6naKsG6Tgh6k=
+Created-By: 1.8.0_111 (Oracle Corporation)
+
+Name: com/balancedbytes/games/ffb/client/ui/GameMenuBar$MenuPlayerMous
+ eListener.class
+SHA-256-Digest: JOoIob6z9hraBZoaMtiMgPLGe/KZXkwlC4esGJMFLhA=
+
+Name: javax/websocket/server/ServerApplicationConfig.class
+SHA-256-Digest: LBYGuiAsT6U0PLTEoIWwvvR32ToKPpnkbU1EK/5nXOk=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogKeyBindings.clas
+ s
+SHA-256-Digest: swTP4yGFaYhd5TMXPSFMP1HYJKOk62W98heCLXz3kUg=
+
+Name: com/balancedbytes/games/ffb/dialog/DialogJoinParameter.class
+SHA-256-Digest: kXBInCMUjbdzEscQvES/mJXbbuN1veQJd5pDXKhCYE8=
+
+Name: com/balancedbytes/games/ffb/util/UtilDisturbingPresence.class
+SHA-256-Digest: rjt7fmvuOidygdoFoKDknxZY+MktCGORM08N/evazc4=
+
+Name: com/eclipsesource/json/JsonObject.class
+SHA-256-Digest: EYiSTWhGxhmKiYs/UMwZoK94EA1xSuuqP8T6NqrO6SE=
+
+Name: com/balancedbytes/games/ffb/dialog/DialogBuyCardsParameter.class
+SHA-256-Digest: 83NVAgfnzkxUe9KuLoHM8BUaP7VoOcTIjfjJnopFKyA=
+
+Name: com/balancedbytes/games/ffb/KnockoutRecovery.class
+SHA-256-Digest: MihaFhmKkYVn2RLYkxmlJzVpuFzHFif6JGcU07C7ypI=
+
+Name: com/balancedbytes/games/ffb/net/commands/ClientCommandThrowTeamM
+ ate.class
+SHA-256-Digest: Sr6fZVCvwGox0LFZ2t5LbYb0HAEiylJRo5wCEVTbwuo=
+
+Name: org/glassfish/tyrus/core/uri/internal/UriTemplate$1.class
+SHA-256-Digest: 2lUtWUnuiT71pcYuiT5H88j70EJrs+upkdvYI7m/Pro=
+
+Name: com/balancedbytes/games/ffb/client/ui/GameMenuBar.class
+SHA-256-Digest: vQ+KBiPPMzpnz5kqn0/3DhCKB5Uu47Fuet97xpcuhjY=
+
+Name: org/glassfish/tyrus/container/jdk/client/JdkClientContainer.clas
+ s
+SHA-256-Digest: tGxywQdjXJw3llChtQg6DLX2mj9S84oDZLqggutb8G0=
+
+Name: com/balancedbytes/games/ffb/Card$1.class
+SHA-256-Digest: 8MMzMAdENemUG5/HBBj9qq50ZdZZ2TKjD9/lcbt0rfg=
+
+Name: org/glassfish/tyrus/core/Handshake$2.class
+SHA-256-Digest: KAFVB/gBiRns1GWSESkjPy0Ycq1WMW+lZEfPjMJgrY0=
+
+Name: org/glassfish/tyrus/client/auth/AuthConfig.class
+SHA-256-Digest: IaJi8cb0/oXcQsM48XfaOYrTUqroJw3dbVc9X57Lix4=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogArgueTheCall.cla
+ ss
+SHA-256-Digest: W/MQ/1+PR5GJD41niI5svASyhCPLKo2Y0S6TWxOZh7U=
+
+Name: com/balancedbytes/games/ffb/PlayerType.class
+SHA-256-Digest: LvCLNzDSv7ZfQKIOa4KXMa0kiCnErF2l36PIevoxLxk=
+
+Name: com/balancedbytes/games/ffb/json/IJsonSerializable.class
+SHA-256-Digest: YvNLzkC2dbJJU2tFvEJ1lnLHf+WgszmCwa4yWW4AQo0=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogSkillUseHandler.
+ class
+SHA-256-Digest: xcUpWBtza/SLPYzfvwndZYgsluZQSX7xcdAYplDzBzQ=
+
+Name: org/glassfish/tyrus/core/cluster/BroadcastListener.class
+SHA-256-Digest: xJJI0dL1UQJgcqH/9L3TF5BMMLcSoubp6RTmEbFU3AQ=
+
+Name: com/balancedbytes/games/ffb/net/commands/ClientCommandPass.class
+SHA-256-Digest: Yp6OAWfJTUtd2jRhZFlYZTS6kZCY4mAznkS/yRvs5M8=
+
+Name: org/glassfish/tyrus/core/uri/internal/PathTemplate.class
+SHA-256-Digest: EIHjA9fFXCEu+2648c51aAqXzXBfp8W5a9cY1uTWV3k=
+
+Name: com/balancedbytes/games/ffb/InjuryAttribute.class
+SHA-256-Digest: +wnd5wMZ0B2HYsEe9eTddW1RZ/k77Xst0JK0daslEEY=
+
+Name: com/balancedbytes/games/ffb/TeamSetup.class
+SHA-256-Digest: 3Qy1ctLHcl9aROih2oBEcTLW46c75hXbe04XUix4ldU=
+
+Name: com/balancedbytes/games/ffb/json/JsonStringArrayOption.class
+SHA-256-Digest: OLENWui6rEYL5lTOhEbhdAADOcsDR5ct/5Gfy7FTUKk=
+
+Name: com/balancedbytes/games/ffb/ArmorModifierFactory.class
+SHA-256-Digest: oy2JlJw0XH6IUwoh+DwxlODnuB573S8IUfa7d7C7IJw=
+
+Name: com/eclipsesource/json/ParseException.class
+SHA-256-Digest: hDEqmm6Yvxh/9R3OPt93Azk4UP6ZOt5bYOnsc99SQr4=
+
+Name: javax/websocket/HandshakeResponse.class
+SHA-256-Digest: szMQntJVrb1KOOMEenurgR7QVtoDprVDin/i7fn4VmY=
+
+Name: org/glassfish/tyrus/container/jdk/client/SslFilter$WriteQueue.cl
+ ass
+SHA-256-Digest: NbbCDA4KyYo53S3DHcfvOsLU+eov8DDCJP5O0iKHPok=
+
+Name: com/balancedbytes/games/ffb/client/util/UtilClientActionKeys$1.c
+ lass
+SHA-256-Digest: Ll63fNdkqEcGfKdTa4X/Wa3aT489ksEiFWpZH9uMw5k=
+
+Name: com/balancedbytes/games/ffb/client/layer/FieldLayerMarker.class
+SHA-256-Digest: jekrnuVRlp9yOeVMCmjBSYvWKKlBW9UzyUpTiAP21XU=
+
+Name: com/balancedbytes/games/ffb/report/ReportCardDeactivated.class
+SHA-256-Digest: 6w84uzbxiS/W1m0l3ywUBme7MVCiXs3tQZMgc8BqMWs=
+
+Name: com/eclipsesource/json/JsonValue.class
+SHA-256-Digest: OUFt/mya6rHszLtVZc0GfoHW5tHrgKVwT+hnwEWewyw=
+
+Name: org/glassfish/tyrus/core/ProtocolHandler$SendingFragmentState.cl
+ ass
+SHA-256-Digest: 71rewJRWIZqO6dk7h9U8fzQxNrvnWcF7lhyoM7c91fs=
+
+Name: com/balancedbytes/games/ffb/net/ServerStatus.class
+SHA-256-Digest: o00hwoJRlHUk53X+kxLrpkfjXK0Iq80V/tK9l6/kzBg=
+
+Name: com/balancedbytes/games/ffb/dialog/DialogStartGameParameter.clas
+ s
+SHA-256-Digest: 5QPy2X+2CKH7bK4y4cqgT1oyu41mNN7tog3Ebs4l314=
+
+Name: com/balancedbytes/games/ffb/net/commands/ClientCommandTimeoutPos
+ sible.class
+SHA-256-Digest: WzvlklIAOfjQ0LKVCgJxJ30adz6w8oMQZsDRixVRAkU=
+
+Name: org/glassfish/tyrus/client/auth/DigestAuthenticator.class
+SHA-256-Digest: TeIEODDPrJI89hk9+KlzivUzBeNN1ceeBoyqwi4knLs=
+
+Name: org/glassfish/tyrus/core/uri/internal/UriTemplate.class
+SHA-256-Digest: 6xG0J9b13kfm7MExdasqVuMM6Smy00dW2AvBXDcQDi0=
+
+Name: com/balancedbytes/games/ffb/client/state/ClientStateBlock$1.clas
+ s
+SHA-256-Digest: 3dfWMBaCDPkjWzfCU8RMoKG4g0xQ1rEJS6dhseAd7Fg=
+
+Name: org/glassfish/tyrus/container/jdk/client/ClientFilter$5.class
+SHA-256-Digest: Cv11hzi/3HCjylIEzPD2QBTH9H6YRG3AuiiJ+rwEjpY=
+
+Name: org/glassfish/tyrus/core/TyrusUpgradeResponse.class
+SHA-256-Digest: QWJ8z3obtobwPMIAeLNSFO50BI6rMvwtnIwcK+UpL10=
+
+Name: org/glassfish/tyrus/core/coder/PrimitiveDecoders$CharacterDecode
+ r.class
+SHA-256-Digest: 4w87wLiD2Yeg6Og9HZ/ANIn8TYMnArZHA5xQ6Lra70M=
+
+Name: com/balancedbytes/games/ffb/client/state/ClientStateBomb.class
+SHA-256-Digest: KmOlMfM/gljnOic0dCtgP8wAbpY9t4eQREsrCL2Ox8Y=
+
+Name: com/balancedbytes/games/ffb/report/ReportMostValuablePlayers.cla
+ ss
+SHA-256-Digest: 6sMtyLOlsFcXM8dt+zQNRVkC7gmfxEUdEPv4QTuJDGU=
+
+Name: org/glassfish/tyrus/spi/ServerContainerFactory.class
+SHA-256-Digest: MbuPppdObkgvXSbuQnZXtjHTXiWqGOx1kL6S/LTxs8w=
+
+Name: com/balancedbytes/games/ffb/report/ReportPassRoll.class
+SHA-256-Digest: u7m+e4ftMtriyy4RfKB0zvuKtEQZ6uMwtyzAY0ovJOY=
+
+Name: org/glassfish/tyrus/core/extension/package-info.class
+SHA-256-Digest: NrdKowYSc5pO39xNTLA8XbuvrvBa/rtJvv5FApN8jko=
+
+Name: com/balancedbytes/games/ffb/report/ReportCardEffectRoll.class
+SHA-256-Digest: NN/ED7hSU5dVOknSfdXg8BYLjzOUHSNi5qLzekdW+xQ=
+
+Name: org/glassfish/tyrus/core/uri/internal/UriComponent$1.class
+SHA-256-Digest: ro9ToEyym9SlxjCTkErWmCvxms7rCA1Y/vcHvpP+L1w=
+
+Name: com/balancedbytes/games/ffb/PlayerChoiceMode.class
+SHA-256-Digest: II+phMDVf8pMv//VPqmra0ombT8zj8qWIQdhD0Fo7c0=
+
+Name: com/balancedbytes/games/ffb/client/state/ClientStateSelect$1.cla
+ ss
+SHA-256-Digest: tknMbF6JCX0fNb6UjnqvTsAMz/KwJdVLOYZgVp9d4o8=
+
+Name: com/balancedbytes/games/ffb/IRollModifierFactory.class
+SHA-256-Digest: WywXjwAze0nPvvd4cJo+KVWNW9d2AArlf1vvHr8H3sQ=
+
+Name: com/balancedbytes/games/ffb/report/ReportPassBlock.class
+SHA-256-Digest: ts7D/YlSmLq9bF0NP2r6QMhtZqPU7RASgT4RmGkxSgk=
+
+Name: com/balancedbytes/games/ffb/client/dialog/PlayerCheckList.class
+SHA-256-Digest: fZxcTBlhqN0PIH8qZCIB5VKcX7g3wjOZZ8dYuuA7yyU=
+
+Name: com/balancedbytes/games/ffb/PlayerActionFactory.class
+SHA-256-Digest: 4Uu+IMi9cmy7Q3KpKBRIS9h+tfHiB19wNabFI9PefTI=
+
+Name: com/balancedbytes/games/ffb/net/commands/ServerCommandPing.class
+SHA-256-Digest: plvqCrMpYwPhAIbIyblDF3QExMgU/hMkXcY/CefqaxY=
+
+Name: org/glassfish/tyrus/core/AnnotatedClassValidityChecker.class
+SHA-256-Digest: ti0V3gVhygg3gSOLZrk9maVuKFJapzYBW1pOBxtvDmQ=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogJoinHandler.clas
+ s
+SHA-256-Digest: EyYbx5kzX5cfmZ0ZWHAekxB0WTZRWVpe18gIRGK0fK8=
+
+Name: com/balancedbytes/games/ffb/util/FileIterator.class
+SHA-256-Digest: ngbKedX7tGgtnTqNPUEQ2K+ZoxmdhUsJPMFNAH06HVk=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogBribes.class
+SHA-256-Digest: 2BNE0G9jJMJFOAEFAiarjDD8D5kTT09Xi43cNK6RNIY=
+
+Name: com/balancedbytes/games/ffb/client/handler/ClientCommandHandlerJ
+ oin.class
+SHA-256-Digest: sJ592jW6dc96Hji1SWwq1Jf27CEuEKfNLrWRq+cy2mA=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogChatCommands.cla
+ ss
+SHA-256-Digest: 78Gbel4dPC+4hJB3WkssJqzZ7ozuSUPcPykWTDyjToA=
+
+Name: org/glassfish/tyrus/spi/CompletionHandler.class
+SHA-256-Digest: EeS760w5C6U7QAamAFqyPZ1XCUdvJEQB8f+d4hWYfPU=
+
+Name: org/glassfish/tyrus/core/MaskingKeyGenerator.class
+SHA-256-Digest: Kleq3GTdh+4lAySC1ETJ+Egr8ycKvtLNIYFK3+uFlZw=
+
+Name: com/balancedbytes/games/ffb/client/FieldComponent$1.class
+SHA-256-Digest: 0+8zJykbHMS6iV2wfNgjjoqdIw5rjMpb7EcpWmSD4E0=
+
+Name: com/balancedbytes/games/ffb/util/UtilActingPlayer.class
+SHA-256-Digest: 3ahUpPCxKAl/QcZ0IZGISrMUnhnXxAG9+db0QrhkMQs=
+
+Name: javax/websocket/MessageHandler$Whole.class
+SHA-256-Digest: z2yZU/bYX70EkI5la2ei9dAglWWd+q8RXpoqrpK4eJ8=
+
+Name: com/balancedbytes/games/ffb/option/UtilGameOption.class
+SHA-256-Digest: VTqx54CULOiVziIkiECzS+aFDLPHj55oJNEIBjtMqBc=
+
+Name: com/balancedbytes/games/ffb/client/state/ClientStateReplay.class
+SHA-256-Digest: uoqdshNbZov28HiEyooMrAb+h/VLj9PnnD/jJzDWUOE=
+
+Name: org/glassfish/tyrus/core/MessageTooBigException.class
+SHA-256-Digest: JBHe66kseayrKgF5VWL3wT+0MiL9A1I0AJPnIrwS/vs=
+
+Name: org/glassfish/tyrus/core/frame/Frame.class
+SHA-256-Digest: +UgYlL1ZlXY6cRUtT81gZBj52rMNq5qFib/mqE57dj0=
+
+Name: com/balancedbytes/games/ffb/net/NetCommandId$1.class
+SHA-256-Digest: zG2rrXJCGQr/kEdeeohNQ2BAewA0gCsqY80vFwuycpk=
+
+Name: javax/websocket/Extension.class
+SHA-256-Digest: 7NvYu2g/ibOpaji5VIlk0DPMq18Kbzl7w1a+2Yr0JoI=
+
+Name: com/balancedbytes/games/ffb/net/commands/ClientCommandJoin.class
+SHA-256-Digest: 8ShGw4SkDObQTUAIXGGuFlTim077gjFy8Xtm7A/Tr28=
+
+Name: com/balancedbytes/games/ffb/SpecialEffect.class
+SHA-256-Digest: d1L9TEW52RlSa54GVKQ7h92StNJSr1+DTvLdswonm3s=
+
+Name: com/balancedbytes/games/ffb/json/MissingKeyException.class
+SHA-256-Digest: n8PqLBh08HGu1accSr1E2PvC6Ww2f5eio03AZYqYG2E=
+
+Name: com/balancedbytes/games/ffb/client/dialog/PlayerCheckListItem.cl
+ ass
+SHA-256-Digest: RxQHHKfY/t6ww5/Kawtjf6e/8BPEUHqv8sraN7dDwmo=
+
+Name: com/balancedbytes/games/ffb/net/commands/ICommandWithActingPlaye
+ r.class
+SHA-256-Digest: 8iOxFNlkjN7VgNFSemoEYU9i2Q3HJ6mgmCFNG7ovtjQ=
+
+Name: org/glassfish/tyrus/core/Base64Utils.class
+SHA-256-Digest: l0qD6LdzNWCyYI9Jaz0P9sRCjUc5KCuMZoUc/2lnliY=
+
+Name: org/glassfish/tyrus/core/uri/internal/MultivaluedMap.class
+SHA-256-Digest: 2xKMFNRA4DHwHi0Zv3pYMoUdBFLaLP08t39JQDgCMf4=
+
+Name: com/balancedbytes/games/ffb/report/ReportPettyCash.class
+SHA-256-Digest: +lKRmdbZjlaVBkzeI0wmTjYT0mB6pSM2bF4SE+5XrwQ=
+
+Name: org/glassfish/tyrus/core/ProtocolHandler$1.class
+SHA-256-Digest: lQXvgHusKB3YUQtnuVKugCdvmVtR3OwA8olcp6R6wxM=
+
+Name: com/balancedbytes/games/ffb/SeriousInjury.class
+SHA-256-Digest: x82uhrEC9vscDctE64ycspOve5e82IiO+Uk9YNN/xug=
+
+Name: org/glassfish/tyrus/core/BaseContainer$DaemonThreadFactory.class
+SHA-256-Digest: Ola5lRa4yKbeyGEA/TN/uSF7Y80s2dXL3gg9IAsQqCI=
+
+Name: org/glassfish/tyrus/core/coder/package-info.class
+SHA-256-Digest: RV/Wj1y2uLyvjzHvNUetg2DlS+9qxzVBvrseEFOiBKg=
+
+Name: com/balancedbytes/games/ffb/BloodSpot.class
+SHA-256-Digest: dqzv/s7bhdYp8lLUnIIZlJC/P+aBakh1C9JIiOl2LhA=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogCoinChoice.class
+SHA-256-Digest: /lWa4H3Pd2bi6e3Xs8bLtQGbTedKblWPK8cn6KynjKA=
+
+Name: com/balancedbytes/games/ffb/report/ReportFoul.class
+SHA-256-Digest: A0wDS3eahV8LbEei3w8IR5QlppXN2WHWRLtXAxwMjnU=
+
+Name: com/balancedbytes/games/ffb/client/ui/IReplayMouseListener.class
+SHA-256-Digest: Hy5CauYRA112K7zNP7X4RpbzCQ5Ul/3JqcEI4asClcU=
+
+Name: org/glassfish/tyrus/container/jdk/client/TaskQueueFilter$WriteTa
+ sk$1.class
+SHA-256-Digest: I19oWVLXzCRB0RMGUKiN4EwbW4gX5+Vi35RyoFVI/LM=
+
+Name: com/balancedbytes/games/ffb/report/ReportBribesRoll.class
+SHA-256-Digest: SX9pYvT+fzrjTFydI1L3fxPl5QEDYEz/S63ef7Wrv1A=
+
+Name: javax/websocket/ContainerProvider.class
+SHA-256-Digest: 51RPuCgt7Q3X26WNqsZClndb8PNZFWveJDVzOVmbjFs=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogFollowupChoice.c
+ lass
+SHA-256-Digest: RraHYWxxcEw3YIfDKzqA3/Ufv+HihoJNcGlOuXv5Hv8=
+
+Name: com/balancedbytes/games/ffb/client/ui/ChatComponent$1.class
+SHA-256-Digest: OFUIvJwPHFqjFNK3S3REieEHx9rqmqtIH23QT21BVmI=
+
+Name: com/balancedbytes/games/ffb/dialog/DialogParameterFactory$1.clas
+ s
+SHA-256-Digest: ZESqogwvl0HT51JRbFt+g/1hl6bbS0f3/hhheuVGR2Q=
+
+Name: com/balancedbytes/games/ffb/client/state/ClientStateThrowTeamMat
+ e.class
+SHA-256-Digest: s7kanDrUNJsW5/o1a0zMEtGba2VYf4rOSxunz3br8r4=
+
+Name: com/balancedbytes/games/ffb/client/state/ClientStateFactory.clas
+ s
+SHA-256-Digest: JQCt80fLMBKduSrL+TzBfknfDjzBMN35JeKA93xk2jw=
+
+Name: com/balancedbytes/games/ffb/client/net/ClientCommunication$1.cla
+ ss
+SHA-256-Digest: YLqeKSQEnztO3TBPZ6wYA08kFpDes6EKUV3PB0eTtGw=
+
+Name: org/glassfish/tyrus/core/l10n/LocalizableMessageFactory.class
+SHA-256-Digest: +mHit3Joqft9XI2uNu92VKycflgjXMqRM0Am+Bfp9WA=
+
+Name: com/balancedbytes/games/ffb/client/handler/ClientCommandHandlerS
+ ocketClosed.class
+SHA-256-Digest: /pIUXQOJogM3rH9oDYGtyBDPSK5qTVqMeAKyJIH29zg=
+
+Name: org/glassfish/tyrus/core/DefaultComponentProvider.class
+SHA-256-Digest: C+6whTOHucqdQejncjFfj1z8xKZNE2Ia41ko2T+hWbE=
+
+Name: org/glassfish/tyrus/core/TyrusRemoteEndpoint$2.class
+SHA-256-Digest: ONq97VxTC9c88/QJPsXiN76a24bUufp5iyKOHmivGy0=
+
+Name: javax/websocket/EncodeException.class
+SHA-256-Digest: hJ9x6rtwR37iNvN8pRK+D6mj468myQKPN8YF2ebz7x8=
+
+Name: com/balancedbytes/games/ffb/client/handler/ClientCommandHandlerP
+ ing.class
+SHA-256-Digest: YwMHqCJSUbcPoBcrZws7UqTp3IlSw6fkiSsCmkBCGcU=
+
+Name: com/balancedbytes/games/ffb/ArmorModifierFactory$1.class
+SHA-256-Digest: gr9v/3s1Ffg925iqzK4svoiUPWdjbtLMhcdwSKVP1Zw=
+
+Name: com/balancedbytes/games/ffb/net/INetCommandHandler.class
+SHA-256-Digest: o/lTcIIYmN9jyWOLYmLMhgslAPXHvNiNXtr4xab25nk=
+
+Name: com/balancedbytes/games/ffb/report/ReportKickoffRiot.class
+SHA-256-Digest: LATjJxdUzhuThpgFAg9MpNYDCWRgaV5+bX8xssg9YWk=
+
+Name: org/glassfish/tyrus/core/TyrusEndpointWrapper$6.class
+SHA-256-Digest: SXeNPmjTVWmhj8PqZIoBJJkdf6BGvCqR29Zjs8Z/zi4=
+
+Name: com/balancedbytes/games/ffb/report/ReportThrowIn.class
+SHA-256-Digest: w9RlTWQDHtPVvKUOTulna3ZR+zuGKHIV70M1RH7tLL8=
+
+Name: org/glassfish/tyrus/core/wsadl/model/Endpoint.class
+SHA-256-Digest: QEaeGgYzzDQyks43ECjVg0CCBwx60eSzln8hJKyA2lw=
+
+Name: com/balancedbytes/games/ffb/GoForItModifierFactory$1.class
+SHA-256-Digest: LD1Y2tvG0X/laLp1aKyOy/42VCsUI8uPWjURY6+aYWs=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogAboutHandler$1.c
+ lass
+SHA-256-Digest: XRBJtM4quB9nSrwCRRw8T9bt/ujqNApjV0ymTQNvneM=
+
+Name: com/balancedbytes/games/ffb/client/net/ClientPingTask.class
+SHA-256-Digest: 8VVlgY1xCfQtSdH+ALJSiPwFUzDm7Xg84tx10YRBFoU=
+
+Name: javax/websocket/DeploymentException.class
+SHA-256-Digest: D3odm8Mk7Q6nL9qC2irKxNWgpHyNVlDCCipwGMzNe+8=
+
+Name: com/balancedbytes/games/ffb/client/dialog/inducements/DialogBuyI
+ nducements$1.class
+SHA-256-Digest: n3K8IxkKbn2a7iRoh13akbHSQefxQ8SmaXIGwlSbMqE=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogSkillUse.class
+SHA-256-Digest: FUHVxXwJp5hHOQ5QYcG4kZkFZdzJqExGMZjwxNRQ9fs=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogAboutHandler.cla
+ ss
+SHA-256-Digest: NuJGPEjfOLY5bKKQlShbGeF3YAcHZbQmsknL7iIwl6w=
+
+Name: org/glassfish/tyrus/core/frame/BinaryFrame.class
+SHA-256-Digest: Jw91zJOJZlbmFsZL5PsFZJsWGNzopdeznil4P4QpD3Q=
+
+Name: org/glassfish/tyrus/core/uri/internal/MultivaluedStringMap.class
+SHA-256-Digest: TEvvUX4V1MrRfk3U90HdNJg9+lJisAnUjMUE2voG58g=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogGameChoice$1.cla
+ ss
+SHA-256-Digest: 2z5QSAd//CtFfl8XMxyC0S15bPxYp697J8zANW9qg2g=
+
+Name: org/glassfish/tyrus/core/ProtocolHandler$ParsingState.class
+SHA-256-Digest: Fm2yNZ/dqbg/ssDkvDqLCQ1X/9buF/nfiRS3BphQwkw=
+
+Name: org/glassfish/tyrus/spi/ClientEngine.class
+SHA-256-Digest: X3SoNfbY8Tmfz6Bu6A9HOBriJ1JfAb0+dNKFHokSu0M=
+
+Name: com/balancedbytes/games/ffb/net/commands/ServerCommandAddPlayer.
+ class
+SHA-256-Digest: lQu/x1Ydet/DJnJJT4QHX2W5BPJ/AgcSnmkErXubG4I=
+
+Name: org/glassfish/tyrus/core/uri/internal/CharacterIterator.class
+SHA-256-Digest: nOFPuKIh/a86A3GBxZfcUTV+vERDL/HklhNX2NWQlCE=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogTouchbackHandler
+ .class
+SHA-256-Digest: Ecb99QXFDRxq0MVk92ce2oJQ3A8TZkz+6gCFF0O9t+o=
+
+Name: com/balancedbytes/games/ffb/client/handler/ClientCommandHandlerG
+ ameState$1.class
+SHA-256-Digest: 4ucNDwASHypjNxuEqYZJhtC0fHxlYVq8N5V17rg7B5U=
+
+Name: org/glassfish/tyrus/client/ClientManager$RetryAfterReconnectHand
+ ler.class
+SHA-256-Digest: c0AdrZRmXONQRyAnnA7yBzBKq3/+zHRzer3ZpMEFcCM=
+
+Name: org/glassfish/tyrus/client/TyrusClientEngine$2.class
+SHA-256-Digest: cRdWLBoD5oy8VMok2oX/t/MFAYfP2jGLyde6oywVQqY=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogSoundVolume.clas
+ s
+SHA-256-Digest: 1tN0Yo3L+CFSDF7yxHjFJ+AIdgwXmGUzHsYqdxfQxMc=
+
+Name: com/balancedbytes/games/ffb/WeatherFactory.class
+SHA-256-Digest: 7x5oc3N51KeDHwDZpFWhU7g8jhEuhQroxJEdsvwZC3o=
+
+Name: com/balancedbytes/games/ffb/util/UtilInducements$1.class
+SHA-256-Digest: qT6BcY2Ns4aWMA3LTE+9CDHZGBAQBaDHNpleD/gAFa8=
+
+Name: org/glassfish/tyrus/core/ComponentProviderService.class
+SHA-256-Digest: NnEy2pm/cwp0y19rYbeL7wdILFtpyGMidYVMcPGPWfw=
+
+Name: com/balancedbytes/games/ffb/net/commands/UtilNetCommand.class
+SHA-256-Digest: IsUahZPCYiiDJ7C8N1PtKaRx4QyUvISw1EUGFnkXeRg=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogKickoffResultHan
+ dler$1.class
+SHA-256-Digest: Jj8fHJqR8p03lommZDfcecrkjoIXybv9Sp9mQF/JcJw=
+
+Name: com/eclipsesource/json/JsonObject$1.class
+SHA-256-Digest: l/UkEdLJJZExidfMvjewhZ+4UZuwPbTPcNJAroHyp2s=
+
+Name: org/glassfish/tyrus/container/jdk/client/SslFilter$State.class
+SHA-256-Digest: cYkK87YgWYB8K80HYoxkmSmrPyW5vl/sRLNiK0E3B+k=
+
+Name: com/balancedbytes/games/ffb/net/commands/ClientCommandBuyInducem
+ ents.class
+SHA-256-Digest: IhA3idOPY4l1IaLncgMp4Me687FK27NcCYd4oTnXlJI=
+
+Name: org/glassfish/tyrus/core/coder/CoderWrapper.class
+SHA-256-Digest: WdcjndKXW2I8GGeP6H5avasPxSWm55awm6DrxULt+AQ=
+
+Name: com/balancedbytes/games/ffb/client/dialog/inducements/StarPlayer
+ TableModel.class
+SHA-256-Digest: UBWnGC7+zyYiwWGo3249IWOu0vgiizO6TFsE6V0BQE0=
+
+Name: com/balancedbytes/games/ffb/client/handler/ClientCommandHandlerM
+ odelSync$1.class
+SHA-256-Digest: w7Blxrbi0C7AJJHiXABNXv/7Cnu1YBlnm0bqTwOaIQ0=
+
+Name: org/glassfish/tyrus/core/wsadl/model/package-info.class
+SHA-256-Digest: XmSJHD8EUpwIcaqFhcssSUZpBsSchIOEnHbvWX0A1HA=
+
+Name: com/balancedbytes/games/ffb/report/ReportWizardUse.class
+SHA-256-Digest: sD3f9Sh45C2U/lfHmmesdcjyKtK5steW+jzoD8vsL0Y=
+
+Name: org/glassfish/tyrus/core/ProtocolException.class
+SHA-256-Digest: 5WFgkYMNTDAhPOtcPfOuESMPahW04wlMoF0WhC/DM7M=
+
+Name: com/balancedbytes/games/ffb/ReRolledActionFactory.class
+SHA-256-Digest: /ajN8HTAxow7wHz+9vZHbw3VH3rXvtShGcyLaxqT6Y8=
+
+Name: com/balancedbytes/games/ffb/dialog/DialogKickoffResultParameter.
+ class
+SHA-256-Digest: GXoSEYq5J5EJOLOSjL3usMx5gjJnXkZkBNxgddi1o2k=
+
+Name: com/balancedbytes/games/ffb/PushbackSquare.class
+SHA-256-Digest: NGjAUT8FQfIKSiZNiBpSF4GuBMybHMZBV+yDJMy7S/0=
+
+Name: org/glassfish/tyrus/client/TyrusClientEngine$1.class
+SHA-256-Digest: knT0VgT4LLDd4WSass6ksMNoUZ9Y0PXmr6vSTdNTugA=
+
+Name: org/glassfish/tyrus/core/uri/internal/UriTemplate$1ValuesFromArr
+ ayStrategy.class
+SHA-256-Digest: k0KCpmEkLeo9IAaIsYN5FdA5ngl6ynCEQ4BzG8C8ios=
+
+Name: org/glassfish/tyrus/core/uri/internal/UriTemplateParser.class
+SHA-256-Digest: Ul72ez41+MtIxsnY8RXPgzjyxu1L4b8AwtDdzLHtD34=
+
+Name: com/balancedbytes/games/ffb/InterceptionModifierFactory.class
+SHA-256-Digest: IYtrqxlIZuucS1QclHQgo6+LLuPBvurh6iZ0rOygh98=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogGameChoice$2.cla
+ ss
+SHA-256-Digest: KZZum5cxJPp4vf3Jg0C+tspqfgkPHeZf5y8fQIbc35o=
+
+Name: com/balancedbytes/games/ffb/model/PlayerResult.class
+SHA-256-Digest: KmW6JkGPwBvWG4frDhQK/3dGUqHrE03zR1e1avDiIRY=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogLeaveGame.class
+SHA-256-Digest: 6IO5WeCetq39bg7BlHSrjKoS3dTQjTUU14hAIFo9xus=
+
+Name: org/glassfish/tyrus/core/uri/internal/package-info.class
+SHA-256-Digest: VvD8EDqGnIZwaA6ATCZqCjsOA2JjqP4nvXeu0t3FcT4=
+
+Name: com/balancedbytes/games/ffb/option/GameOptionInt.class
+SHA-256-Digest: woBzbfX0Re5baVzewVe1hdBjXZtn/bvtkUI2TurxLXI=
+
+Name: org/glassfish/tyrus/container/jdk/client/HttpResponseParser$1.cl
+ ass
+SHA-256-Digest: Ce9NbUuttNPdznxQePS3OKXpJuv+Y3qxHHaruSGg/Ss=
+
+Name: com/balancedbytes/games/ffb/PathFinderWithPassBlockSupport$PathF
+ indData.class
+SHA-256-Digest: aKYj2858yZVqplA362X8XxXM5BTYrXfR4iYCYBtbfQY=
+
+Name: com/balancedbytes/games/ffb/PlayerGenderFactory.class
+SHA-256-Digest: 8iBI2iCURm1PkK2Mci7DLqgBDtOxmRDUXPhBzTm36+8=
+
+Name: com/balancedbytes/games/ffb/PlayerAction.class
+SHA-256-Digest: bWU+QV4wxnIFauU2cI0+bPH/OK6ny05FBfA8hPNljMU=
+
+Name: com/balancedbytes/games/ffb/dialog/DialogBuyInducementsParameter
+ .class
+SHA-256-Digest: /ml3maa6CtXfmyymVbV2qcSVWGqp1+Yy3V8BuKlM5qo=
+
+Name: com/balancedbytes/games/ffb/net/commands/ClientCommandUseReRoll.
+ class
+SHA-256-Digest: BxO0rgQmdWf7mQstYKQz7a4BT4FEvFzSPaJiy21wPiE=
+
+Name: com/balancedbytes/games/ffb/report/ReportPlayCard.class
+SHA-256-Digest: 9RJZVIaOmEwe1FneA19GMisCq8elOJAroTMX0sIH8GY=
+
+Name: com/fumbbl/rng/EntropySource.class
+SHA-256-Digest: t1mVGw4DEiIRQ7CWwIbfynM9cyJPRyN9xvwvyWj9tvA=
+
+Name: icons.ini
+SHA-256-Digest: eD6W7Fzj0j1YU1UslniCsA6jfEjnIs2RqUDZ61nRM1k=
+
+Name: com/balancedbytes/games/ffb/TrackNumber.class
+SHA-256-Digest: 26yJBbniuQyVpivxo0K/i5SJUKU8FeS7ZuoRslrp+lQ=
+
+Name: org/glassfish/tyrus/client/TyrusClientEngine$2$1.class
+SHA-256-Digest: FtjXj3mkvSwG79oLCNnTqZI27l2e+C5ejQZb9RZB+lU=
+
+Name: com/balancedbytes/games/ffb/HeatExhaustion.class
+SHA-256-Digest: AefqrE4eKYBfqUYQtCaVI5TyuDI0avbVPqdUAfxzJzU=
+
+Name: com/balancedbytes/games/ffb/net/commands/ClientCommandTeamSetupD
+ elete.class
+SHA-256-Digest: G7ZksugnvPe11jfcThq1W2MZK48Xot5He1CXRitBAu8=
+
+Name: org/glassfish/tyrus/core/TyrusServerEndpointConfig$Builder.class
+SHA-256-Digest: ubOGC3s+TmfmsF+k3Hmowkrv3Yz17HUtTrGBwKgaGRs=
+
+Name: com/balancedbytes/games/ffb/client/state/ClientStatePass.class
+SHA-256-Digest: Y5Vrc7Oq5oQrVE0cO0ui5beIft89rnBCoHAUeF+Lrw8=
+
+Name: com/balancedbytes/games/ffb/net/commands/ClientCommandBlockChoic
+ e.class
+SHA-256-Digest: ZFLp6SwKk2+VfdkCe3DrzUiTyho5XVZaVbkwot1C1ec=
+
+Name: com/balancedbytes/games/ffb/client/dialog/inducements/StarPlayer
+ Table.class
+SHA-256-Digest: OHX7+AnKGimzP0ZPf9c69ZpGW4M+zpo1STeWpghveDM=
+
+Name: com/balancedbytes/games/ffb/client/ui/ScoreBarComponent.class
+SHA-256-Digest: 3lS/iWPwexNcHJUJOdzJblDQgHw6DKMKITW4DORxyQg=
+
+Name: org/glassfish/tyrus/core/wsadl/model/Application.class
+SHA-256-Digest: LjHAtx/RqbxEDqJJTfOuNhRvoajrMIURoJhvjYtJfIo=
+
+Name: com/balancedbytes/games/ffb/ConcedeGameStatusFactory.class
+SHA-256-Digest: lzYHNoBO7SJDpx+k9+iZK18T54NYoITJFDHygAAvets=
+
+Name: com/balancedbytes/games/ffb/RightStuffModifierFactory.class
+SHA-256-Digest: zNR20JDuYnT1PgK0w14YrC9RfsE6juG/wDn1r4DXU1c=
+
+Name: org/glassfish/tyrus/core/TyrusRemoteEndpoint$Basic.class
+SHA-256-Digest: 6HEV4i61CeA3IO7ZgCO0qv5WB3tw0Wm6f9kZghHKjxw=
+
+Name: com/balancedbytes/games/ffb/ConcedeGameStatus.class
+SHA-256-Digest: c/m8UdvgrRXKIYLbg69ynfzhbYvlQL0ojcBD4ySRdZs=
+
+Name: com/balancedbytes/games/ffb/GazeModifierFactory$1.class
+SHA-256-Digest: DdWnB2oUmg+hSZWl956FEa7LrREW3q6BJMzInz4guHs=
+
+Name: com/balancedbytes/games/ffb/client/ClientReplayer.class
+SHA-256-Digest: 2JAl3OjTC/dqb5BJPd/Pd4pAa0ITR05UPcmm+zkqyTY=
+
+Name: org/glassfish/tyrus/core/cluster/DistributedSession.class
+SHA-256-Digest: T232M/gXRK3U0vnJCa0UyudcDrGszg2Ail7cwK8G0b0=
+
+Name: org/glassfish/tyrus/core/frame/PingFrame.class
+SHA-256-Digest: loK/KTuytzCohkSsbtHVntpLqQ2lUcFWDCXqAu96kpc=
+
+Name: org/glassfish/tyrus/core/AnnotatedEndpoint$WholeHandler.class
+SHA-256-Digest: Js2eVut4c5TR13M58SEotzlJX21Imig0+/P4QFjnkys=
+
+Name: org/glassfish/tyrus/core/DefaultTyrusServerEndpointConfig.class
+SHA-256-Digest: dcUeeYNZT1K7LANogX+oImjZziQYmbV8d7AFsNSJaUk=
+
+Name: com/balancedbytes/games/ffb/net/commands/ClientCommandConfirm.cl
+ ass
+SHA-256-Digest: Y7PrnVztHjB7MR+SPPGIJpBe00CT0AqE8Xpz5bddaHs=
+
+Name: org/glassfish/tyrus/core/package-info.class
+SHA-256-Digest: ht1+WdUoo7AZ53Hjd4XMInVL2eJKrGSDyZKauwmtdLU=
+
+Name: org/glassfish/tyrus/core/ReaderBuffer$1.class
+SHA-256-Digest: mQPAAsoL1Ww6oAoXPgcN8T5wtcJOWAnMfkPhL9AycYs=
+
+Name: com/balancedbytes/games/ffb/ClientStateIdFactory.class
+SHA-256-Digest: 363QN+Q/bwMsQ5GcqVXU6ctCE/bw3JYWoqJUMhyWFEE=
+
+Name: org/glassfish/tyrus/core/AnnotatedEndpoint$2.class
+SHA-256-Digest: etaIf785222/we/QkDIf2+R+F4n1T7pvwasKYHOtUtg=
+
+Name: org/glassfish/tyrus/core/ServiceFinder$AbstractLazyIterator.clas
+ s
+SHA-256-Digest: YVYjcwUqQO/tXCIW1oJxr4kZTK+Py+dEIj/WwzWmz8k=
+
+Name: org/glassfish/tyrus/core/monitoring/MessageEventListener$1.class
+SHA-256-Digest: ZaN22gqWlZZ73fhV2AqCIP2ADJFfv2dqi5kZKBkzKW0=
+
+Name: com/balancedbytes/games/ffb/net/commands/ClientCommandTeamSetupL
+ oad.class
+SHA-256-Digest: CA/Se12BjvdalUJzT/BJVRUzPcCAJPiCoegADyv3vi4=
+
+Name: com/balancedbytes/games/ffb/option/GameOptionString.class
+SHA-256-Digest: kVZ6XY0rw0WzSDbmfIKWv9MQt9lXsZJGpiYNzoX9zbY=
+
+Name: org/glassfish/tyrus/core/BaseContainer.class
+SHA-256-Digest: Yw3A+z5e4Cy3pBEgQDuG8/cYjO8xCvyt2tiTu9r9GaY=
+
+Name: org/glassfish/tyrus/core/ProtocolHandler$2.class
+SHA-256-Digest: NSkqafar8h4XghW69bGMzK7ZCu68okcd3mZNOCE9Wzk=
+
+Name: com/balancedbytes/games/ffb/client/state/ClientState.class
+SHA-256-Digest: UJpmqS1MVbzTuANWyoJAZRQeRlvmp916gOTxwtLsdPU=
+
+Name: com/balancedbytes/games/ffb/net/commands/ServerCommandAdminMessa
+ ge.class
+SHA-256-Digest: lG394ylmH7qbvFaKTFh7lAqJbLB9hAiLCOgSFDWV6Jc=
+
+Name: com/balancedbytes/games/ffb/client/IconCache$1.class
+SHA-256-Digest: TuLd3YoD3ySLjTieRRe/zMzpzWYnKKB+6vt7iu1wuR4=
+
+Name: com/balancedbytes/games/ffb/net/commands/ServerCommandVersion.cl
+ ass
+SHA-256-Digest: yJGyP0xErtXC2QwCkVwtkKJeSGbPeIEconyyd4Lrq0g=
+
+Name: com/balancedbytes/games/ffb/client/ui/ChatComponent$2.class
+SHA-256-Digest: rtD4OEVIyU+/scddPCMuCKLoDn92ujMMYAx27uiHgeY=
+
+Name: com/balancedbytes/games/ffb/report/ReportBlockChoice.class
+SHA-256-Digest: Q0nw3MVAtYcZQxGStDjjv1fivYH5GTjTlU2/qZH9o2U=
+
+Name: org/glassfish/tyrus/core/coder/PrimitiveDecoders$BooleanDecoder.
+ class
+SHA-256-Digest: 63tUdzvGkeougNQiaFr2C4ovXKVxOp7mMyGA3x/z7AM=
+
+Name: com/balancedbytes/games/ffb/SpecialEffectFactory.class
+SHA-256-Digest: GBCwnK2SJK1Ix2iVnjlHQ5vC5PA8NHI/6CCeXpKcfn4=
+
+Name: com/balancedbytes/games/ffb/TeamStatus.class
+SHA-256-Digest: WDFoBRZe/LYITybJtceNQM+67BiFmJTiMLDk5nodjIM=
+
+Name: com/balancedbytes/games/ffb/model/InducementSet.class
+SHA-256-Digest: RA+kqCPzEyZbSmlvgWkeIokXzCDVmzoWW9rj2rFi9GA=
+
+Name: org/glassfish/tyrus/core/frame/TyrusFrame.class
+SHA-256-Digest: Gr4BlMOs/7LFyEhqrA6dsGDyrEpUGHYPAfncqg94B8w=
+
+Name: com/balancedbytes/games/ffb/report/ReportScatterBall.class
+SHA-256-Digest: DVbm94PKWXIWtiQb6knaBK+NTnzqya3ygTz9aHjqtyM=
+
+Name: org/glassfish/tyrus/core/uri/package-info.class
+SHA-256-Digest: qks04AisJFLBrnvIuEZ7UGinnYGPqC20F1tlzM2RscA=
+
+Name: com/balancedbytes/games/ffb/client/dialog/inducements/DialogBuyI
+ nducementsHandler.class
+SHA-256-Digest: jVaeutNUWuo/8PsLYySRnuFjMjSYWkI1BGMCbB8Kdqk=
+
+Name: org/glassfish/tyrus/core/uri/internal/PatternWithGroups.class
+SHA-256-Digest: 1+fysej4i+ln4wYGiCvFoT2Z/GqDR+Y1nJB5Q0NnzME=
+
+Name: com/balancedbytes/games/ffb/net/SocketChangeRequest.class
+SHA-256-Digest: QoAksm9+2mV5omC5pEGR43ti1wRJtgEnQuJie8OdpVo=
+
+Name: com/balancedbytes/games/ffb/DodgeModifierFactory$1.class
+SHA-256-Digest: 9Hl9AoS1jez6YPBxvhmgMJpT5xAsxfh7NQDc1vtZwWY=
+
+Name: org/glassfish/tyrus/client/SslEngineConfigurator.class
+SHA-256-Digest: pGYOmQAwsvWi6FyfTX8PAGEbxuaeIj5NrAucLR07zlI=
+
+Name: org/glassfish/tyrus/core/TyrusEndpointWrapper$2.class
+SHA-256-Digest: aAseXz+019j3xj09jWgWOVxNoEoSNdMzG0sfAeZNC4c=
+
+Name: com/balancedbytes/games/ffb/report/ReportMasterChefRoll.class
+SHA-256-Digest: rbFcyMiEbfNwLJ9yCT272CRV7Ibghh6BhZEAYUIyBJE=
+
+Name: com/balancedbytes/games/ffb/dialog/DialogReceiveChoiceParameter.
+ class
+SHA-256-Digest: KyXWSdBf/bNvfwC8F4om9Jy6r6WJ32u7C/0tBhhFZFo=
+
+Name: com/balancedbytes/games/ffb/PathFinderWithPassBlockSupport$PathF
+ indNode.class
+SHA-256-Digest: J+mPnTVaMSxmsorvReBTT0gWL/ii0K+iorWInZHXZu4=
+
+Name: org/glassfish/tyrus/core/extension/ExtendedExtension.class
+SHA-256-Digest: 9q9f7j1VIKVBGSmsnMvgLt36JcYYfHCaHwIC75IVGzs=
+
+Name: com/balancedbytes/games/ffb/report/ReportSpecialEffectRoll.class
+SHA-256-Digest: UlUbwKR+EolICvv7CXG/HSq0VKhpb/1gsJsYc/VzzhM=
+
+Name: com/balancedbytes/games/ffb/dialog/DialogReRollParameter.class
+SHA-256-Digest: aXGEto4ign6QWuovt/utBxJYPTkyCp7+fKMRFfvJl4M=
+
+Name: com/balancedbytes/games/ffb/PickupModifierFactory$1.class
+SHA-256-Digest: VznddVh6/u3tMwvftoFDsLVNzXGnB+jgQ73EkPH57BM=
+
+Name: org/glassfish/tyrus/spi/UpgradeRequest.class
+SHA-256-Digest: 4mjHLpSJ7ngmyNFsvLQfP8qUc+cAK3nC3QbiZac77es=
+
+Name: org/glassfish/tyrus/core/Utils.class
+SHA-256-Digest: rWylb1audzNqP7yvYPhjrwa3ZP2Ntn7XBZ74WbgPRdE=
+
+Name: com/balancedbytes/games/ffb/dialog/DialogKickSkillParameter.clas
+ s
+SHA-256-Digest: LS3Tk+AqxqTHMOGjMuoPBupXUKcCC7f4uEIkrU9xVdw=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogWinningsReRoll.c
+ lass
+SHA-256-Digest: s1k9J+aBA7qSqz6d1Otnn8vyk+s9Z+fAk7++Gr2nDFM=
+
+Name: com/balancedbytes/games/ffb/option/GameOptionIdFactory.class
+SHA-256-Digest: ONqfLKIDNR1Jmwgl+C0s4ZGMGuOZbWzHEzc8ZWcdWtE=
+
+Name: org/glassfish/tyrus/core/RequestContext$Builder$IsUserInRoleDele
+ gate.class
+SHA-256-Digest: ++0z8KjYwktzjJLL5svPDmmKd1sxaQNasCCrd5oDTnE=
+
+Name: org/glassfish/tyrus/core/DebugContext$LogRecord.class
+SHA-256-Digest: 8LlEBBqzzk2ZfzGhu93iKR6YOHk1wR66DkVtfQ7ouiA=
+
+Name: com/balancedbytes/games/ffb/client/state/ClientStateHighKick.cla
+ ss
+SHA-256-Digest: 9VH5gjxb7yzuAH+csbTOWnIyzsG6yoUILruWVItfhb4=
+
+Name: org/glassfish/tyrus/core/TyrusEndpointWrapper$1.class
+SHA-256-Digest: 5p0GAl1aIo8ZdJyLrF5zu2FDcgblW3Okk9VZL15A34Y=
+
+Name: com/balancedbytes/games/ffb/PathFinderWithPassBlockSupport.class
+SHA-256-Digest: 5nepMMbIu+LOXtqJRh8I976DuXhT40YBSmAMW2Hbdyc=
+
+Name: org/glassfish/tyrus/client/ClientManager.class
+SHA-256-Digest: M7cUkRvItwkgD5OsS4EcSn3JCZ0DjInW52E67SfXPzk=
+
+Name: com/balancedbytes/games/ffb/PickupModifierFactory.class
+SHA-256-Digest: AFqINCSSILrfnGJHYLw+VsLrDzAnAWbYcg4kyoCvIrs=
+
+Name: com/balancedbytes/games/ffb/Skill$1.class
+SHA-256-Digest: E73gU7BFUQhSZk+nhIiJ4qEI81ORV+42CXvjPLccznE=
+
+Name: com/balancedbytes/games/ffb/net/commands/ClientCommandPing.class
+SHA-256-Digest: wmQDAR0SW49uNdDsARRyr3yqTpivEt2/Xuc7+/S7m74=
+
+Name: com/balancedbytes/games/ffb/report/ReportKickoffPitchInvasion.cl
+ ass
+SHA-256-Digest: 0r1Vej53C6f5djnILDOXFOfCkYWQI1uHjpdQhUdfpXo=
+
+Name: com/balancedbytes/games/ffb/dialog/DialogPilingOnParameter.class
+SHA-256-Digest: YLGFGrdtnvCCP7XfnzCpUTcJ5CjnsvU/mPpGKB16mIw=
+
+Name: org/glassfish/tyrus/client/ClientManager$1$1.class
+SHA-256-Digest: 3H+8ZSDBGAyo3khb/tC3fbWqhuc30/c2nvvJsuZHsb0=
+
+Name: com/balancedbytes/games/ffb/report/ReportSecretWeaponBan.class
+SHA-256-Digest: iQRI/U7Zk0mXGLJ4F6JKRF520Pt3JK288AZPHhtKx/4=
+
+Name: com/balancedbytes/games/ffb/report/ReportInducementsBought.class
+SHA-256-Digest: +P8vLQSHDmUDTghQox7/xBi5H+TWCHPgwMk9WgTfDM4=
+
+Name: org/glassfish/tyrus/client/TyrusClientEngine$ClientHandshakeList
+ ener.class
+SHA-256-Digest: BoUOqQSVn6C3P1dzk/XltwZdcSqgo0dJa8L8D6RkV1U=
+
+Name: org/glassfish/tyrus/core/TyrusExtension$TyrusParameter.class
+SHA-256-Digest: N/bw0hlVRbqDLxp0iK4/roQiijX2uSv3/kkYpKovx0c=
+
+Name: com/balancedbytes/games/ffb/dialog/DialogUseApothecaryParameter.
+ class
+SHA-256-Digest: Y9I7Qko5UhG2Iz4oWajvGlxkh+PwFh5WjvSgWXUlI1I=
+
+Name: com/balancedbytes/games/ffb/json/JsonDateOption.class
+SHA-256-Digest: iqBIJQcKZGLDRHtPhJ9fNPwgpDLDifnGifdF/EwEdsg=
+
+Name: com/balancedbytes/games/ffb/Pushback.class
+SHA-256-Digest: bhz0X3pDfVSwYXrqv8LN7q0C8MkM+iKeXtWm20pVdnY=
+
+Name: com/balancedbytes/games/ffb/dialog/DialogKickoffReturnParameter.
+ class
+SHA-256-Digest: hJJoybu/bT5rsbCbfUCbivAM5GT27zQw1SlPYByT5UU=
+
+Name: com/balancedbytes/games/ffb/client/ui/GameTitleUpdateTask.class
+SHA-256-Digest: aQfQ9JHOvnW+wwFes8cNUU74K36TmMdGP3u4UnXAJG8=
+
+Name: com/balancedbytes/games/ffb/util/ListTool.class
+SHA-256-Digest: FTISIZhVuCfcPbRR27FBKw2SV/K4aqah5WFdauJrY8o=
+
+Name: com/balancedbytes/games/ffb/PathFinderWithPassBlockSupport$PathF
+ indState.class
+SHA-256-Digest: g4jav13ojkvpJYzKmNtzsLMq51qxFmqHKhYWXPCIdQo=
+
+Name: com/balancedbytes/games/ffb/report/ReportTimeoutEnforced.class
+SHA-256-Digest: qLbdD1o9gMkRIPCACt+lo7sKpcG3glM7pmzK2G86L4s=
+
+Name: com/balancedbytes/games/ffb/report/ReportFanFactorRoll.class
+SHA-256-Digest: uAZnwZtybVT0w6jDEhAnof8XtPlQzIe6WYU9Osjh2pA=
+
+Name: org/glassfish/tyrus/core/uri/internal/AbstractMultivaluedMap.cla
+ ss
+SHA-256-Digest: OZ2cuGlQyoW113rLv7Y/N7bgfuEHd2Y34LRdXFyOT+Q=
+
+Name: com/balancedbytes/games/ffb/CatchScatterThrowInMode.class
+SHA-256-Digest: D8LTaZxhRtgTHETqQecmKp+GFPrprSCf2uQLfIPCQQ4=
+
+Name: org/glassfish/tyrus/core/cluster/SessionEventListener.class
+SHA-256-Digest: WDNjkGbDsZUwqC1dspLf4W2+OYH88ok5eOSvXsNROIo=
+
+Name: org/glassfish/tyrus/core/frame/PongFrame.class
+SHA-256-Digest: FCSEhQZyZmUAGtsP7R1zvh+TQJPVtJYfUi6J1aS1o4M=
+
+Name: org/glassfish/tyrus/core/uri/internal/UriTemplate$2.class
+SHA-256-Digest: FXbu/VGj2zEELSow89bTGavxUm3WazHEBM3AcsDVPaU=
+
+Name: com/balancedbytes/games/ffb/client/ui/LogComponent.class
+SHA-256-Digest: GnPME+9gPzJQUSjIU4a1KLMHOVHLo/baChRoddFwauQ=
+
+Name: com/balancedbytes/games/ffb/client/ui/TurnDiceStatusComponent.cl
+ ass
+SHA-256-Digest: wqKReEgwYFFC5hdqkL9HJ3R9HphN5lqQowwL4giDWLo=
+
+Name: com/balancedbytes/games/ffb/client/state/ClientStateQuickSnap.cl
+ ass
+SHA-256-Digest: HgF6mIUhAVcoZX6pxg7bD5Uu/6UKiTrKDtO8ZNZvHIQ=
+
+Name: org/glassfish/tyrus/core/Handshake$2$1.class
+SHA-256-Digest: VOF3yeeiHsNBBn+AWfoI6CvRojlcs+QYMyioy/MQ7PU=
+
+Name: com/balancedbytes/games/ffb/net/commands/ClientCommandFollowupCh
+ oice.class
+SHA-256-Digest: OwzFJUAcqvbZO9ZLvOWYo4Qi8bXAuEEAuxx9uzKNUFk=
+
+Name: org/glassfish/tyrus/core/ReflectionHelper$TypeClassPair.class
+SHA-256-Digest: W9f20DilwBcpUWf0dUW1flCUv0zWIhj+2nvx8e+7ySw=
+
+Name: com/balancedbytes/games/ffb/client/ClientParameters.class
+SHA-256-Digest: 9jV8fC2cUFVJBcAmno9jrfhd+dLG0KEqLulut5THXGQ=
+
+Name: com/balancedbytes/games/ffb/client/state/ClientStateHandOver.cla
+ ss
+SHA-256-Digest: wd4CC0rbtRYB5PHPsE6CP8PGA3AtoFR1g++QZl4HJc8=
+
+Name: com/balancedbytes/games/ffb/dialog/DialogPlayerChoiceParameter.c
+ lass
+SHA-256-Digest: M1tuRMMKmvPFV4HRTsdtyRxW6gGS0GhaAnxFpzBrWuU=
+
+Name: com/balancedbytes/games/ffb/json/JsonBooleanOption.class
+SHA-256-Digest: ZSKt+krx9u/myQftQU3BZbcHWwx+mh+yPlA02ia9oRc=
+
+Name: com/balancedbytes/games/ffb/net/commands/ClientCommandTouchback.
+ class
+SHA-256-Digest: YbCNIBXdIimyiPFUWLjFGom5h4Qcl5BRtUdx3cBmIe8=
+
+Name: org/glassfish/tyrus/core/uri/internal/PathPattern.class
+SHA-256-Digest: xm1t3K6ci5c5DDWbCR+tBSPGtGbUjZ4X/OTg9wMywOY=
+
+Name: com/balancedbytes/games/ffb/client/ui/GameMenuBar$1.class
+SHA-256-Digest: rQmTpCPvo/55sNxXTFU+8PbglKxb0Gzp1RIrG9M0D54=
+
+Name: com/balancedbytes/games/ffb/client/handler/ClientCommandHandler$
+ 1.class
+SHA-256-Digest: yKDhxIDvJsZ2SrMrISY23vf61+K5c1W+8gdzBdGKDIE=
+
+Name: com/balancedbytes/games/ffb/dialog/DialogBlockRollParameter.clas
+ s
+SHA-256-Digest: mfkgiufZC44L8MRgdi6OTx1VNbdVE2vS7Q2id/CODLM=
+
+Name: org/glassfish/tyrus/core/TyrusRemoteEndpoint$Async$AsyncMessageT
+ ype.class
+SHA-256-Digest: mrnEG9ZJZUe2aXvr6jhmKv+0ZqD/zeSvpXYg0HpUZFo=
+
+Name: org/glassfish/tyrus/client/auth/Credentials.class
+SHA-256-Digest: XSw66lOL5hPcElSkThkParK6uyB+aGqGpkT/cXxwFak=
+
+Name: com/balancedbytes/games/ffb/client/ui/BoxButtonComponent.class
+SHA-256-Digest: Wm0QKTE701yzXg0UUY0IWdcBN5nv54BPIqV3YhDH+0M=
+
+Name: javax/websocket/Decoder$TextStream.class
+SHA-256-Digest: vYvgl/gdKbwJigV/vDWqUvn5EuMKB6jHEYBCzNv2WHw=
+
+Name: org/glassfish/tyrus/core/ServiceFinder.class
+SHA-256-Digest: c3QBcXYI2YRvyKDI23CEfkQbR6OUSeZvX2iBOPKCdWI=
+
+Name: com/balancedbytes/games/ffb/client/handler/ClientCommandHandler$
+ 2.class
+SHA-256-Digest: ie+qCiQechN7Q8DaBKozw2BUSCAKQ67E0DSkp5S2LHM=
+
+Name: org/glassfish/tyrus/core/AnnotatedEndpoint$3.class
+SHA-256-Digest: f9ccde+tf9Ba6S+4Pc+fbkZj1qbBD2lv+ukUu4Ptrtg=
+
+Name: com/balancedbytes/games/ffb/client/util/UtilClientThrowTeamMate.
+ class
+SHA-256-Digest: GyaYIvULS2N1Il0fH7fo3CitmUI7vOc/pmQ2EGsR9eU=
+
+Name: com/eclipsesource/json/JsonString.class
+SHA-256-Digest: +VvjKEhvY1HpVOSfh4jewJgt8CTMbDetuMuYb6Y4ZqU=
+
+Name: org/glassfish/tyrus/core/uri/internal/UriComponent$PathSegmentIm
+ pl.class
+SHA-256-Digest: vVWFhACl0j/IqLbPUIq5jqrqNF1wcINfsR50SwXRb5M=
+
+Name: com/balancedbytes/games/ffb/net/GameCoach.class
+SHA-256-Digest: KYz514evLUOv3NJFv6VPe0t63BP/fCCYUP4sU8AM4KA=
+
+Name: com/balancedbytes/games/ffb/net/commands/ClientCommandIntercepto
+ rChoice.class
+SHA-256-Digest: nOPAySwHYwph8BCosQi9DmwduOugR9zivyG4szlrfXQ=
+
+Name: org/glassfish/tyrus/spi/ServerContainer.class
+SHA-256-Digest: el/ArA2jbNRwmvcUS3zyo8MOFVaPdPjnE1spO3toukU=
+
+Name: org/glassfish/tyrus/core/ServiceFinder$1.class
+SHA-256-Digest: 8fMscg74/YqOq11pJS5PPLWuzBfkG7uunct84kp0L/U=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogStartGameHandler
+ .class
+SHA-256-Digest: rd86iULkhBraoBn09PnLmxs98HKs47J9At71Pr9IsIQ=
+
+Name: com/balancedbytes/games/ffb/client/state/ClientStateTouchback.cl
+ ass
+SHA-256-Digest: 6JGneMYHNXqEY1k3UtjbnXsZZF2u6y1nz1e4VrENVQw=
+
+Name: com/eclipsesource/json/BufferedTextReader.class
+SHA-256-Digest: wqqedgiwtwOOLpPf9BWSwrwFNzZbKgtm1rmB3W4D7Xc=
+
+Name: com/balancedbytes/games/ffb/GameList$1.class
+SHA-256-Digest: wg2aHm/5THGZfg321Ivl4fAbLGioQZwg3zN6FDtI7SM=
+
+Name: com/balancedbytes/games/ffb/client/state/ClientStateKickoffRetur
+ n$1.class
+SHA-256-Digest: jvQGZOyJb0OMX/OYlZ9O+6+MkyNtblMyExP20dCo7jw=
+
+Name: org/glassfish/tyrus/container/jdk/client/SslFilter$LazyBuffer.cl
+ ass
+SHA-256-Digest: qQaeWvw7LUFRIYBdZUd33Hn3m921UP8EHz8KuT+J0ak=
+
+Name: org/glassfish/tyrus/core/cluster/SessionListener.class
+SHA-256-Digest: p4Qrl7lF4mJAyJyuK7dG2bArj/mI6omdUPrd4Zv+u3A=
+
+Name: org/glassfish/tyrus/spi/package-info.class
+SHA-256-Digest: 8xFmCTbK0g7ndL5wxXi+niHiZvmaz22qi433gxgd2Bs=
+
+Name: com/balancedbytes/games/ffb/SkillCategory.class
+SHA-256-Digest: A8asbOY20iSv6dPUTgUpu4nzKLUXKNYwyZ/IiIyyHFs=
+
+Name: com/balancedbytes/games/ffb/util/UtilBox.class
+SHA-256-Digest: fOz18rJfiMC9q6rSjKDNRrQpoMuGmGMfBZDa2MBkMPc=
+
+Name: com/balancedbytes/games/ffb/report/ReportBlock.class
+SHA-256-Digest: 7zM3bt2LAAWH414CuR4doS6dNF/wI/QOXl3m8JCMWfM=
+
+Name: org/glassfish/tyrus/core/Handshake$1.class
+SHA-256-Digest: xCzL7XWZoU9IRRMpZbuMWa15ao0xM2ORoiqVBMBxL3A=
+
+Name: com/balancedbytes/games/ffb/report/ReportKickoffThrowARock.class
+SHA-256-Digest: tULW2r9bmHqDJQs7ux55pBT0BvNCOr2xI3ZZeDH8qh8=
+
+Name: com/balancedbytes/games/ffb/model/GameOptions$1.class
+SHA-256-Digest: g0uMChi5kj4o3Gog/+uqGRndFsrIqMjrHbU4yHb0wOc=
+
+Name: com/balancedbytes/games/ffb/net/IConnectionListener.class
+SHA-256-Digest: NprPGw7IjpzEnltMxPxpXMGLtHx1MOPfw2wha557zLU=
+
+Name: javax/websocket/package-info.class
+SHA-256-Digest: 7AoJ20XBz9JqVCWyV2B8IyXirlDEA6ThLlfmI8cWv0A=
+
+Name: org/glassfish/tyrus/container/jdk/client/JdkClientContainer$3.cl
+ ass
+SHA-256-Digest: /szk4ZWFSJX8N3Os7BQcF+jSY5dur6CeBB2o1gnVKNs=
+
+Name: com/balancedbytes/games/ffb/GazeModifierFactory.class
+SHA-256-Digest: qsCW3Dbmp/+/7ZRy2UguIg6kLfyWmjM2JTMwTAUM1xc=
+
+Name: com/balancedbytes/games/ffb/client/ui/ChatLogScrollPane.class
+SHA-256-Digest: Ay+drzWxRSI4kYASZ4Nk59yrrvQedVtjmd05vol2P3Y=
+
+Name: org/glassfish/tyrus/client/auth/AuthenticationException.class
+SHA-256-Digest: B/oVKnFxUn2XGsdq8L0NBExtAtp7AW4q6YxbMEQ0K+M=
+
+Name: com/balancedbytes/games/ffb/client/animation/AnimationSequenceKi
+ ckoff.class
+SHA-256-Digest: 0D3EDs1I6QGB5QG9jf1ims5TQJ9xGTCwNBuY1nWgMbk=
+
+Name: org/glassfish/tyrus/core/l10n/Localizer.class
+SHA-256-Digest: KIlqC8qA4ZGx0VIsFIIoDmpAlHN5xuTDgjLUELQBLNc=
+
+Name: org/glassfish/tyrus/core/TyrusSession$HeartbeatCommand.class
+SHA-256-Digest: 1Giu1bw/YZzVr+F058dWUJFW2nTP1ZqDhgNTGvmHTdw=
+
+Name: org/glassfish/tyrus/spi/Writer.class
+SHA-256-Digest: Ix0tMs7sTyi2TsUOUZu8xaXATlyefNDQLfvZPBs8rXw=
+
+Name: com/balancedbytes/games/ffb/InducementTypeFactory.class
+SHA-256-Digest: eFrx3cVVHTeQ4wLS/7mFcKiX8eDNLvacRp/oOhUGtsE=
+
+Name: com/balancedbytes/games/ffb/net/NetCommandFactory.class
+SHA-256-Digest: 0jRPGeybeBH7d4W5Zu7bj64dBAdsjzx4swFQ0L7gOnc=
+
+Name: com/balancedbytes/games/ffb/client/IconCache.class
+SHA-256-Digest: DShiWFU+wEUF6vPM/rnIVgogwGMrPHiRr7TVd4fJc2Y=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogGameChoice$MyTab
+ leCellRenderer.class
+SHA-256-Digest: uDguit8qw2VbXnm1p7YCgZ3EjsjNNRORjN3CKq0vtlE=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogTeamSetup.class
+SHA-256-Digest: MgCeQ79MwRWiqy4AuMiDw824wQVMZAKiqsjPMnJ+QMs=
+
+Name: com/balancedbytes/games/ffb/LeapModifierFactory.class
+SHA-256-Digest: +tokvTWbNuWNLpZ4khTa2+KuIL0+VcIoNYAK6aJ+cfM=
+
+Name: com/balancedbytes/games/ffb/CatchModifierFactory$1.class
+SHA-256-Digest: S1VZE4fAUyCaG/mbjnhelzmUnSahwG3djJsW0Kuf2B0=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogKickoffResultHan
+ dler.class
+SHA-256-Digest: 8KgZ8iT5ju5wMstJmeDm7MFeqqeHQr0dTj1ANsc3bk0=
+
+Name: com/balancedbytes/games/ffb/dialog/DialogSetupErrorParameter.cla
+ ss
+SHA-256-Digest: hx1vs84MW11RtwGuCuUG1STJ8Cmj27n6Rk2fB+bI5Wc=
+
+Name: org/glassfish/tyrus/spi/WebSocketEngine$UpgradeInfo.class
+SHA-256-Digest: c9TvmU3U7NZxrxPeIUq7CYD96l/Hx8pYQfuBf1SMqTc=
+
+Name: com/balancedbytes/games/ffb/client/layer/FieldLayerBloodspots.cl
+ ass
+SHA-256-Digest: 8MLMhdgR2o5iTBJSU3gxfg2iqH7C7wDlIlaXEXNZWmU=
+
+Name: com/balancedbytes/games/ffb/dialog/DialogTouchbackParameter.clas
+ s
+SHA-256-Digest: RBcMgtdPvNvQh9s9GL2n/iUW1U+xXN8XhovVLMM8Gbs=
+
+Name: com/balancedbytes/games/ffb/DodgeModifierFactory.class
+SHA-256-Digest: 3/LaWEEYb6PXSx+0KUR55N29FRJP/FkaTYgBk82b39w=
+
+Name: com/balancedbytes/games/ffb/report/ReportWinningsRoll.class
+SHA-256-Digest: SF1x3RMLMYxZ2BTmH4nAnySWvTVnqg3SAvwx0gXRgmk=
+
+Name: com/balancedbytes/games/ffb/InducementType.class
+SHA-256-Digest: TSySTMjZf6UtZUyhT95Y/2adwYeOVHZYFbQYEusFGCg=
+
+Name: com/balancedbytes/games/ffb/client/ParagraphStyle.class
+SHA-256-Digest: ZKGpq7/1bbM/rHtk3kqNWoTwNjIZzBfysSe9xPoQkIA=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogUseApothecaryHan
+ dler.class
+SHA-256-Digest: 5CN4OJzLR1Zj9g13n7DA7VPvwz5GcxqqvHsg0621Mds=
+
+Name: javax/websocket/Session.class
+SHA-256-Digest: 0BM97wQCG0cnN/ggcUqbfckITeQhRLqNOPmUpLI1vwo=
+
+Name: com/balancedbytes/games/ffb/report/ReportBombOutOfBounds.class
+SHA-256-Digest: TeMchNS/Fk+Yp86fpXMkhPGya2bfm1mzjwCb3xQDG5M=
+
+Name: org/glassfish/tyrus/core/frame/Frame$1.class
+SHA-256-Digest: JTWUh8RBxb4aVQ7bYgJmH3JSlT1UwlrBg4y4aokOTrg=
+
+Name: com/balancedbytes/games/ffb/client/handler/ClientCommandHandlerM
+ odelSync.class
+SHA-256-Digest: G8dpXF3coE2ad+FezZFGhaYV4obhRPdHMMeMDcBrtS0=
+
+Name: com/balancedbytes/games/ffb/ClientStateId.class
+SHA-256-Digest: jGvrSvJf5h4v+82DAjlJzXFyoASuGmxCD+8VRtY0DCU=
+
+Name: org/glassfish/tyrus/core/DebugContext$TracingType.class
+SHA-256-Digest: WUC8iSPj/rOXerKm+TObqVm4MA+FV0nVeqHBeJlHZYs=
+
+Name: com/balancedbytes/games/ffb/report/ReportThrowTeamMateRoll.class
+SHA-256-Digest: ZdKBdcz3TnFyhV55lzDN05Zn5GtnhylsMnSxfspMx4Y=
+
+Name: org/glassfish/tyrus/core/frame/package-info.class
+SHA-256-Digest: nhodPF34tStdqX31lQ31xB4UtKMPGB5U8BNVUDDS54o=
+
+Name: com/balancedbytes/games/ffb/client/net/ClientCommunication.class
+SHA-256-Digest: ZWkxBQbGFQvqODIRjNFuywVBlzMTkpc2WIFOwhx2K+g=
+
+Name: com/balancedbytes/games/ffb/GoForItModifierFactory.class
+SHA-256-Digest: 88ZM8gIA00IqYYOKTzzudfQe6gL2UXqlhOOcdcpIH5k=
+
+Name: com/balancedbytes/games/ffb/DirectionFactory$1.class
+SHA-256-Digest: FU+dhc289JFjRaguAgsfpC6sYa0Ct1I8vCPYuAHChHY=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogFollowupChoiceHa
+ ndler.class
+SHA-256-Digest: Hjgcz+zxLTDf7qgZeT2qIKkDF7As7kdbbncbU4QSrjw=
+
+Name: com/balancedbytes/games/ffb/client/handler/ClientCommandHandlerA
+ dminMessage.class
+SHA-256-Digest: 81lsDnmP9psGlr0k5YrHxGBsymJXsvY/7aiTtYGhMwY=
+
+Name: com/balancedbytes/games/ffb/model/change/ModelChange.class
+SHA-256-Digest: zex8t9eZsb09ed87Yo9xxh1qdZJPrUEworCciF5+sro=
+
+Name: com/balancedbytes/games/ffb/option/GameOptionAbstract.class
+SHA-256-Digest: MerpvwmfAAxZy8Skfef17MbX3AxhdpQypADARa5g0ZY=
+
+Name: javax/websocket/Encoder.class
+SHA-256-Digest: ZSywxBzvVrNQKLKf7mH2UvaQA3d/CJ9CXeNXZ1gICVE=
+
+Name: org/glassfish/tyrus/core/Version.class
+SHA-256-Digest: RFxzJteaBnfqoSqOPMNLw2k73RJdqWyYdV0APRVxAkI=
+
+Name: com/balancedbytes/games/ffb/client/state/ClientStateBlitz.class
+SHA-256-Digest: 1yhVCB89wAtka/jVULnjInVCQmAEW7Lza4RlDuYLgu0=
+
+Name: com/balancedbytes/games/ffb/client/state/ClientStateLogin.class
+SHA-256-Digest: Gei8QoTu+T47SNqPNCvvbv6EP5g+3AMk7eUfwH9KqMY=
+
+Name: com/balancedbytes/games/ffb/client/ReplayControl.class
+SHA-256-Digest: vVpi0zkqex//RbIDze/w0jO6VmpTXeTu2AUUGrbX08Y=
+
+Name: org/glassfish/tyrus/core/WriterToAsyncTextAdapter.class
+SHA-256-Digest: lOJekupm+yNNPcC3gdDVXN7DxomsuLWcCqGA9GWEqxk=
+
+Name: com/balancedbytes/games/ffb/client/layer/FieldLayerPlayers.class
+SHA-256-Digest: 6CWDCZfYihMtYV0AsgTF2dPvUpqrIwH/cI3QNbJ43r8=
+
+Name: org/glassfish/tyrus/container/jdk/client/ClientFilter$4.class
+SHA-256-Digest: Yf7aUwZ5ryEgGsGw4RlnEKaLek0Ajg3Us/+GnghajAw=
+
+Name: org/glassfish/tyrus/core/wsadl/model/ObjectFactory.class
+SHA-256-Digest: BD813cSZmBj7QMO0GkLbao11ReeTc7KHS1pW8gmP8WY=
+
+Name: com/balancedbytes/games/ffb/PassingDistanceFactory.class
+SHA-256-Digest: iLXw/kZgeOAmPTa36t6uWRftsjJNz+3WT+PPyVMERy8=
+
+Name: com/balancedbytes/games/ffb/net/commands/ClientCommandMove.class
+SHA-256-Digest: evo0wz0pQLjCo6n1U8UoACfvGXb2mW0C90N4jRQv1I0=
+
+Name: org/glassfish/tyrus/core/Handshake.class
+SHA-256-Digest: GX0tObE/qGpMndKTCRXOSOikB48THOed+BS9oBNwTZI=
+
+Name: org/glassfish/tyrus/container/jdk/client/TaskQueueFilter.class
+SHA-256-Digest: uACKDG9GHWXf3yyYp6+aV8W+4ChwRzV/ODN0A8esC/4=
+
+Name: org/glassfish/tyrus/client/ClientManager$SameThreadExecutorServi
+ ce.class
+SHA-256-Digest: oX3yma9iVb57cfLEEzcQ4nsZkLfhfQ9lPyzEsFXVLtE=
+
+Name: com/balancedbytes/games/ffb/net/commands/ServerCommandRemovePlay
+ er.class
+SHA-256-Digest: OBMp9dZX78ULr2mflITu22M1cIdNXNk+Mex70MiHtkw=
+
+Name: com/balancedbytes/games/ffb/report/ReportApothecaryRoll.class
+SHA-256-Digest: b8j4S+uePIPU6HpUu67EVEdj+Q2A0+njy26D9q/k/zs=
+
+Name: com/balancedbytes/games/ffb/report/UtilReport.class
+SHA-256-Digest: HIWJ2pw8CxD9DV8lKh6OCIxkWBJaJ+l4d31xa4uztfA=
+
+Name: org/glassfish/tyrus/core/MessageHandlerManager.class
+SHA-256-Digest: fSNOCpFRAX6niAtZ+wuU38zOzYAnRI8mFW+SEwVT4Dc=
+
+Name: javax/websocket/Endpoint.class
+SHA-256-Digest: ShtDg3WmM0fyrIQDmc0WpGxA1leGNyOkhLKhPiUdmbw=
+
+Name: com/balancedbytes/games/ffb/client/dialog/inducements/StarPlayer
+ TableModel$1.class
+SHA-256-Digest: ncSM+40wmP7L7yBoRF4iZNGKJ+k5gl6xx81I5kf2j/4=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogKickSkillHandler
+ .class
+SHA-256-Digest: taYsmSqaFYFz4h6PpTbu5Oq1IzALa2w8N7V2BjTVp18=
+
+Name: javax/websocket/ClientEndpointConfig$Builder.class
+SHA-256-Digest: YtgQ6Np2e0S3UKRo/+XhpevHSExQw7NcK8hRwGc11oo=
+
+Name: org/glassfish/tyrus/core/TyrusFuture.class
+SHA-256-Digest: JG03UYnuZUsWlkT1TFeZtg5tjUGHwT1L+KZ8UG//ses=
+
+Name: com/balancedbytes/games/ffb/net/commands/ClientCommandHandOver.c
+ lass
+SHA-256-Digest: u72t60PhVfx6KeiKhVzzFx2TgVEm4d58IZ/3yPbEFlo=
+
+Name: com/balancedbytes/games/ffb/model/Team$PlayerComparatorByNr.clas
+ s
+SHA-256-Digest: BvaLJk2T99d1Qkh3CUDLjX80g6Ckxl9X9hHY9pXCXk4=
+
+Name: com/balancedbytes/games/ffb/net/commands/ClientCommandStartGame.
+ class
+SHA-256-Digest: jIdyLLN0/W1riWBCdOu4br3pqsN217plgIghCcRO/Ks=
+
+Name: org/glassfish/tyrus/core/coder/PrimitiveDecoders.class
+SHA-256-Digest: folCoBwl8tUHEQe+2bTlSjDiIPkIEu9nazPqyMokAmc=
+
+Name: javax/websocket/server/ServerEndpointConfig$Configurator.class
+SHA-256-Digest: fJ7peGFvjKLfUvjKQkGXHylU6jCKNNYc+j1/gzdKaMM=
+
+Name: com/balancedbytes/games/ffb/net/commands/ClientCommandUserSettin
+ gs.class
+SHA-256-Digest: X+yqm5aCikaVWALiG/IRZkDe3fxWpQKEdBkiWbWtzVU=
+
+Name: org/glassfish/tyrus/core/MessageHandlerManager$1.class
+SHA-256-Digest: tUHxgSq+nmQwzbD0Mi/eeRA9F7FRnbxVBZVdSu1UY2Q=
+
+Name: org/glassfish/tyrus/container/jdk/client/TransportFilter$5.class
+SHA-256-Digest: DDCt4QdkfmUOdEEhc9SRpNjIy9IT24WqeujE+zF+Q+I=
+
+Name: javax/websocket/ClientEndpointConfig$Configurator.class
+SHA-256-Digest: h8guJwW4fTXRIwHCiZEjob3IYTwrGsB/VSGV091XC5E=
+
+Name: com/balancedbytes/games/ffb/client/state/ClientStateSetup$1.clas
+ s
+SHA-256-Digest: kHs5OFfZYqs3P6OpHnL19L76QLp9hCJg1P8XOb6+iAc=
+
+Name: org/glassfish/tyrus/core/TyrusEndpointWrapper$7.class
+SHA-256-Digest: TFBpR6x8Bq8NQ5rq/f8dxrgTBKN7FcxVf8BcH83xE2A=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogGameStatistics.c
+ lass
+SHA-256-Digest: rsGEZguh1CcZBWfdVDRSy5ISPWaBEaNFg1MXPeJyPf8=
+
+Name: com/balancedbytes/games/ffb/IEnumWithNameFactory.class
+SHA-256-Digest: ie3v10vdZv082Oyd1U/7fummhpvEk57s9wDXF3o4NqE=
+
+Name: org/glassfish/tyrus/core/RequestContext$1.class
+SHA-256-Digest: /9x4fIHoWOZN9C9GOx7YN+7vq09kY9s1WMMZm2A8llM=
+
+Name: com/balancedbytes/games/ffb/CatchModifier.class
+SHA-256-Digest: H84spBUDNRJ+eyvSPH8+Euh5/tmigHRQ7vi3qGaUfV4=
+
+Name: com/balancedbytes/games/ffb/client/net/CommandEndpoint.class
+SHA-256-Digest: sJP4KdZ/wMcEBXrpYLNN4FvWArqYPXcaQvgrgSf2wrQ=
+
+Name: org/glassfish/tyrus/core/TyrusSession.class
+SHA-256-Digest: ioRIax/KrsW1WvpM8P21sJLiXohxaumujkrQAQ4fsXs=
+
+Name: org/glassfish/tyrus/core/OsgiRegistry$BundleSpiProvidersLoader.c
+ lass
+SHA-256-Digest: drsgMyn+YiCw8rz8OO9YzTpB4TAFv8YJJyiJ6d4czP4=
+
+Name: com/balancedbytes/games/ffb/CardEffectFactory.class
+SHA-256-Digest: /eX1/u3bfQ/M8t+jAHx1WG+xQInwWd3DEhR39J5Qm0A=
+
+Name: com/balancedbytes/games/ffb/client/StatusReport.class
+SHA-256-Digest: zw/sUmi+Y7O3gbspR9EF/y/7iQTuWGzHxfl3tLoMai4=
+
+Name: com/balancedbytes/games/ffb/model/RosterPosition.class
+SHA-256-Digest: wy9L81hpqEXrG7knRS1WVjy9UMSw1qJwsAWyKImLRhs=
+
+Name: org/glassfish/tyrus/client/ClientManager$ClientActivityListener.
+ class
+SHA-256-Digest: lyeOaYgv5jkPVKiNjAQfGTYNlUYsDBtEGOH9GaC6fOs=
+
+Name: com/balancedbytes/games/ffb/report/ReportCoinThrow.class
+SHA-256-Digest: tgcXhaW3xblRzjjNl4BScy5YixlLw1ps77CqgTr/bDo=
+
+Name: javax/websocket/RemoteEndpoint$Basic.class
+SHA-256-Digest: NypGh+JmwkNfq3kA8PNWFVJPLwpX5S1VO9kzLhe5xXQ=
+
+Name: org/glassfish/tyrus/container/jdk/client/ClientFilter$2.class
+SHA-256-Digest: RN4KBmwJsnGGF+qs1t6eTXRsGvBIBRMr+E0RGj2Y76g=
+
+Name: com/balancedbytes/games/ffb/option/IGameOption.class
+SHA-256-Digest: yBGVfMWu+T3qs9AoMaSSvTlC67uKqADVrEznWqjO3TU=
+
+Name: com/balancedbytes/games/ffb/client/dialog/Dialog.class
+SHA-256-Digest: CZEitrrtrV/O+BpcjELA59bKxaqfn5nVxNGZZu/D+Po=
+
+Name: javax/websocket/DecodeException.class
+SHA-256-Digest: PzmY3wpQglHhGixhqY5xJbyo7f4uCrTsIVB3o9XYG1Y=
+
+Name: org/glassfish/tyrus/core/TyrusWebSocketEngine$NoConnectionUpgrad
+ eInfo.class
+SHA-256-Digest: /EYpGJm8qqsLcbi8kmAiV5ZUmQizbfdwE4mcbel6rp4=
+
+Name: com/eclipsesource/json/JsonParser.class
+SHA-256-Digest: lJVZDigJYcdupHzfnpWB/J+W91fEkj5e4O5NngES84g=
+
+Name: org/glassfish/tyrus/core/RequestContext.class
+SHA-256-Digest: shSmlOeMYZJi9mRGoKsRYv2nrCIrUEpS/eNoKT2b+iM=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogJourneymenHandle
+ r.class
+SHA-256-Digest: XrSKrvhrn6Atg+0PujzclVsiZ9DGk/uuxcB0Ltuf2lU=
+
+Name: org/glassfish/tyrus/core/TyrusEndpointWrapper$5.class
+SHA-256-Digest: iiRqaq6WC3fkojyPoC26L+E1vIS6ifRh/OlEm7mu30Y=
+
+Name: com/balancedbytes/games/ffb/client/ui/CommandHighlightArea.class
+SHA-256-Digest: OUksjOc3up9i4riXs+SSopiYU9TP2fCaQzDpAY2Eiuo=
+
+Name: com/balancedbytes/games/ffb/IFieldModelChangeListener.class
+SHA-256-Digest: FRTJzfgjHYc5e7CY7s+FMhukGCTghlQxqkpizQ/DeUU=
+
+Name: com/balancedbytes/games/ffb/dialog/DialogConcedeGameParameter.cl
+ ass
+SHA-256-Digest: Wj2HWsMWWrgJDZzczY0n4a3vl1jROTRUHYgQhOo6fCk=
+
+Name: com/balancedbytes/games/ffb/net/commands/ClientCommandCoinChoice
+ .class
+SHA-256-Digest: b90WCADB/ngJpvuWH1YKhIeeUALeKj9lND/FQdL+Kiw=
+
+Name: com/balancedbytes/games/ffb/client/dialog/inducements/DialogBuyI
+ nducements$2.class
+SHA-256-Digest: 2Zv73zX3ny+kEHd5MB/ImzX1fCqv9V8Pwg0zPrp4inI=
+
+Name: com/balancedbytes/games/ffb/option/GameOptionFactory.class
+SHA-256-Digest: jo/owN6NHWzdVOBf84ZbcENSJjIw0xE5pQ0JKPD3o1I=
+
+Name: com/balancedbytes/games/ffb/json/JsonIntArrayOption.class
+SHA-256-Digest: JKjfWrOAk+A76xX7ob0UdIU0lu2FK0DP8AdrcUoH9fo=
+
+Name: com/balancedbytes/games/ffb/report/ReportInjury.class
+SHA-256-Digest: seLfyz6QACRuVNxD6etZq/HNpjVIkS8Pn79y1b7iV7E=
+
+Name: org/glassfish/tyrus/core/Masker.class
+SHA-256-Digest: qNpnrg3I2zt6rnWJ1WZQv4toEX8MgbAGxdu4IL4V/3w=
+
+Name: org/glassfish/tyrus/client/ClientManager$3$1$1.class
+SHA-256-Digest: GM8wpP1S5bXNBJHXgKoQqXQoSblKmUAKmwevEd6TMIM=
+
+Name: org/glassfish/tyrus/container/jdk/client/ClientFilter$1.class
+SHA-256-Digest: l5L/ovv4Gd+I+gV1qbFCYrY5yQKVN2fwKcn/H1/snb4=
+
+Name: org/glassfish/tyrus/core/coder/PrimitiveDecoders$DoubleDecoder.c
+ lass
+SHA-256-Digest: XZ58abJwPaskuAa4IDNBLYd3I2vEEPjbesF6r3jWTig=
+
+Name: com/balancedbytes/games/ffb/net/commands/ClientCommandTalk.class
+SHA-256-Digest: i8GIm1Nvaz/usmNl/qCXjCVeyyBa6JxSWtJyzXq3nqw=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogConcedeGame.clas
+ s
+SHA-256-Digest: nXkXX9wb2zQA50UWNkVI7ZgPkoa/CwGdbdYgC1G3OsQ=
+
+Name: org/glassfish/tyrus/client/auth/AuthConfig$1.class
+SHA-256-Digest: c/wNw233Fs/sw5WA/TM/+OpoZi1KFfeU21Alu8YHv/Y=
+
+Name: org/glassfish/tyrus/core/ComponentProvider.class
+SHA-256-Digest: kwkHvn7vr+Hdmxm/1zQ8n1Ytb2sxAnIfCP1Phxpeg5c=
+
+Name: javax/websocket/server/ServerEndpointConfig.class
+SHA-256-Digest: T3rAsaHpfBZhHr1gGu6gJffwhKefxR4anKnXGLiZYIU=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogDefenderActionHa
+ ndler.class
+SHA-256-Digest: X5YhZ1rx8rp9NqrtgYQyF3ZGJQerGPsuwnu3mw4sXmM=
+
+Name: com/balancedbytes/games/ffb/RightStuffModifierFactory$1.class
+SHA-256-Digest: 5i0gayP0wfZu3jiKbNbCK0ygT3eShDvT441zV4DJs/Y=
+
+Name: com/balancedbytes/games/ffb/util/UtilPlayer.class
+SHA-256-Digest: gMiCVAdVV7Bj1kW8qsSv2+t2tFQ54N8IzS+dSzNeeFI=
+
+Name: org/glassfish/tyrus/core/MaxSessions.class
+SHA-256-Digest: OWhUfLgSsRIxnppKX4fqqR21QeEyxcIhViKbiTLYVQA=
+
+Name: com/balancedbytes/games/ffb/option/GameOptionId.class
+SHA-256-Digest: ZxenWtyNKvS5bu7/KQ8snoXvOEoEObTUsezhQOzhrrI=
+
+Name: org/glassfish/tyrus/core/OutputStreamToAsyncBinaryAdapter.class
+SHA-256-Digest: lSIoXFE6vCvmWAFZwzzvyuggRZiSXPk0E01H2fC3mLM=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogPlayerChoice$1.c
+ lass
+SHA-256-Digest: Y6Yma7TQtuS8iv6IpUHKlXQXEGjs82TTPAyulwCcyrw=
+
+Name: com/balancedbytes/games/ffb/client/animation/IAnimationSequence.
+ class
+SHA-256-Digest: E2KZUQTYbf6P8ZSIxWrbmAZXjgND4Brr79rSH5KuIvM=
+
+Name: org/glassfish/tyrus/core/TyrusEndpointWrapper$SessionCallable.cl
+ ass
+SHA-256-Digest: wrcInp757HFS1RR22qEsBYUZCGzi3kUa2RSm6Br92QU=
+
+Name: com/balancedbytes/games/ffb/client/UtilStyle.class
+SHA-256-Digest: 2iUJTYCcQCGv//TDLbG1/RlEVOpc44rvHth0rpXPojM=
+
+Name: org/glassfish/tyrus/container/jdk/client/SslFilter$WriteQueue$1.
+ class
+SHA-256-Digest: 4PI4bWFSo7zXQxx65WCaP08A5CvDGSiND1sauBWsR+Q=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogUseApothecary.cl
+ ass
+SHA-256-Digest: b9AqygHrI9h+qdRITIev/Tou3Kkuaz+w9yEalndg904=
+
+Name: org/glassfish/tyrus/client/ClientManager$3.class
+SHA-256-Digest: Q5CzFFBhj0ACARNS8jisYL7ehg6uO610kDkEgnDGXTo=
+
+Name: com/balancedbytes/games/ffb/util/UtilCards.class
+SHA-256-Digest: 2GNKLjnY853CZoS58s7B++KKimiEt/hILwwMH9FYx1Y=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogGameStatisticsHa
+ ndler.class
+SHA-256-Digest: FYq83qDxsWS9qBdNCxSljjhkOGwTQqjt+jCeyPTIK3E=
+
+Name: com/balancedbytes/games/ffb/client/ActionKeyGroup.class
+SHA-256-Digest: nQXi8B9mJGbMUNxsOqq41vMToRTdFvhNQ1GkEIFHI6U=
+
+Name: com/balancedbytes/games/ffb/client/state/ClientStatePassBlock$1.
+ class
+SHA-256-Digest: aJY/1vaTEiP3uNj28RCiBfjgRhY1v5fofGj3t9+qrEk=
+
+Name: org/glassfish/tyrus/core/cluster/RemoteSession$1$1.class
+SHA-256-Digest: GyL3hcydS+AhLHQPV2U/qxJSv5crYBN6al6xAUXFHSc=
+
+Name: com/balancedbytes/games/ffb/PassModifier.class
+SHA-256-Digest: +yRs82b+wa3kTyzu7cRUkmq1aCHO1/iPUeFSCC3P+os=
+
+Name: org/glassfish/tyrus/core/ErrorCollector.class
+SHA-256-Digest: NtFCHP2WA8StICGsklBItp+oB+JiKS9huFKAXarODJw=
+
+Name: com/balancedbytes/games/ffb/report/ReportWeather.class
+SHA-256-Digest: ct6F00F1JEXDHzB1qnl/2ag6cloSPdeMtCCSIp4R/7w=
+
+Name: org/glassfish/tyrus/core/uri/internal/UriComponent.class
+SHA-256-Digest: qiQz0uaDO3N01OkF1iyhCFouG2rWC3efEIGa8RcfCU0=
+
+Name: com/balancedbytes/games/ffb/CatchModifierFactory.class
+SHA-256-Digest: 8ebaPEH/aPO/CBuxdsPvdzj1KXWQsVfi4lVu8VRv6zE=
+
+Name: com/balancedbytes/games/ffb/PlayerChoiceMode$1.class
+SHA-256-Digest: 7ABYXRIIHntlaBpijEDZrRYTebGVxbjWMYFzjLQlMH4=
+
+Name: com/balancedbytes/games/ffb/StatusType.class
+SHA-256-Digest: 6WYNAU+YrTCB6Mm7bIcQL+7n/Mf/cdIaMECoIOYVLR8=
+
+Name: com/balancedbytes/games/ffb/IDialogParameter.class
+SHA-256-Digest: Ed6SS802+Ly1RrJ3z6j58CBDRNyYKFzNmM4Cq/lLoVI=
+
+Name: org/glassfish/tyrus/core/HandshakeException.class
+SHA-256-Digest: 4UTgriBRheKJcZwo+RzLMySBNYNXJuqvWZT+glEgd94=
+
+Name: com/balancedbytes/games/ffb/PassingDistance.class
+SHA-256-Digest: qUdAPf1RJnEB3Ud5oy6LC605QFpQtPxgwTnA28Nvmiw=
+
+Name: com/balancedbytes/games/ffb/report/ReportInterceptionRoll.class
+SHA-256-Digest: ST6QpgmOw/KiK7CD6ob/UhjX58r4M5TLJY8O03F70ik=
+
+Name: com/balancedbytes/games/ffb/client/dialog/inducements/MercenaryT
+ able.class
+SHA-256-Digest: ZJj2pb+1EgSTeB5T8ClbSZnqqgFa2WkFhRl9PJeFHWc=
+
+Name: org/glassfish/tyrus/spi/ClientEngine$ClientUpgradeStatus.class
+SHA-256-Digest: yVPDnhSgE+s+VDQ1Mcx3DSMOVrTnyDJxBFR/J2Gm9io=
+
+Name: com/eclipsesource/json/JsonArray$1.class
+SHA-256-Digest: lwb6oVWQunELnCFoueNAvbacUebRUBZ9h4HMCw9O3vQ=
+
+Name: com/balancedbytes/games/ffb/net/commands/ServerCommandGameList.c
+ lass
+SHA-256-Digest: 1EUhu/i4AgASsedyk63Bbkc52P79WyedDt9q5+mwr4M=
+
+Name: com/balancedbytes/games/ffb/client/dialog/PlayerCheckList$Player
+ CheckListRenderer.class
+SHA-256-Digest: H677SG+7Xr/pCh9gq6xQl5O27zz3Zv1qbNuQkxyUvM0=
+
+Name: org/glassfish/tyrus/core/TyrusWebSocketEngine.class
+SHA-256-Digest: AstzBgF2N+pCO7sPogKdmdOkj5Euto6o82Ob4HY1PuQ=
+
+Name: org/glassfish/tyrus/container/jdk/client/TransportFilter$4.class
+SHA-256-Digest: y9xwka8K9AFBsaq/C3Hx+mNNN8J23rZQZIt49gcUPCE=
+
+Name: com/balancedbytes/games/ffb/json/JsonStringOption.class
+SHA-256-Digest: 7jaPmMVtHlUpCAH8qL+9cIP1DtptHN/PZztwF7tooZc=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogInterception.cla
+ ss
+SHA-256-Digest: oQpaft41m0H0AUYcEtXwv7KNKdG4gu8c+LZcrzrf/6U=
+
+Name: org/glassfish/tyrus/container/jdk/client/ClientFilter$JdkWriter.
+ class
+SHA-256-Digest: kmieYlJxC6FjKcMyL3JfHTFGLcl/dGlFlT0SMoI0pfk=
+
+Name: com/balancedbytes/games/ffb/client/sound/ISoundProperty.class
+SHA-256-Digest: vRkmxAZgKIE2ohqocCvNg3OPPnu8lXGvz+pJpwnDTzM=
+
+Name: org/glassfish/tyrus/core/ReflectionHelper.class
+SHA-256-Digest: aGxvLxvJ3qP/JiRB0KOf4lzBjhHAd4gfYNBExI19+QM=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogManager$1.class
+SHA-256-Digest: iOtyZMuR8a+kP7dgf/3FTTOsXPjHJqeMiEFkfUonCmg=
+
+Name: com/balancedbytes/games/ffb/ReRolledAction.class
+SHA-256-Digest: VRc87iN781QragJnrK5KP5hBsgJimGN2sfT6V4ALh4w=
+
+Name: com/balancedbytes/games/ffb/dialog/DialogDefenderActionParameter
+ .class
+SHA-256-Digest: gTGgVmFvTNY7hff79i7XzQl2mHVwXDIaX9fOJi7KXfM=
+
+Name: com/balancedbytes/games/ffb/json/JsonLongOption.class
+SHA-256-Digest: YLVZ5ds5QX60PUT4N1AhURfTcyydc9KYfNLN63LkBeE=
+
+Name: org/glassfish/tyrus/core/TyrusEndpointWrapper$9.class
+SHA-256-Digest: gYqUUF/66bk3j4U9cI65lVCsH3ozkvgLon6jqy7msLI=
+
+Name: org/glassfish/tyrus/spi/Connection.class
+SHA-256-Digest: bv87W2Qzn0on8mK8pk/Uh2kx4d3yJh7hZ+6NyhRqlAY=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogLogin.class
+SHA-256-Digest: E7OY0zEeUp3GD2PGxhBj4jEPJnafc9uIJ+b+tSW00J4=
+
+Name: com/balancedbytes/games/ffb/client/animation/AnimationSequenceTh
+ rowing.class
+SHA-256-Digest: DscF5J258zq77H6MLcwRgECqvuzoOPLgBXJb1nQgo+M=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogAboutHandler$MyG
+ lassPane.class
+SHA-256-Digest: XZbOM88I9Ik7D3JyEhc5IkCIUw23bA9/vCbmQgJvYtU=
+
+Name: org/glassfish/tyrus/core/TyrusWebSocketEngine$SuccessfulUpgradeI
+ nfo.class
+SHA-256-Digest: 3HdgMEODMi6fjcOgLC2dU4BvlzrtDqsY4rjygQFlEEY=
+
+Name: com/balancedbytes/games/ffb/util/UtilUrl.class
+SHA-256-Digest: qK+dXmNbPsfM1sG/DiydData4MlUxgO7BTUjbluMh0M=
+
+Name: com/balancedbytes/games/ffb/report/ReportSpectators.class
+SHA-256-Digest: nsXFMeDg2QLwhBzaqZel3ng3LGPD78/z9FwhC6ZQCuM=
+
+Name: org/glassfish/tyrus/core/uri/Match.class
+SHA-256-Digest: 1FRg5VDqVrrDCi8sKUBtWAlBrI6eDBDdgU0MDDRFtMI=
+
+Name: com/balancedbytes/games/ffb/MoveSquare.class
+SHA-256-Digest: 8WgD1Go7f4IXaWMsLsq2vCODpno7bd656jfGLHzvDKg=
+
+Name: com/balancedbytes/games/ffb/Skill.class
+SHA-256-Digest: qvnsmoBBTGsmV8fWNEBXa4f+N8eM8AoAZtdXH5miVFE=
+
+Name: com/balancedbytes/games/ffb/RangeRuler.class
+SHA-256-Digest: 8FmewqY2/GTLxPxpz7dSTmqK0tJ0T87bJ7zcoFwgNmc=
+
+Name: org/glassfish/tyrus/container/jdk/client/TransportFilter$Queuing
+ Executor.class
+SHA-256-Digest: Gp/CjgJtnL5vS6EfEh5RHShTop65ZkV/kIaj9fO4G2U=
+
+Name: org/glassfish/tyrus/container/jdk/client/TransportFilter$3.class
+SHA-256-Digest: tXVYyIZZayw+3DZU6UfKzXU1yzT0YXVQtA+mUQdJzVk=
+
+Name: com/balancedbytes/games/ffb/model/TeamResult.class
+SHA-256-Digest: wDwZAiaGuSlWbnSVWUHtuovxXZ7peabaBuLifpu2R8Q=
+
+Name: com/balancedbytes/games/ffb/net/commands/ClientCommandPushback.c
+ lass
+SHA-256-Digest: aSC+JXRDq/RfZmlf9mQXDVtP9+0yARrbU/ZPxGSOq74=
+
+Name: com/balancedbytes/games/ffb/report/ReportSkillRoll.class
+SHA-256-Digest: ybQzpLvIqjMsE2zUdzeOt5gaHcw0T1Er6yKnz2VrwDA=
+
+Name: org/glassfish/tyrus/core/TyrusEndpointWrapper$8.class
+SHA-256-Digest: WLumVBs6/iLs9TuoBRsL3j1IaZJEeIbGVdctepVY/Xo=
+
+Name: org/glassfish/tyrus/core/InputStreamBuffer.class
+SHA-256-Digest: Ca7whWjxKyMoI3RhgTanRzT5Jtr0xhVQU7MhCXaB4os=
+
+Name: com/balancedbytes/games/ffb/client/ui/IntegerField$IntegerDocume
+ nt.class
+SHA-256-Digest: RvBZXVYYda/Qhdx67RxDt07BxfVl63db0SVjsSgQAzY=
+
+Name: org/glassfish/tyrus/core/cluster/RemoteSession$1$2.class
+SHA-256-Digest: MFc4+fOkGy332pJG1ImpqfiWh1YFTSK8MZCMPOHQrXw=
+
+Name: com/balancedbytes/games/ffb/json/JsonFieldCoordinateOption.class
+SHA-256-Digest: ICmXY0jaZ+1SG9v45BCjc5e1ukPwwAuaHJwU9PP0mVs=
+
+Name: org/glassfish/tyrus/core/TyrusExtension$ParserState.class
+SHA-256-Digest: A6NPtRJ5md54paFjBb9hGUmvmUKTZAnwtYZsGe/bGKk=
+
+Name: javax/websocket/Decoder$Text.class
+SHA-256-Digest: tNGtgNwPMBuzSaIDoIM5FM0rY1uunwbMbSbxjX5LUeI=
+
+Name: com/balancedbytes/games/ffb/model/change/ModelChangeDataType$1.c
+ lass
+SHA-256-Digest: kCQSwlMncn6CTXdBtFUjx/EAfNE5MZq0Lap34EEBAR8=
+
+Name: com/balancedbytes/games/ffb/model/change/ModelChangeDataType.cla
+ ss
+SHA-256-Digest: gMCkgbYE6EirCKdQkqWUS4eEngVxCm7KgVuRadod2S0=
+
+Name: org/glassfish/tyrus/core/ServiceConfigurationError.class
+SHA-256-Digest: m2cjS/PSJ4Reo+q47Na+2JLVJwSn7rmOKl015+oAPNY=
+
+Name: com/balancedbytes/games/ffb/client/ui/PlayerDetailComponent.clas
+ s
+SHA-256-Digest: ZfNG5SlU6A7jL1HoI03ldF7p0vDZBzcHzeY0DQqpaEc=
+
+Name: org/glassfish/tyrus/core/ServiceFinder$LazyObjectIterator.class
+SHA-256-Digest: jna48wvKYSX1uCi6kgRzrDta8mCr/f02yWf/5rvOzvw=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogSkillUse$1.class
+SHA-256-Digest: eM6bhQZBKNRvTHfCSOkCW5bEsn8A2gVMsaU/BwU5D1k=
+
+Name: com/balancedbytes/games/ffb/client/state/ClientStateGaze.class
+SHA-256-Digest: gYDcismxzmjEOPtXJgTM6twtb9G27XGm47wPg/oXYtU=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogSetupError.class
+SHA-256-Digest: 2mcrQXyifZkqKQYNjVsoqvbma+/xquK+iphv0RWjFMc=
+
+Name: com/balancedbytes/games/ffb/client/state/RangeGridHandler.class
+SHA-256-Digest: WvYVPQcV3e4jz/CGL0Yzu28sdgJM4D1WFR7FrZszGPM=
+
+Name: com/balancedbytes/games/ffb/client/animation/AnimationSequenceFa
+ ctory$1.class
+SHA-256-Digest: QWEKy+dVGv1xZJ45mO8ZgRI8Dc5g3xo1Qwij619gCx0=
+
+Name: com/balancedbytes/games/ffb/model/GameResult.class
+SHA-256-Digest: e0AAegKV/V/WUAdSxXIXr0zm2H5WN898EZhMbIl1Jr4=
+
+Name: org/glassfish/tyrus/core/frame/TextFrame.class
+SHA-256-Digest: khuGrD2sAIOMIymSjUFqs0AuQnBpUMvMVp9R7xNwCSI=
+
+Name: org/glassfish/tyrus/client/package-info.class
+SHA-256-Digest: lGk6hu1k/PRxMzMODcq5nVZUPy7weRxAvEnVHi2vrnc=
+
+Name: com/balancedbytes/games/ffb/InducementPhase.class
+SHA-256-Digest: HBWnDXrFUfWIn8NlHaPjjeBczJlmAs3XNQ0CZ2e8c2s=
+
+Name: com/balancedbytes/games/ffb/model/change/ModelChangeList.class
+SHA-256-Digest: zvZkWU6Kn6ZNEjiArNin+4t03vnwNZmWovNndV0Uzcw=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogReRollHandler.cl
+ ass
+SHA-256-Digest: MiD9yBF2cWhHFl8mSno6CyS0hPVL9EBuHRzvOoDUz+E=
+
+Name: org/glassfish/tyrus/core/AnnotatedEndpoint$ParamValue.class
+SHA-256-Digest: 1VQzFulM+obY/HKnGapMqt/VyNB4iOQnGdlgvnKwTeM=
+
+Name: com/balancedbytes/games/ffb/report/ReportNoPlayersToField.class
+SHA-256-Digest: Y1ND2aDjp4sM+2n1RSVJdKMXtfNxjhKXdH4am7Dg+IE=
+
+Name: com/balancedbytes/games/ffb/KickoffResult.class
+SHA-256-Digest: DxU+CYlDInVDpsV1EJwtTC9lougNZteuBl//9SFsKX4=
+
+Name: com/balancedbytes/games/ffb/net/ServerStatusFactory.class
+SHA-256-Digest: of2nFXQLOyX1VxVuKrRZU3gv+6DyGDZJ1YL2/+8oUgw=
+
+Name: com/balancedbytes/games/ffb/util/DateTool.class
+SHA-256-Digest: i4yx7HLrhZ3J+as8K5FpQQZrK54vnDT6sBQ38etzM2I=
+
+Name: org/glassfish/tyrus/core/SecKey.class
+SHA-256-Digest: aSumA9xcsN8wJNfyTcwUsKgHGSETGFAMTGje5zW58eI=
+
+Name: org/glassfish/tyrus/client/auth/Authenticator.class
+SHA-256-Digest: MBe23Ny3q3tICB8cuxWV1JzqJbtLKDPrM8P6I0Uc7mM=
+
+Name: com/balancedbytes/games/ffb/ArmorModifier.class
+SHA-256-Digest: iduotXmKHXwwZKV4RXvjs2W4GCYaIU4tArHdL7CkAHg=
+
+Name: com/balancedbytes/games/ffb/report/ReportIdFactory.class
+SHA-256-Digest: DcJWrLPqpl1x7F9QbHz4scBx9G7lCIRBe10xY605bCo=
+
+Name: org/glassfish/tyrus/core/ServiceFinder$LazyClassIterator.class
+SHA-256-Digest: A6tcvC3FVvJhYej15KjpAJy2SpMntD2XsBs8qB3biSg=
+
+Name: org/glassfish/tyrus/core/coder/InputStreamDecoder.class
+SHA-256-Digest: ufOrqvfOxn+gGL4+hWQeHDJmuM7mE2cwT+S3UWWYdVI=
+
+Name: org/glassfish/tyrus/client/auth/DigestAuthenticator$QOP.class
+SHA-256-Digest: TJXFOYNXYyAbwkqEPm8uc/eCBj8GdCM/cVq5LYLLXfc=
+
+Name: org/glassfish/tyrus/container/jdk/client/TaskQueueFilter$Task.cl
+ ass
+SHA-256-Digest: sUnh+zpAOW6RUSfdFyytgTYPcIkILmAIuPXewpP/2ps=
+
+Name: org/glassfish/tyrus/core/TyrusSession$1.class
+SHA-256-Digest: IgSm3pXK/UuFEtJbbfza5L1AQOHwKBGGgx5DMgdvkFs=
+
+Name: org/glassfish/tyrus/client/ClientManager$2.class
+SHA-256-Digest: sawqoUmGABdvqomDTQ3eWmXGBPdHgOd7aypZw6JONjI=
+
+Name: org/glassfish/tyrus/core/coder/NoOpByteBufferCoder.class
+SHA-256-Digest: kfBFGI59zjenTdjFuoH4eU6mjUyHwSXqV7dRrvXKFd0=
+
+Name: org/glassfish/tyrus/container/jdk/client/TransportFilter$2.class
+SHA-256-Digest: bJKwnujUmbswkrRfT/rGqV4yTH1WTdUQmDZx8aYS9/4=
+
+Name: com/balancedbytes/games/ffb/client/dialog/inducements/DialogBuyC
+ ards.class
+SHA-256-Digest: 3PqqC0jnkl/sD7MfBcqaRSMPgGGI9/6iNUvmeuds+EM=
+
+Name: org/glassfish/tyrus/core/TyrusExtension.class
+SHA-256-Digest: nk4ln2fohVTlP9CP35gXBVTf4v8gusnJtOMVepm2+iU=
+
+Name: javax/websocket/MessageHandler$Partial.class
+SHA-256-Digest: dA7uwM+8SFNpWLLmc4IjCO/fw89/VIIn8yw2xAwThRk=
+
+Name: com/balancedbytes/games/ffb/model/Team.class
+SHA-256-Digest: ivc0jGts5A/ZDZZmdKabIpjuRR9aCY3DPkvCHXwF+t8=
+
+Name: org/glassfish/tyrus/core/uri/internal/PatternWithGroups$EmptyStr
+ ingMatchResult.class
+SHA-256-Digest: 1b2TcxEdD2dyro0HC8slzS5owbpuzXVTvDOBv+b3JY8=
+
+Name: com/balancedbytes/games/ffb/dialog/DialogSkillUseParameter.class
+SHA-256-Digest: VmivGcSNH/6r3ZgrsIJ/0BpfELyeR7zOMRRU/ewNV6A=
+
+Name: META-INF/services/javax.websocket.ContainerProvider
+SHA-256-Digest: l7ostpUZ1rkuGdsBsZQjlRhF+iOdB8aUy7XivcQt3w8=
+
+Name: org/glassfish/tyrus/container/jdk/client/JdkClientContainer$1.cl
+ ass
+SHA-256-Digest: rTMc0lSST58m1lnhCbasCXoHwNDOQhRNSzrH95ilxMk=
+
+Name: javax/websocket/SendResult.class
+SHA-256-Digest: KbZN7ZH0gg26w3YnlBQDNFLdxAK8v4TdQjcwrCS7EO8=
+
+Name: com/balancedbytes/games/ffb/client/dialog/inducements/MercenaryT
+ ableModel.class
+SHA-256-Digest: 1Af4OP3xMhx0qg/Vn53m3jH7X2FkbVwj+8jkf3KmyJ0=
+
+Name: org/glassfish/tyrus/container/jdk/client/package-info.class
+SHA-256-Digest: TVSJkV6kaEBq/L/hia/3F882cpZsnaR5VomwzcOrYSQ=
+
+Name: org/glassfish/tyrus/core/DebugContext.class
+SHA-256-Digest: 4vDFHIhuB5/cqDNyf/0JQUFpvA9FgKRrB0NzvjNjNdY=
+
+Name: javax/websocket/Encoder$BinaryStream.class
+SHA-256-Digest: Ub+fbjOis4P2gvdbG22TbrkEzrIEr/xqmYuQg5RCCvE=
+
+Name: com/balancedbytes/games/ffb/client/handler/ClientCommandHandlerA
+ ddPlayer.class
+SHA-256-Digest: DTdhzqdiKM0jH27FF5NPBkanCnAuHyGY7HxMD91ZMPs=
+
+Name: javax/websocket/Decoder$BinaryStream.class
+SHA-256-Digest: HS+qAf0u2Idd3gVvm3HpIQDwt2q8U7X0jgJdB+uP894=
+
+Name: com/balancedbytes/games/ffb/dialog/DialogUseInducementParameter.
+ class
+SHA-256-Digest: YlJ9aYp+uB7UFEFBObwDrtubwYyq93Cr0zB1jLJDB00=
+
+Name: com/balancedbytes/games/ffb/client/layer/FieldLayerPitch.class
+SHA-256-Digest: wKDX1IMI9P0FItrxTkHI4Hx6dKJf95jIaNlbjberZJ8=
+
+Name: com/balancedbytes/games/ffb/net/commands/ClientCommandWizardSpel
+ l.class
+SHA-256-Digest: dmSrpUg0xEPb054EbXu2vXrqeXday53pjeha91pdY5s=
+
+Name: org/glassfish/tyrus/container/jdk/client/TransportFilter$1.class
+SHA-256-Digest: NlL/kx+QKjrrOcl3Hv80RzfvAI4ecO1xmelIiOGqZB4=
+
+Name: com/balancedbytes/games/ffb/report/ReportSkillRoll$1.class
+SHA-256-Digest: axmLvnbAaw4BbImq58UMkC/66EDZ4y6DoPT8A+wqLeM=
+
+Name: com/balancedbytes/games/ffb/net/commands/ServerCommandPasswordCh
+ allenge.class
+SHA-256-Digest: qCWWm/oGOTr+nQLwD+EwtEyJHybiuby9rctd2i0HM1w=
+
+Name: com/eclipsesource/json/JsonObject$HashIndexTable.class
+SHA-256-Digest: njtBRFPnFWUDPYNQH8wkJ+eDS+7V8/qWvH3oHG9f4EU=
+
+Name: com/balancedbytes/games/ffb/client/state/ClientStateBlock.class
+SHA-256-Digest: ZbtfLfzEL8uMM5odZ1UILhgxO01c/HtIJMDJbvrdP6k=
+
+Name: org/glassfish/tyrus/container/jdk/client/JdkClientContainer$2.cl
+ ass
+SHA-256-Digest: LQn2890Bsjxp7gRlVGZXBtrp1iZaFYSyi2SSIboVPJA=
+
+Name: com/balancedbytes/games/ffb/client/handler/ClientCommandHandlerF
+ actory.class
+SHA-256-Digest: S6N3Iv+PhljDUfcdIhEQoipqmyNvvIYyh1Ji1PlSFUA=
+
+Name: com/balancedbytes/games/ffb/client/util/UtilClientCursor.class
+SHA-256-Digest: 0ROUJTzh0Ou20yvOBxX4VNfQjCI6tJ0Er00Fhcw47KQ=
+
+Name: com/balancedbytes/games/ffb/json/IJsonWriteable.class
+SHA-256-Digest: BIWhL7JIKe8vRVB1D6EXlwraMwWtTjTJm6a0Q5I8dmY=
+
+Name: com/balancedbytes/games/ffb/PlayerGender.class
+SHA-256-Digest: 8TlyaiZ2WLgMgc43BsUzVyOQaRMTcJokiZdCn6n2tt8=
+
+Name: org/glassfish/tyrus/client/SslContextConfigurator.class
+SHA-256-Digest: +3F7TptDHRHmikeku1qVMwqY/2DV3KKrXdSVJUeJV+U=
+
+Name: com/balancedbytes/games/ffb/xml/XmlHandler.class
+SHA-256-Digest: USJ1M0tX8sZulTXD/U00G7TMrNBihkXbLWwQHmIXjcY=
+
+Name: com/balancedbytes/games/ffb/net/commands/ClientCommandKickoff.cl
+ ass
+SHA-256-Digest: NHhCqsir6P4B7xO1KfgquFwFvOXz9toaJ9fijHTWAuI=
+
+Name: org/glassfish/tyrus/client/RetryAfterException.class
+SHA-256-Digest: CXxrCBXuOd/l8gXATHlwKg2rhC82un+N6Xefr1Qp+g4=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogBlockRollHandler
+ .class
+SHA-256-Digest: aJmvY1Ychasdpoyru+GcdeSbYz5KkfQtK7kFUopmUyk=
+
+Name: com/balancedbytes/games/ffb/CardFactory.class
+SHA-256-Digest: ucmztuvWVqdwHiCQYJin8RL4BWX7ijNCGu4oNynbeVU=
+
+Name: com/balancedbytes/games/ffb/util/UtilPlayer$1.class
+SHA-256-Digest: rk7WU/wGNdfkDW41IjDvVfSBeXJi1VbiwSz67xhvJvg=
+
+Name: com/balancedbytes/games/ffb/model/GameOptions.class
+SHA-256-Digest: Nq3tajIhEf5VZ6EZiEz21i4wLeDCIHeVZwIB3oEex/c=
+
+Name: com/balancedbytes/games/ffb/dialog/DialogBribesParameter.class
+SHA-256-Digest: Ld6vQ+ONxOTafJ7wuoWOD/7EPvNGpyJm2UeECMMcHFw=
+
+Name: com/balancedbytes/games/ffb/report/ReportDefectingPlayers.class
+SHA-256-Digest: hkOP4/fFNhhIQ2EC5rbMAitGZNVJXhmBN03+1GtgLK0=
+
+Name: com/balancedbytes/games/ffb/CardType.class
+SHA-256-Digest: cyqfgLq/3Ip/NMKNx03AJP7DwG3XfWTvWvypEu9YqAw=
+
+Name: com/balancedbytes/games/ffb/client/animation/AnimationFrame.clas
+ s
+SHA-256-Digest: mN1oJi4Xa6GOjw6kw3TTNPA5D9sUFUgywQs4H0rFX7A=
+
+Name: com/balancedbytes/games/ffb/client/util/UtilClientMarker.class
+SHA-256-Digest: 5X/1weaLOLuGl2RLhZW6JDEjXSdX/DSv3HAulmq8pvQ=
+
+Name: com/balancedbytes/games/ffb/model/ActingPlayer.class
+SHA-256-Digest: mfYlM7ma+45S11EHZ14D23BP3NAqMEthkufwU9ow4uA=
+
+Name: com/balancedbytes/games/ffb/InterceptionModifier.class
+SHA-256-Digest: O7TPzbWuS89ZTyxpVecDjimydRFjiuyYLR3DQlkBDXQ=
+
+Name: com/balancedbytes/games/ffb/FieldModelChangeEvent.class
+SHA-256-Digest: f0skN4n0sGofrMDrlSZyaZRWegZizL5/NrBZ92BOnXA=
+
+Name: org/glassfish/tyrus/core/StrictUtf8$1.class
+SHA-256-Digest: kAjAAjYgpTIB1I6tEcFiKgSZ8obem8SS+6XYcFVCXuk=
+
+Name: com/balancedbytes/games/ffb/client/util/UtilClientReflection$OS.
+ class
+SHA-256-Digest: rn6q9sAw6KHOcPgsh6e5diUQUYa7if7uzw10ghyglGM=
+
+Name: javax/websocket/SendHandler.class
+SHA-256-Digest: 1XwnMlQTUMUXySEYUCiVeZUqMmGtoaazbgNSfaEY2Vo=
+
+Name: com/balancedbytes/games/ffb/client/handler/ClientCommandHandlerM
+ ode.class
+SHA-256-Digest: 9CYRYRc9ytdpa/wicYz6/XsIAfi6zQycObKaKQtg3Ls=
+
+Name: com/balancedbytes/games/ffb/client/state/ClientStateDumpOff.clas
+ s
+SHA-256-Digest: inHZS5TP5zUCBoNg4g/FntVpBMv10MUXJtrkLiAU0W4=
+
+Name: com/balancedbytes/games/ffb/net/commands/ClientCommandUseSkill.c
+ lass
+SHA-256-Digest: k+qVWyKjNXUAksyYIu9/2Y+3Bqvez1eeqG9uAzmJZf8=
+
+Name: javax/websocket/PongMessage.class
+SHA-256-Digest: LBAeTn8qM2a89B1jZ5ObqlrwyoexgmVUzOsc/iI4oto=
+
+Name: org/glassfish/tyrus/client/TyrusClientEngine$4.class
+SHA-256-Digest: f2LJdJCmf3fxHsjM6W8OawUlXbC4YVtHJs6EpGOcTJ4=
+
+Name: com/balancedbytes/games/ffb/client/ui/CommandHighlighter.class
+SHA-256-Digest: kNaHWznXM1qHEaRedYBPmSBcxVF2jWlNwZy0ImrGtvA=
+
+Name: com/balancedbytes/games/ffb/client/ui/SideBarComponent.class
+SHA-256-Digest: kbfAbPBJDAF/Z1grtyv/LUcp9SdQ3oyUhHElCbo3iEs=
+
+Name: org/glassfish/tyrus/core/ServiceFinder$DefaultServiceIteratorPro
+ vider.class
+SHA-256-Digest: VRv5FAFa38nvtI2nfmaLoZ4Q2VqqYCdblj9F5fKMIVg=
+
+Name: com/balancedbytes/games/ffb/client/state/ClientStateSpectate.cla
+ ss
+SHA-256-Digest: 66a8UbLMNRcHV7jd9D9QSTb/qdPLEdEaVNu1ev9zJPY=
+
+Name: com/balancedbytes/games/ffb/net/commands/ServerCommandSound.clas
+ s
+SHA-256-Digest: s0ef3iK+Ip26IAbSop8f96YAv3Va41bNN5CUb8sxzrE=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogTeamChoice$2.cla
+ ss
+SHA-256-Digest: 4UtsuJgNP+ueZxVakLkUNNDJeE1lAs9BZXe8RlvugFA=
+
+Name: com/balancedbytes/games/ffb/net/commands/ServerCommandStatus.cla
+ ss
+SHA-256-Digest: wzpLo4Rz3+dFz/u9pvfXBKiMExHBdivXjxCNkEhMyMI=
+
+Name: com/balancedbytes/games/ffb/GameStatusFactory.class
+SHA-256-Digest: fS9WGP0TaPbk6zqwl6zEk7a8nUl7o2vifRtsMplFEOs=
+
+Name: com/balancedbytes/games/ffb/net/commands/ClientCommandUseInducem
+ ent.class
+SHA-256-Digest: 7uBSkSH0XfDEshkKTeuIOO4b+Ev5wFUrMjNOvLHvx28=
+
+Name: org/glassfish/tyrus/core/Utils$Stringifier.class
+SHA-256-Digest: Q0RBleQKQu0bmu/n8ix1CK8A9a16ADWnIXS38Emf0P0=
+
+Name: com/balancedbytes/games/ffb/ClientModeFactory.class
+SHA-256-Digest: OzUo2zmOM1cuBG4N4c1QONr9JUJHyI7eAhYvAbIKr/o=
+
+Name: com/balancedbytes/games/ffb/InducementDuration.class
+SHA-256-Digest: tiYkGUJobCnJ7aAn2uaOEBdsIoazKT6cjC15qvQaiP0=
+
+Name: com/balancedbytes/games/ffb/model/change/ModelChangeId.class
+SHA-256-Digest: P15M1lqJQ1E5HCHatsUSHtL3+aULbMqiWp6O49e7IBc=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogLogin$1.class
+SHA-256-Digest: HhNJDXVAQDBadR5OE+RI024Vm9xEH34e0ftKwBBjCk4=
+
+Name: com/balancedbytes/games/ffb/CardTarget.class
+SHA-256-Digest: 5OAM8pLLvZgTNo/38lP8G6A8AzTzxMrpfZY3wFGyKwU=
+
+Name: com/balancedbytes/games/ffb/DiceDecoration.class
+SHA-256-Digest: qKPCAhhptAHfU+d5QXMjGraKyOigHuLPE2SdYP0Ex8U=
+
+Name: com/balancedbytes/games/ffb/util/UtilRangeRuler.class
+SHA-256-Digest: yrIDZDUIRtiJxGjBb6sVUoFAzK4+3IOLptXfeZ3v2H4=
+
+Name: org/glassfish/tyrus/core/PrimitivesToWrappers.class
+SHA-256-Digest: FuQGNGaHQyNasB7VwCBTAGJ/daflx9kkPx/1eZF+ssI=
+
+Name: org/glassfish/tyrus/core/AnnotatedEndpoint$5.class
+SHA-256-Digest: /gROl/DEj/UvLpgrAyBXoZvMOWxDrnSFvbyMmveDDlY=
+
+Name: org/glassfish/tyrus/core/TyrusWebSocketEngine$2.class
+SHA-256-Digest: qKGgtPnwk8qsram44Kw8JBevfQXHRl/Moh6Hn4ky9g4=
+
+Name: com/balancedbytes/games/ffb/util/UtilTeamValue$1.class
+SHA-256-Digest: CDeHa3wFDOegHOzJ/QW8US0nKF1ulTciFZhJTMeKp1w=
+
+Name: org/glassfish/tyrus/core/BinaryBuffer.class
+SHA-256-Digest: 2AsJhHFnGUJ2HRWquCHlVwaCc2If7q2JS6fQr7vG+d4=
+
+Name: org/glassfish/tyrus/container/jdk/client/SslFilter.class
+SHA-256-Digest: HzJX/YHLJA3usaZ3DRU7dWOHIO/5jtk9GIMwKyRPkiM=
+
+Name: org/glassfish/tyrus/core/ReaderBuffer.class
+SHA-256-Digest: zQMv9X3rY10N1/M0JM1KVizVArJT0cA0YoRjwtbNINQ=
+
+Name: org/glassfish/tyrus/core/AnnotatedEndpoint$PartialHandler$1.clas
+ s
+SHA-256-Digest: N1k4zxH0cZEd32AWzao5Ika1fhHyxTTZ4DClSxW8M68=
+
+Name: com/balancedbytes/games/ffb/BlockResult.class
+SHA-256-Digest: tBi6qS4D0I3x3nqDWkvBdX4baT0TKKUsSen9oK2X+7w=
+
+Name: com/balancedbytes/games/ffb/dialog/DialogCoinChoiceParameter.cla
+ ss
+SHA-256-Digest: 1hxnx8Xmvjzm9fj1gGLo1zEWUqNxEz8tyfgTk66WWUg=
+
+Name: com/balancedbytes/games/ffb/TurnModeFactory.class
+SHA-256-Digest: zAZTRMrrAO2sAGTFYrJRS9aCud1BKfaWENqF8DSQ4YM=
+
+Name: org/glassfish/tyrus/core/frame/CloseFrame.class
+SHA-256-Digest: 6VF8Xq22/0/7rGftZMDRyNHLnwRdy0rHJQ15iwvhILk=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogGameChoice$4.cla
+ ss
+SHA-256-Digest: pI1ZjghyWkjIWB1cKxH4Ru524KYTyh0JqgOHI2jqIpc=
+
+Name: com/balancedbytes/games/ffb/client/state/ClientStateReplay$1.cla
+ ss
+SHA-256-Digest: /m/byBOkfH0oTzQBeNxYIyB5vyAO8FIIaDeN/50V1tQ=
+
+Name: com/balancedbytes/games/ffb/report/IReport.class
+SHA-256-Digest: XK5ouAPoQ8j5GSRUBUXAeJKSXmXAzKp0LMHsEL1UQcs=
+
+Name: org/glassfish/tyrus/core/StrictUtf8$Decoder.class
+SHA-256-Digest: EVP93lokmZryUIV3EWocc5NdoqVOMOogxHkk3qYJk3o=
+
+Name: org/glassfish/tyrus/container/jdk/client/Filter.class
+SHA-256-Digest: bkvriqETDSUcX5EfAWZdlIQO/D2LYA4oOWEQHZSpx0c=
+
+Name: com/balancedbytes/games/ffb/dialog/DialogPettyCashParameter.clas
+ s
+SHA-256-Digest: K0qg/qQgFEmYIsSEsf/ZW+qa2b55etqYcosenaAD7pg=
+
+Name: org/glassfish/tyrus/core/WebSocketException.class
+SHA-256-Digest: wxfzmagiuK5xzJQyQMykzBWSCKbrqXAVbssSga6Xfqg=
+
+Name: org/glassfish/tyrus/core/coder/NoOpByteArrayCoder.class
+SHA-256-Digest: dipq7BZUphB2d0K/9okLDgXMXY58ZO/Gwc+AdUeEI4Q=
+
+Name: org/glassfish/tyrus/container/jdk/client/TransportFilter.class
+SHA-256-Digest: NyCVuBnePdJg+kZTaSpb/JbD8g/2TDnzIA/E8H/l3tM=
+
+Name: com/balancedbytes/games/ffb/client/dialog/IDialogCloseListener.c
+ lass
+SHA-256-Digest: dRFI2474174IisVGxydDa/GFs+O4zIbB7PRqYgYUk8A=
+
+Name: com/balancedbytes/games/ffb/report/ReportInducement.class
+SHA-256-Digest: +eo9vHQN3r6rfZg/ihBAX0e/UZLxCopbQ80ZNzQUWnU=
+
+Name: com/balancedbytes/games/ffb/PushbackModeFactory.class
+SHA-256-Digest: 6PNiHqkf5oh3MTy0S+S2Dnj3hfW5NdKQdRBHCMqZtL4=
+
+Name: javax/websocket/MessageHandler.class
+SHA-256-Digest: 5kLQfTZEyMndvgClXQeRdttbqXXP1TzPGv6Gyiny2cQ=
+
+Name: org/glassfish/tyrus/core/TyrusExtension$1.class
+SHA-256-Digest: RYBnkwJsqYibfi4R6lokdL06W/f6HzP9behOPzJrjMc=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogUseIgor.class
+SHA-256-Digest: 2ccLIYhHelf37kUGJPejukZnvAihRjtuSSsD49IEuik=
+
+Name: com/balancedbytes/games/ffb/report/ReportKickoffResult.class
+SHA-256-Digest: 533yEODzNf+AYriOQOi6EXt6e5YntnhV9XmSiY9Cwus=
+
+Name: com/balancedbytes/games/ffb/client/state/ClientStateInterception
+ .class
+SHA-256-Digest: f+N1YlSdSRplYTpLLagf2jtUuSH3xq43zBqYgroPmz0=
+
+Name: com/balancedbytes/games/ffb/client/util/UtilClientStateBlocking$
+ 1.class
+SHA-256-Digest: VWYFcw+LAweAeEuJMkkL8KT2JRSkF5NK44jqUpivwfk=
+
+Name: org/glassfish/tyrus/core/TyrusRemoteEndpoint$Async.class
+SHA-256-Digest: e+DxD2A1JzeO591JSlki5Pa3UV+0Zyeaj6svr8OxniE=
+
+Name: com/balancedbytes/games/ffb/model/Animation.class
+SHA-256-Digest: wwJKLenapTmlJVsIB4+p+kuxafEMaRveCQxyYd00gks=
+
+Name: com/balancedbytes/games/ffb/Weather.class
+SHA-256-Digest: mK3zoLuJF1csEzLLXb4NvhYAhXRf0yVIeUPQwVOPKE8=
+
+Name: org/glassfish/tyrus/core/AsyncMessageHandler.class
+SHA-256-Digest: xcQ2+JYoLlvzfQUgSKc1GwJG7Q/XynJb/FWFPiK7N04=
+
+Name: org/glassfish/tyrus/core/AnnotatedEndpoint$MessageHandlerFactory
+ .class
+SHA-256-Digest: 3BPMgku0aGD/0dYpT3t1Cc3daf/U3yn5z77drSimAZo=
+
+Name: javax/websocket/CloseReason$CloseCodes$1.class
+SHA-256-Digest: z0MrLmzTDxUwWRlUVofi0cW+RuSfsHYjdAo65Bnqsk0=
+
+Name: com/balancedbytes/games/ffb/client/StatusReport$1.class
+SHA-256-Digest: XyZmLcHLklHbGPxdlwDZkdDPe0s9cHCLzneQHICOAIQ=
+
+Name: com/balancedbytes/games/ffb/util/UtilBox$1.class
+SHA-256-Digest: Othj+O+a2l1QRuELr+THEix7+BDJjnTuECVE+WWiy3Y=
+
+Name: org/glassfish/tyrus/core/uri/internal/PathPattern$1.class
+SHA-256-Digest: CvrqleuCebiezzoN5fTeJYby6XfDWr8AlT9Ewu5r+8U=
+
+Name: com/balancedbytes/games/ffb/client/state/ClientStatePushback.cla
+ ss
+SHA-256-Digest: eQZlLB4XgrD7bKBBabWHbVBTguMv6PoeQxNYPx4blS4=
+
+Name: org/glassfish/tyrus/client/ClientManager$1.class
+SHA-256-Digest: iP48CB0YDxnzyoEUyJXjhc4QrP2k/L/GGztRe/PWtL4=
+
+Name: com/balancedbytes/games/ffb/client/animation/AnimationSequenceCa
+ rd$1.class
+SHA-256-Digest: KfCxWh3G4tqJ1RTsHtM4D69dp8mpwm2FHr531rHZBnQ=
+
+Name: com/balancedbytes/games/ffb/net/commands/ServerCommandTeamList.c
+ lass
+SHA-256-Digest: kov4GuHdpd1QDS2z0tpEe9lB/CFInpY2NyYhSl1ec6M=
+
+Name: org/glassfish/tyrus/core/ProtocolHandler.class
+SHA-256-Digest: mSwQPndC4EwOVaS2TEbCcOua1K8fqxsw/Yk79vsDdAo=
+
+Name: com/balancedbytes/games/ffb/client/sound/SoundEngine.class
+SHA-256-Digest: Iz0OI9qB5Fs0ZhDVsMh8FsO8Q558HrkGKQZBpUgjy8k=
+
+Name: com/balancedbytes/games/ffb/json/UtilJson.class
+SHA-256-Digest: L2eTRnWEyRkhkq7xA0nFWDuiIMDtPooTh7zW1n/4kzo=
+
+Name: com/balancedbytes/games/ffb/util/UtilTeamValue.class
+SHA-256-Digest: +nDmbE6XjYsQwIY9kKv9SqSkJYTrDYr6W+f4ZOeifDM=
+
+Name: com/balancedbytes/games/ffb/model/Player$1.class
+SHA-256-Digest: fyde+o3oAnaGhhYUqIpI/F610oUz2Or4Zro+cdzmld0=
+
+Name: org/glassfish/tyrus/core/ReflectionHelper$2.class
+SHA-256-Digest: 84VsDsXZw1Qr6SCzZTmYPWOKJEHnsvgf7+jSynMRFiY=
+
+Name: javax/websocket/server/ServerEndpointConfig$Builder.class
+SHA-256-Digest: 2CKJwJKMMfnpa1BDVI2fWIs6o4bChuQjc08VEU4Zz4g=
+
+Name: com/balancedbytes/games/ffb/json/JsonIntOption.class
+SHA-256-Digest: UkoZqfkHqJ4XLeiRjprw4qOH98zi1MBBYh4YIg3n1Iw=
+
+Name: com/balancedbytes/games/ffb/net/commands/ServerCommandTalk.class
+SHA-256-Digest: RFIs77ObUbuZOx2KbGxWdJpXfJtNbMR7BrB9xQReLmo=
+
+Name: com/balancedbytes/games/ffb/client/state/ClientStatePassBlock.cl
+ ass
+SHA-256-Digest: oczNXbwaXlpBOmkkckAnI6iD1y73yIIlk7KYCWefiAI=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogPlayerChoice.cla
+ ss
+SHA-256-Digest: RrNjgAaHlx577M/PV8jlpHT+p1ERgK2c1rhWGIqvIg4=
+
+Name: com/balancedbytes/games/ffb/client/ui/ChatLogTextPane.class
+SHA-256-Digest: 4yBxLjAPQ3ydNR+MAISc8snyS1XQadOPT28Ywq+2mmU=
+
+Name: com/balancedbytes/games/ffb/report/ReportReferee.class
+SHA-256-Digest: 7538KOenxqhDoR5iO4D6mXpmJ6LDxrl75OFFNGdqmWQ=
+
+Name: org/glassfish/tyrus/core/frame/Frame$Builder.class
+SHA-256-Digest: 4Vv3v0ofB5fOfznwMSetO5bBPbnO6ghnr8JXufPlPFA=
+
+Name: com/balancedbytes/games/ffb/json/JsonFieldCoordinateArrayOption.
+ class
+SHA-256-Digest: lq9djlFguYE09vBsfSnb5IV/csAulvXMHMeztR0k2yw=
+
+Name: com/balancedbytes/games/ffb/LeapModifierFactory$1.class
+SHA-256-Digest: Bihtz1oCnw5jswTEPZheBn8JXgwmu65gjyJdUc0M2jc=
+
+Name: com/balancedbytes/games/ffb/report/ReportFumbblResultUpload.clas
+ s
+SHA-256-Digest: otThpD8EKeD6hsXoWr1zY+bow5jm7Vex3XekdYHJoRI=
+
+Name: org/glassfish/tyrus/container/jdk/client/HttpResponseParser$Stat
+ e.class
+SHA-256-Digest: Y0Yf8skGACr1NrkwWNYc7uXCJh8TOqEaxC4muCErM04=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogYesOrNoQuestion.
+ class
+SHA-256-Digest: y8PonYTMuYNwmMOT8Q9agRmnxfNHx9bZmJYx51kJWKU=
+
+Name: com/balancedbytes/games/ffb/dialog/DialogTeamSetupParameter.clas
+ s
+SHA-256-Digest: eGKqvLdjfsaolsnEZO4fCq0U7NiWMSWGsT1Orl+NJfU=
+
+Name: javax/websocket/server/package-info.class
+SHA-256-Digest: lsIwaV2OS6MJnEqMWhg6WRWr88t082+UhrcVhs2rkRA=
+
+Name: org/glassfish/tyrus/core/TyrusEndpointWrapper$4.class
+SHA-256-Digest: OpMZ6Uy5selhQztpXioRQCK+tfex3SPeFtm/y4sdOww=
+
+Name: javax/websocket/OnMessage.class
+SHA-256-Digest: 9V1+Ll50zN6cCbTyN3MfqvO5REUCMAD4Pma7axEW1KQ=
+
+Name: com/balancedbytes/games/ffb/PlayerTypeFactory.class
+SHA-256-Digest: bwoXvcoM48gPoG+2XDWHGZlnLwfMaFlR5y8voVNbxBY=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogTeamChoice$MyTab
+ leCellRenderer.class
+SHA-256-Digest: aUNjnmDnECphaPQvUZdKuyz1m5rHav6pB1UkBUfKoCw=
+
+Name: com/balancedbytes/games/ffb/client/TurnTimerTask.class
+SHA-256-Digest: KbLK9IaZjkg8Ybv6TDCHpAWqYqMrKPurr6w2z/YrA28=
+
+Name: javax/websocket/server/HandshakeRequest.class
+SHA-256-Digest: M4VKCZeSAX5UC5ie7N7fVDKAXQhVOwfWGs0xojDrBEU=
+
+Name: org/glassfish/tyrus/spi/ClientEngine$ClientUpgradeInfo.class
+SHA-256-Digest: UdwfEsia6PrKWVWv7si+hlZ0VeXRz22u39I4B/wdU9o=
+
+Name: com/balancedbytes/games/ffb/client/state/ClientStateBomb$1.class
+SHA-256-Digest: 4dW3tRxcNcsjIHEyFnbBYZLzjYtZjWSZnOT2KePQWMc=
+
+Name: org/glassfish/tyrus/core/ReflectionHelper$ClassTypePair.class
+SHA-256-Digest: iA5hU+BkuFKxD8ZIw+qfrhXPJlqnv9pYrzGKQf8fB58=
+
+Name: org/glassfish/tyrus/core/l10n/LocalizableMessage.class
+SHA-256-Digest: 4pe6/fpS/ZPlH2MUV9GXfye2wtHj6ugqfqcuxp6pXP4=
+
+Name: com/balancedbytes/games/ffb/model/change/ModelChangeProcessor$1.
+ class
+SHA-256-Digest: WMm0SkcikaPd9Ry/90gd8QmE/vW5Is7tSRx8dQriK5k=
+
+Name: javax/websocket/Decoder$Binary.class
+SHA-256-Digest: ajvTZ4d0QVrQmbqcxAIUzoYIvb+QXWYU5NTbJcwV6wM=
+
+Name: org/glassfish/tyrus/core/DebugContext$Type.class
+SHA-256-Digest: Mxy9CfR6Pz+x7bDkZFtfcFMHXH/XzJg0iMhJ3yEEv8Q=
+
+Name: org/glassfish/tyrus/core/StrictUtf8.class
+SHA-256-Digest: 69UoyYB4n93K7QshIosV4VMp8y6EwAbj09b5yRjQJnc=
+
+Name: com/balancedbytes/games/ffb/client/handler/ClientCommandHandlerR
+ emovePlayer.class
+SHA-256-Digest: 92Cg2ngUzPZQ/eRx86mzWVl7B1YQEGhXV+UaPosuSs4=
+
+Name: com/balancedbytes/games/ffb/client/handler/ClientCommandHandlerU
+ serSettings.class
+SHA-256-Digest: DjnpnehLC3X03Sfb0yWlNWNAVwAOlWHI+6pk7PNxtf0=
+
+Name: com/balancedbytes/games/ffb/option/GameOptionBoolean.class
+SHA-256-Digest: cIkD+piZ/h0JgRATUyXadKGKV94firwceH1rSUN7j6Q=
+
+Name: com/eclipsesource/json/JsonLiteral.class
+SHA-256-Digest: VaBoIZ3HPGWDmi3rXva16GJE3USdvYeZoH8P0znbOb0=
+
+Name: com/balancedbytes/games/ffb/GameList.class
+SHA-256-Digest: yP6l5hChVtazHthXAinauVkyF14YHi6EEFNFktlsw+g=
+
+Name: com/balancedbytes/games/ffb/dialog/DialogTransferPettyCashParame
+ ter.class
+SHA-256-Digest: F7SuU8AkewLfQStOv+Xb84grGZI+RGilkSXlmOsJcFE=
+
+Name: com/balancedbytes/games/ffb/json/JsonPlayerStateOption.class
+SHA-256-Digest: xVL7zwRVtbq7wcdBQPsvWKTG9irfJH+/nxCepRgEshA=
+
+Name: com/balancedbytes/games/ffb/net/commands/ClientCommandUseApothec
+ ary.class
+SHA-256-Digest: 5D807wHJweB5wHL/pQyaz0GyJM3KJjjtrYID1dzSfUI=
+
+Name: org/glassfish/tyrus/core/uri/internal/UriParser.class
+SHA-256-Digest: DVtIoQu5RweQ7kFsaIddLj8N8XVTBCPwJQQ8A0siVog=
+
+Name: com/balancedbytes/games/ffb/client/GameTitle.class
+SHA-256-Digest: lYg5u9Ir7YP8umNYr/7wxRyi+7fNAL1BzF3vgXXo6bU=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogWizardSpell.clas
+ s
+SHA-256-Digest: RIilZl2DfELEUIE1V7m68jmwVA+JBH71HESA9ydz84U=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogProgressBar$2.cl
+ ass
+SHA-256-Digest: z4KO+omPdCM4I5nkh2peKDDMe0Md1+N2uf6Czow30w0=
+
+Name: org/glassfish/tyrus/container/jdk/client/ClientFilter$3.class
+SHA-256-Digest: cjx+cvGbp565O9gwPnyixcHDZ+ANabjCsKNnqA/fDdQ=
+
+Name: com/balancedbytes/games/ffb/PushbackMode.class
+SHA-256-Digest: fu9r7rK9MhbuHGMe50cVykElEzfeyqUH3VfSdOub1NQ=
+
+Name: com/balancedbytes/games/ffb/InjuryType.class
+SHA-256-Digest: ZP2p8Sflxm77M+BHJhXoL49M4bgQX2/CJaVUS9k1cMU=
+
+Name: javax/websocket/EndpointConfig.class
+SHA-256-Digest: 3O1DwkmHQdyDfwgBDmzB25Lm0d1VjoR2WV+W6Sn4KoE=
+
+Name: com/balancedbytes/games/ffb/report/ReportScatterPlayer.class
+SHA-256-Digest: +fMWqnERyrIh8MVBwZxdqP06UBnoVPSRhG3RduRQ084=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogInterceptionHand
+ ler.class
+SHA-256-Digest: S2ZZ1sqkvAbGQKhOr3QMZiQZkp2e7ceAQ3smbQOpaCI=
+
+Name: org/glassfish/tyrus/spi/WebSocketEngine.class
+SHA-256-Digest: gK30IYz/9hoKZAZU1BDxhPDX15rEaF7tFrv5Q60zEJY=
+
+Name: com/balancedbytes/games/ffb/client/IProgressListener.class
+SHA-256-Digest: NOXE66wzVqd3Q6uLUOKB344zjHZ+BKiO4V6Jp0M1mn8=
+
+Name: org/glassfish/tyrus/core/Utf8DecodingException.class
+SHA-256-Digest: zF9JyhSsXQ5S8slqif1RJ0+FzCt27fdsrRtmL4VWfHE=
+
+Name: com/balancedbytes/games/ffb/client/ui/ScoreBarComponent$1.class
+SHA-256-Digest: ZGaoPNGE5Rxdvsj5lc9vRNpfbE73aRg9snHt/ZwCQZc=
+
+Name: org/glassfish/tyrus/core/monitoring/ApplicationEventListener.cla
+ ss
+SHA-256-Digest: bIKk9n1QfOJWOS/P7GBv2PaAGpBXVBgQDWZj0Z4V//k=
+
+Name: org/glassfish/tyrus/client/RedirectException.class
+SHA-256-Digest: wVpWCcivsPHnzDWpgBDWazz7oFmctydGw9PsxR8VDYs=
+
+Name: com/balancedbytes/games/ffb/client/state/ClientStatePassBlock$2.
+ class
+SHA-256-Digest: d6LdjK21UmqPprHZdq6Mgu/fl4KFVlwtjulSdX6mMQo=
+
+Name: com/balancedbytes/games/ffb/SkillUseFactory.class
+SHA-256-Digest: Ou47EWJHmu87w+Ue4am4m9mVbymymsiEOHt8J2KrS8I=
+
+Name: com/balancedbytes/games/ffb/client/FantasyFootballClient.class
+SHA-256-Digest: vcBHKWoZuwJycugQLiAn2j7WfnaamiPyacROoBKXOaY=
+
+Name: com/balancedbytes/games/ffb/json/JsonValueOption.class
+SHA-256-Digest: 6K/YO0NsJPJV8FdrHMgJyXLN6dhZz21pRN3RwS4pBd8=
+
+Name: com/eclipsesource/json/JsonWriter.class
+SHA-256-Digest: pSqk5DldyQrZpNY83v9isbjYhwmvqnOzAN5J7eDR7I0=
+
+Name: javax/websocket/ClientEndpointConfig.class
+SHA-256-Digest: /+w5NaQgd7SbQRcJa+ffrw/kXrLbMuMW1HGKTocYkXQ=
+
+Name: com/balancedbytes/games/ffb/report/ReportId$1.class
+SHA-256-Digest: RiPPyGe2TRd+5frypkNwzoVjOSRiEexezLcwIvjI3kE=
+
+Name: com/balancedbytes/games/ffb/IEnumWithName.class
+SHA-256-Digest: 652ZaaOqmUp8/EdNLtIxMPYys6fevmsKkZ/gkTD0JvE=
+
+Name: org/glassfish/tyrus/core/frame/TyrusFrame$FrameType.class
+SHA-256-Digest: LPrIODhsiF962al/jSrl4K/c+8M+x7bxRaxWXfjMqLE=
+
+Name: org/glassfish/tyrus/core/ReflectionHelper$DeclaringClassInterfac
+ ePair.class
+SHA-256-Digest: U5A1yqLUzcMaT9RnBugstcdsK+thQ0nD6DLJqcyW9G0=
+
+Name: com/balancedbytes/games/ffb/InducementPhaseFactory.class
+SHA-256-Digest: 5l7iNtNJIldc8Ws66y6cq8Mhnj9oRSulQjm/fSY7TSg=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogReceiveChoice.cl
+ ass
+SHA-256-Digest: p3L2+BbqwQ/ttuxxFyS5fG2M4CRIqMdODWdn5HWuw+Q=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogUseIgorHandler.c
+ lass
+SHA-256-Digest: 6PbeFd29Nmc0ZUW0PZkX/zcQzo5xiUsfEb2ra2hpFz8=
+
+Name: org/glassfish/tyrus/client/ClientManager$3$1$2.class
+SHA-256-Digest: BEdHdWTXhaSqym5ZKj8GT/6EUXCJ8UKA18qmSv4kHK4=
+
+Name: org/glassfish/tyrus/core/monitoring/MessageEventListener.class
+SHA-256-Digest: z0QNbFg3hKZaDnvzhmVt9+jv+336J9FN6asi2YWcDTk=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogPilingOnHandler.
+ class
+SHA-256-Digest: 8LBGIq2IIGXc/sT5jH6S1jIJB+IwOL6uBDhLWT7CQ4I=
+
+Name: com/balancedbytes/games/ffb/client/state/ClientStateSetup.class
+SHA-256-Digest: qSiFwhuCxW2sX1Hc1IUQgo2NJjWxcwgPaOPpOU5weR0=
+
+Name: org/glassfish/tyrus/core/cluster/RemoteSession$1.class
+SHA-256-Digest: bxbvEAH2TN8LiimjVUyueWw4HWMARDsSzqFlu6g/rYo=
+
+Name: com/balancedbytes/games/ffb/json/IJsonReadable.class
+SHA-256-Digest: QsMdwrcTihws7n4z146vkbs6L2UHIx2xBFAoHbIcJNQ=
+
+Name: com/balancedbytes/games/ffb/FieldCoordinateBounds.class
+SHA-256-Digest: JFPRztf/RU3TS4Ne7tzDut/2NYjC/qrMMa2OynZcXs0=
+
+Name: com/balancedbytes/games/ffb/client/state/ClientStateMove.class
+SHA-256-Digest: 6TNseqvL9GFP+Q02z59v0Oi7nRTqaSaOvWx6KPCBEsE=
+
+Name: com/balancedbytes/games/ffb/InjuryTypeFactory.class
+SHA-256-Digest: 7sHU/oTE6wi58lswiupxj5TiZkJVcITUwZ+C9znlfBI=
+
+Name: com/balancedbytes/games/ffb/TeamStatusFactory.class
+SHA-256-Digest: GkfLd0f7q7DilCD0s5qOZudrjOhSSiHCgCMVj0da+ag=
+
+Name: com/balancedbytes/games/ffb/client/state/ClientStateIllegalSubst
+ itution.class
+SHA-256-Digest: tVfMe4Io3kr1MQ8nWNQ9ihr9kH+oBk+ZD1VmRiQCrjE=
+
+Name: com/balancedbytes/games/ffb/dialog/DialogFollowupChoiceParameter
+ .class
+SHA-256-Digest: JIHGaLotWZ9SIVLbrCbizmgNPievNSoHXzoPsevRk3I=
+
+Name: org/glassfish/tyrus/core/coder/PrimitiveDecoders$LongDecoder.cla
+ ss
+SHA-256-Digest: CG8Tww+XPrnVncF9qjxu4vug25d9TW2kja0v667MkVA=
+
+Name: com/balancedbytes/games/ffb/model/change/ModelChangeIdFactory.cl
+ ass
+SHA-256-Digest: +avFaQshl/TXlxOycDXLR13M/gZ02UJv4y8juKQPBF4=
+
+Name: com/balancedbytes/games/ffb/TeamList.class
+SHA-256-Digest: vWHSoMZERVxG0pCw7JOTF2qGCC6AjlIVEV+gwPnLjK0=
+
+Name: com/balancedbytes/games/ffb/client/state/ClientStateFoul$1.class
+SHA-256-Digest: BSYtNKhdmu4D40podMQoi2S9sUzIrDQmWG/NsL61rZo=
+
+Name: com/balancedbytes/games/ffb/LeaderStateFactory.class
+SHA-256-Digest: j4MKx3U0bvs2wf8t0BpGFTJdJqqNXxINl92F1TXFX9w=
+
+Name: org/glassfish/tyrus/core/l10n/LocalizationMessages.class
+SHA-256-Digest: aBFleq9hBfIfsW5i9RzcYRtjXjz8WL882cYvFjb/YFY=
+
+Name: com/balancedbytes/games/ffb/client/ClientParameters$1.class
+SHA-256-Digest: RWETFhkZlOsUUULugIKGcZIozvlS4UQ+QhX4bzSCwyw=
+
+Name: org/glassfish/tyrus/core/monitoring/EndpointEventListener.class
+SHA-256-Digest: 6To5G+3i1bbxFtjMeJ40CEQGUr08ZryKh4b8nj41J+0=
+
+Name: com/balancedbytes/games/ffb/dialog/DialogWithoutParameter.class
+SHA-256-Digest: z6JtdyNYMl2eUdd60wPKbx2hr9uImMMj/F4Q+JopeKY=
+
+Name: org/glassfish/tyrus/core/uri/internal/PathSegment.class
+SHA-256-Digest: /O9r0OtbhYuVOiW0U53RRkVA2oj4QIy9U1n8vK68jeA=
+
+Name: org/glassfish/tyrus/core/DebugContext$TracingThreshold.class
+SHA-256-Digest: +FZUzQM5BDcJAC20bk8mvK15bouMC7GQt5dBs9b60T0=
+
+Name: com/balancedbytes/games/ffb/SoundId.class
+SHA-256-Digest: 2b1mRfxAOzt2xlrpR1MelFkPXTFsz7xsHtlbYsh3Qro=
+
+Name: com/balancedbytes/games/ffb/net/commands/ClientCommandRequestVer
+ sion.class
+SHA-256-Digest: nNIygs8jXYcxrkN/H4UN2+Z0i0VJ3x+iC2br4KAxZuw=
+
+Name: com/balancedbytes/games/ffb/report/ReportDauntlessRoll.class
+SHA-256-Digest: 98vp0iJ2c1+rqde0b0vEXNynhxDFRhtqfSyrz6TWG0I=
+
+Name: com/balancedbytes/games/ffb/InjuryModifier.class
+SHA-256-Digest: yeyKwiVM/P0J/3+RIBjqbDw62bWNj5BDx9MimqKwvkI=
+
+Name: com/balancedbytes/games/ffb/client/handler/ClientCommandHandler$
+ 3.class
+SHA-256-Digest: eXYL2OBbJbaMl1K0JhbYIOk152HCJ5xi+mdwmLiHhY0=
+
+Name: javax/websocket/Decoder.class
+SHA-256-Digest: 4YxRlcAJvWL3eDf3ULI5fC10JWQg76w2tB948Pusulo=
+
+Name: javax/websocket/OnError.class
+SHA-256-Digest: w83ETEd9rFL8bm/EpNtWDZaUiMH0nQ8HAbcEWzEWsLs=
+
+Name: com/balancedbytes/games/ffb/SeriousInjuryFactory.class
+SHA-256-Digest: IZrAYc7kP9iM3TfK0no5yhAmAZCCJf9SV7Z1jy39qzU=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogProgressBar$3.cl
+ ass
+SHA-256-Digest: NtOnJCRRmDQw7/ikK4vu35bhOJey0e40AMtiCqf9OTQ=
+
+Name: org/glassfish/tyrus/core/OsgiRegistry.class
+SHA-256-Digest: 0uI7r/aOuxCxIOMDiRv3ra9+7Kk56JiUPEhgNFPfNNQ=
+
+Name: com/balancedbytes/games/ffb/report/ReportPushback.class
+SHA-256-Digest: fGX4W6RiMaI4ZmQAdEr9+IxCGYsiyHSRhxK/J55TPP0=
+
+Name: org/glassfish/tyrus/core/ProtocolHandler$CompletionHandlerWrappe
+ r.class
+SHA-256-Digest: Rt7vbg1EVlzMOJklBDS1RUQD7Kq4p27ff+2somPH7qs=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogPlayerChoiceHand
+ ler.class
+SHA-256-Digest: QhzYlQleFYqke8B7boFVYdUKPNgK1Ogax2uqn9nXpD0=
+
+Name: com/balancedbytes/games/ffb/net/NetCommand.class
+SHA-256-Digest: 5OJDd4eDVJICidSdcJyv2hJVsF969ts+OtxXMKHzhWA=
+
+Name: com/balancedbytes/games/ffb/report/ReportStartHalf.class
+SHA-256-Digest: OjZ+qDavRylJm3tGtgZPjCsEDTqQmik0lPukIHsFHAU=
+
+Name: org/glassfish/tyrus/core/ServiceFinder$ServiceIteratorProvider.c
+ lass
+SHA-256-Digest: WpB/u7mM+8Zv3gzq78cvepTJKy1OZsu9qcRm2PjTEhk=
+
+Name: org/glassfish/tyrus/core/coder/PrimitiveDecoders$ByteDecoder.cla
+ ss
+SHA-256-Digest: 1rIZBZyfoOcs9iCDK0EElFf+UY3TnnKS3KrfgeGMD+I=
+
+Name: org/glassfish/tyrus/core/TyrusWebSocketEngine$TyrusWebSocketEngi
+ neBuilder.class
+SHA-256-Digest: aTUn7ndlcBRlJLS2J32x0yWCyg98gWhHNMeFByK8VDg=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogKickoffReturnHan
+ dler.class
+SHA-256-Digest: Jykxqw7qQ4ilpSTpWCnKX5eit+S/3Mywx9R7EGkpJ1M=
+
+Name: com/balancedbytes/games/ffb/client/state/ClientStateWizard.class
+SHA-256-Digest: jL7L9cI/iTl+ZtC8wiCt1qfk4uO2a6+/BPfKP2rUtFI=
+
+Name: com/balancedbytes/games/ffb/net/commands/ServerCommandModelSync.
+ class
+SHA-256-Digest: W1BhH04Zfas36xZqRi6itXRviWSTLhzagxCLcmCIFzk=
+
+Name: org/glassfish/tyrus/core/CloseReasons.class
+SHA-256-Digest: D8kWWb1dONh2mwjuKJAZ/WhyZkXbOBfw8DjdqYjUMPs=
+
+Name: com/balancedbytes/games/ffb/client/dialog/inducements/MercenaryT
+ ableModel$1.class
+SHA-256-Digest: uNxecqZuEto47z8sV9Ru1RKj0mqJ2RMtoHqxOhQbEes=
+
+Name: org/glassfish/tyrus/core/TyrusWebSocketEngine$EndpointEventListe
+ nerWrapper.class
+SHA-256-Digest: 1M19hxx7qv/cQnG8xhcMvu3PC7U34Zy04fCSuqDjCGM=
+
+Name: com/balancedbytes/games/ffb/model/change/IModelChangeObserver.cl
+ ass
+SHA-256-Digest: TSKbDAnwtWEuxZzWB+fuxJEvBa9HUnzVW3S2qf5nCIg=
+
+Name: org/glassfish/tyrus/core/uri/internal/PathPattern$RightHandPath.
+ class
+SHA-256-Digest: 4f38eDdWJK5+jbCipSb++vYQxfPloao8fo8Dathz8n4=
+
+Name: com/balancedbytes/games/ffb/FieldMarker.class
+SHA-256-Digest: xjt54aAndHsToLKlNEFrHmCOmUui/qaCKqGbWXC1y+I=
+
+Name: com/balancedbytes/games/ffb/SkillFactory.class
+SHA-256-Digest: /pd8jlqxF7d6uZBanXJX+v/tgujD0GsW68NpTMzbB3g=
+
+Name: com/balancedbytes/games/ffb/xml/IXmlSerializable.class
+SHA-256-Digest: 5MdHAW7mpJwnjOUqYgJNdUMtWvFx9pFgNdl+l/N23qc=
+
+Name: org/glassfish/tyrus/core/ProtocolHandler$3.class
+SHA-256-Digest: x8+mjFnoLjgZx+vtdyen25kGjEf/KTaG4K1uBsK7HUU=
+
+Name: com/balancedbytes/games/ffb/report/ReportList.class
+SHA-256-Digest: v0Wq4DI6xDUX+Uj60KUwEFA3Z5QUlrj4M1inWVvYhrk=
+
+Name: org/glassfish/tyrus/spi/Connection$CloseListener.class
+SHA-256-Digest: HcV4/CFQmbknTL1wvo4AZWQjjxywEKp0r7YcVsHdvdw=
+
+Name: org/glassfish/tyrus/core/TyrusEndpointWrapper$3.class
+SHA-256-Digest: SeFF/Kv0bbopRIUTN3M0tpB4kIOviVG7qOVf4DP2Ogw=
+
+Name: org/glassfish/tyrus/core/cluster/RemoteSession$2.class
+SHA-256-Digest: vDaOKNUpgvkv364cDM+/hos4HWBgNj+bz8YDIff+Zbo=
+
+Name: javax/websocket/WebSocketContainer.class
+SHA-256-Digest: KfUCZybxV3ObEQcBA+gGkhhhIDUS+lF1SKhpOt2mCEo=
+
+Name: org/glassfish/tyrus/core/coder/CoderAdapter.class
+SHA-256-Digest: MSBSK09xwceF91q38v0n3rbLMTPETJTb1LGWCAP4LQ8=
+
+Name: org/glassfish/tyrus/core/StrictUtf8$Parser.class
+SHA-256-Digest: f2E1thJWh/wLPGuB666S5Iow7qekDIjWBDqVLT8egPM=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogBlockRoll.class
+SHA-256-Digest: ldYQ25w0Le5yIfaoi3N8Rfb7s3M91n30oXDQz4GhLxM=
+
+Name: com/balancedbytes/games/ffb/report/ReportGameOptions.class
+SHA-256-Digest: wHfT6ot/y4ZzVBpdvOwogL0glUiDtK+eLJUmNc2wCng=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogEndTurn.class
+SHA-256-Digest: f37hytb9y+firgeOGSYVXwEcBazXX3EVxjg6UpogqhU=
+
+Name: org/glassfish/tyrus/container/jdk/client/ParseException.class
+SHA-256-Digest: ++tkF6qEJgfKPzUudtZr+6IfnVhU7M6qI8/Yad/HSzg=
+
+Name: com/balancedbytes/games/ffb/client/ui/BoxSlot.class
+SHA-256-Digest: G73jQr7pBDp9eAAUsB7f1qlM6GRxZAhlpxy1nENjk+A=
+
+Name: com/balancedbytes/games/ffb/net/NetCommandIdFactory.class
+SHA-256-Digest: un3Bh7QHCi3T/qN+l4ZrYf31xBtfTG0o/iRXox2c+q4=
+
+Name: com/balancedbytes/games/ffb/client/util/UtilClientActionKeys.cla
+ ss
+SHA-256-Digest: y4o4xcrdnEr711GqwSrrvJr7u0TM931f9pUi49RfUn0=
+
+Name: com/balancedbytes/games/ffb/client/dialog/inducements/DialogUseI
+ nducementHandler.class
+SHA-256-Digest: kVAMw+9PPi5mTEEHZBQ12FBAsh+vI0aFpS4NUlyRVYo=
+
+Name: com/balancedbytes/games/ffb/client/handler/ClientCommandHandler$
+ 4.class
+SHA-256-Digest: DvcGZjJyJcbZEpW0AUOrAbvu99vDDKV/fdKpEAgYBhM=
+
+Name: com/balancedbytes/games/ffb/client/ui/IntegerField.class
+SHA-256-Digest: F72tHSXTO0MhonOZ916Nhzr1NMGqUNDPVOM+SWb/Tk4=
+
+Name: javax/websocket/ClientEndpoint.class
+SHA-256-Digest: cGVqt78YOlRgaOcSHagGUmt9i0Fai9mw/+e+cbFa8V0=
+
+Name: org/glassfish/tyrus/client/TyrusClientEngine$TyrusReadHandler.cl
+ ass
+SHA-256-Digest: LWxIxomtyY23fVHeEfH7lhXjxryTHcteAqBIOf05Tkc=
+
+Name: com/balancedbytes/games/ffb/net/commands/ClientCommandApothecary
+ Choice.class
+SHA-256-Digest: 5ua0Gdq8zzg2UFd6qS2JnNj9+81t4Uqd9th/0kb3z5Y=
+
+Name: com/balancedbytes/games/ffb/client/ClientReplayer$2.class
+SHA-256-Digest: UaH+cYuXLi7bwjp6XfQMuuMNaxuvmRQLvkX7fRgFdGM=
+
+Name: org/glassfish/tyrus/container/jdk/client/SslContextConfigurator.
+ class
+SHA-256-Digest: XPGpgvrwYKhc9E9+L/RsPGgA2Zs8siZUA1eOM7oAHR8=
+
+Name: org/glassfish/tyrus/core/AnnotatedEndpoint$1.class
+SHA-256-Digest: coxlCnjv6GyVhdNXO793nnab5C1N0WqvYJesYVIWwPI=
+
+Name: com/balancedbytes/games/ffb/client/ui/GameMenuBar$3.class
+SHA-256-Digest: Do/XdWbZhjNLLPorzccncPJMRHg2u+9PPAGHdgktteg=
+
+Name: com/balancedbytes/games/ffb/report/ReportTentaclesShadowingRoll.
+ class
+SHA-256-Digest: gnnSRPDP+B8qwhLdhCmHE7PdB2wRDbzF6W7wjcLACSg=
+
+Name: com/balancedbytes/games/ffb/net/commands/ClientCommandBuyCard.cl
+ ass
+SHA-256-Digest: gJDPW/+IlwxGE2EWJvqDnxZCGSS98d4kvCmRqKqX368=
+
+Name: com/balancedbytes/games/ffb/client/dialog/inducements/DialogUseI
+ nducement.class
+SHA-256-Digest: UrVn+RDkPXB0Qn9ncrJLG4yNlROqTqDXj0fZ++GB4mg=
+
+Name: org/glassfish/tyrus/core/uri/MatchComparator.class
+SHA-256-Digest: sG7PTJV5QwjT0OiESjqqU/eST4PPl2nwJdYsuWpsHQ4=
+
+Name: com/balancedbytes/games/ffb/client/animation/IAnimationListener.
+ class
+SHA-256-Digest: iCrUN6F8ISs+ZHzwImCHJludtxW3rc7/YUGdFPiE7o0=
+
+Name: com/balancedbytes/games/ffb/client/state/ClientStateFoul.class
+SHA-256-Digest: qAIptQbZZue1gUSGFacPGQ93dCYGJkTAiP5aZaWuuUY=
+
+Name: com/balancedbytes/games/ffb/InjuryModifierFactory.class
+SHA-256-Digest: fhTFrT9kXYTIquABkUCQ/xtUtHrikgrrRuHf87Qe5cU=
+
+Name: com/fumbbl/rng/MouseEntropySource.class
+SHA-256-Digest: bLYW5ELRLHLKi0Luwy8Joxg9DyZFLfV4llDC+V/n3Jk=
+
+Name: javax/websocket/server/ServerEndpoint.class
+SHA-256-Digest: cbndcbtxXs0WWD/jAHX7XTMbRMriL3uZEULAJfEp+0s=
+
+Name: com/balancedbytes/games/ffb/GazeModifier.class
+SHA-256-Digest: 7DG9mnXIhQX6J70raeR6szYAr2GADJTfplPpKezVaDM=
+
+Name: com/balancedbytes/games/ffb/GoForItModifier.class
+SHA-256-Digest: TXQfseLAuOqNy9K7M4K3BYcZQ+lO33lzsuKoKc3EdlE=
+
+Name: com/balancedbytes/games/ffb/SendToBoxReason.class
+SHA-256-Digest: hgmIM1MCYPr3ZHLcZXkyBhT5mcUFPrPfUXpz64kvVfU=
+
+Name: com/balancedbytes/games/ffb/dialog/DialogArgueTheCallParameter.c
+ lass
+SHA-256-Digest: PkeE4HM3SrC0enLyTxfKU21ZAibhJ2QNzdFz26VrAcs=
+
+Name: com/balancedbytes/games/ffb/report/ReportPlayerAction.class
+SHA-256-Digest: LQjDYFmzXNo7drJ2bdaNts01+0MGQt1SX1Wc1OmRaf8=
+
+Name: org/glassfish/tyrus/core/extension/ExtendedExtension$ExtensionCo
+ ntext.class
+SHA-256-Digest: WSYNaLwddnpb35XsdUErMoT2+wBkPuuZhQY3Olu0zmQ=
+
+Name: com/balancedbytes/games/ffb/report/ReportTurnEnd.class
+SHA-256-Digest: hHV4DMuQiM5xQT6lKTEpJfffRHcF2yQhiA0QolB/xjs=
+
+Name: com/balancedbytes/games/ffb/client/ui/GameMenuBar$2.class
+SHA-256-Digest: zSKKQeoxbZDWvm1BXS6OXDPAshc0BLNMhxoaQiHek+8=
+
+Name: com/balancedbytes/games/ffb/client/state/ClientStateFactory$1.cl
+ ass
+SHA-256-Digest: MZ4axlKIHrK7hbpE0oNxp8lLg1AobrcCGUBUfkVGc2U=
+
+Name: com/balancedbytes/games/ffb/net/commands/ClientCommandTeamSetupS
+ ave.class
+SHA-256-Digest: Lp/1GqOx+SEhsz9dKqvlhfzn3ID7jJ6Q9zXg4/Tl61Y=
+
+Name: com/balancedbytes/games/ffb/BoxType.class
+SHA-256-Digest: 7eP1cAcqtVmdhU55seH4M1n+/zt6jgRRwbsRQXhMxs8=
+
+Name: com/balancedbytes/games/ffb/report/ReportDoubleHiredStarPlayer.c
+ lass
+SHA-256-Digest: 714+mFQ/1AWfr78RbWPQccxjddepX/qFspOH1qcuG48=
+
+Name: org/glassfish/tyrus/core/ProtocolHandler$4.class
+SHA-256-Digest: HhGC7gWzKu6VmWtxhdPKHFEMFB6pGImb++vp9ZAMyig=
+
+Name: com/balancedbytes/games/ffb/report/ReportCatchRoll.class
+SHA-256-Digest: sJ6zrxal2TL85qty/TpB0w7l965K7OtK4ovClk/6Nx0=
+
+Name: com/balancedbytes/games/ffb/client/layer/FieldLayerUnderPlayers.
+ class
+SHA-256-Digest: pPJdi9x6WKv0bnwGmAhS/w/SsL5GiN377VMdqE2XTU4=
+
+Name: com/balancedbytes/games/ffb/ReRollSource.class
+SHA-256-Digest: +SlHwUVjQDhKRxpIuSE5UVluXloWg2F/jtE38wTz2EY=
+
+Name: com/balancedbytes/games/ffb/util/NaturalOrderComparator.class
+SHA-256-Digest: cR27Bz/dhqfGdvIFgT6aqHYTm21ib+bTr9SkVSDnAro=
+
+Name: com/balancedbytes/games/ffb/client/ActionKeyMultiAction.class
+SHA-256-Digest: AWjiyiknuwZX0dBZT92kvFRcKN/5fWwN72XDBrUE7IA=
+
+Name: com/balancedbytes/games/ffb/PathFinderWithPassBlockSupport$1.cla
+ ss
+SHA-256-Digest: vbY0f4JuWRgT4GyoqY2IjL8UAjtL35iexb7CWdtEaoI=
+
+Name: com/balancedbytes/games/ffb/net/commands/ClientCommandConcedeGam
+ e.class
+SHA-256-Digest: bAl9QCXjdB220yPVwKyvZOax6bwknkNA6ge1l8iUTUw=
+
+Name: javax/websocket/OnClose.class
+SHA-256-Digest: PHSSIYVQbaT7X+E6OPBTfcwIrpH5R66o5iCCjrY2RvE=
+
+Name: com/balancedbytes/games/ffb/dialog/DialogGameStatisticsParameter
+ .class
+SHA-256-Digest: m9SKJoSoX/6TtizJmvNcoxisgiEpXceKZgnH1Uoi/8Q=
+
+Name: javax/websocket/CloseReason.class
+SHA-256-Digest: OkFSqp1USsklalUsODwfsCLOow27eJyKYvl29hluQnY=
+
+Name: org/glassfish/tyrus/core/Beta.class
+SHA-256-Digest: /ZZ3S9bMmqpxNQhEhCTLHPpFB/w4cEN5Yf6s4cTPQyk=
+
+Name: org/glassfish/tyrus/core/AnnotatedEndpoint$PartialHandler.class
+SHA-256-Digest: 4y4nV6imMwXuc3lzHsuIf2GWepi1C/LGIQPc8CDPAyE=
+
+Name: javax/websocket/ClientEndpointConfig$Builder$1.class
+SHA-256-Digest: ojgLpgCdjHtkB15VSpmF8QB6EYEE+bUaGeQ4NtnLOYI=
+
+Name: com/balancedbytes/games/ffb/client/state/ClientStateKickoff.clas
+ s
+SHA-256-Digest: MslGHmTVRZnzbcWpDrAhapshB/rK95/ihRKgivwr/Ck=
+
+Name: javax/websocket/server/ServerContainer.class
+SHA-256-Digest: GwEZjHAXHl4Exx88qZz7o1p8kYEwUqzBHv1TreWFmOI=
+
+Name: org/glassfish/tyrus/core/OsgiRegistry$OsgiServiceFinder.class
+SHA-256-Digest: r3f4dEMsBf6OQl6dJ4xjIB+Y5nvEc5rLKwAkf6UlFL4=
+
+Name: org/glassfish/tyrus/container/jdk/client/JdkClientContainer$Time
+ outHandlerProxy.class
+SHA-256-Digest: ITNXrmzawHtl77/89e4Ibm/FZTzTWhQLtw22sFTTHes=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogTeamSetupHandler
+ .class
+SHA-256-Digest: KpKCODn7x/puuGIPRRYRqIHdKDjyiU4vz/RtTmbCzs8=
+
+Name: com/balancedbytes/games/ffb/json/JsonBooleanArrayOption.class
+SHA-256-Digest: opetUNSc1eN96CqBOvLqSt8qhbrdfl55c8Ntqv25IaA=
+
+Name: com/balancedbytes/games/ffb/dialog/DialogJourneymenParameter.cla
+ ss
+SHA-256-Digest: 1+EpFUq1O14W96K0jXeoML6HDM8+6+jDpQzpa632yIA=
+
+Name: com/balancedbytes/games/ffb/report/ReportLeader.class
+SHA-256-Digest: wqxXO2UGMkuM+Pgz90/GkueJFYu53TYk+6fq18hckR4=
+
+Name: com/eclipsesource/json/JsonArray.class
+SHA-256-Digest: HcG1izvVBTEdlsQq46naevDuBEYa2MJXs1Eb8ZS7Mi0=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogPettyCashHandler
+ .class
+SHA-256-Digest: Q22Ctgc6XNMgubxWH3Id+HFkU8F2rBQuhlSQtVlNOCc=
+
+Name: com/balancedbytes/games/ffb/client/ClientReplayer$1.class
+SHA-256-Digest: ciXcqB7rwfDE9ta5sxevOVEDUIZPJj9tdR42EQdqSKQ=
+
+Name: org/glassfish/tyrus/core/cluster/RemoteSession$DistributedMapKey
+ .class
+SHA-256-Digest: yMjgnBsZZl/bPVhFh5uhyLNdm2didrCbQncvquPgWxY=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogJourneymen.class
+SHA-256-Digest: 7RjBsi3OwerDNCR+nqY3KRkc3AsaIbdKqxzZcoh+v5M=
+
+Name: javax/websocket/DefaultClientEndpointConfig.class
+SHA-256-Digest: Y54W3sXsttsEKkdr58olpvZc6T5ypba+E9VHdWwoseY=
+
+Name: com/balancedbytes/games/ffb/net/commands/ClientCommandReplay.cla
+ ss
+SHA-256-Digest: IIAmdYTT3dmDyKmlDt0aKB2SGqiNahiNCgnBFIcndY8=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogPassBlockHandler
+ .class
+SHA-256-Digest: XaOSPUFS7EGlKFArZGKjLsRGKeovavzEqcAFQ/vDzWA=
+
+Name: com/balancedbytes/games/ffb/net/commands/ClientCommandPettyCash.
+ class
+SHA-256-Digest: In2iNeqgr6RCj461oTYMTY56md1nblqq/FY8hUHEARQ=
+
+Name: org/glassfish/tyrus/container/jdk/client/JdkUpgradeRequest.class
+SHA-256-Digest: 1bR0C+t+P9+3Lhwgx8PDiS8daq00/kEEUanF0ZLR6Xg=
+
+Name: org/glassfish/tyrus/core/uri/internal/UriTemplate$3.class
+SHA-256-Digest: FmF4JPP19X86ErkFnj0iPXaqBr1RjzSJER/DfeLB0uI=
+
+Name: com/balancedbytes/games/ffb/client/animation/AnimationSequenceCa
+ rd.class
+SHA-256-Digest: Y3AbLfUj0adFsgyikDLhMPDGIfEoTjUTJnP9kzwc+Lw=
+
+Name: com/balancedbytes/games/ffb/CardTypeFactory.class
+SHA-256-Digest: peiEcn6Bm6h2jbbXnKerPkC0LsIYjsxt4NnRHnSJ4NM=
+
+Name: org/glassfish/tyrus/container/jdk/client/TransportFilter$Queuing
+ Executor$HandOffQueue.class
+SHA-256-Digest: wAu3A6s8ski83LSeasOs2m3A5J4sqtGXeV/J5G0WxMI=
+
+Name: org/glassfish/tyrus/core/AnnotatedEndpoint$4.class
+SHA-256-Digest: 6dazh9XmVWWslmUn+44MlR2AWwtdegIHNuzoE24oHoI=
+
+Name: org/glassfish/tyrus/spi/WebSocketEngine$UpgradeStatus.class
+SHA-256-Digest: qZtippInRU1ClcACnzLKSlaP08EoWVPjHCEjhzVPyGU=
+
+Name: com/balancedbytes/games/ffb/client/IClientProperty.class
+SHA-256-Digest: HCLIH7LcGoAdEaXJUGCrQjqmrDt/3lQRd8ArS8o2MP4=
+
+Name: javax/websocket/RemoteEndpoint$Async.class
+SHA-256-Digest: 1uohEoslxfnKkEvZtcrZ5y6baRDCSfZblDCZT7+1a6o=
+
+Name: com/balancedbytes/games/ffb/client/ui/BoxComponent.class
+SHA-256-Digest: hHTYAXEuPoHYwwFAzll9j1jozX5gNFg5z9yQq1DFx8Q=
+
+Name: org/glassfish/tyrus/container/jdk/client/TransportFilter$Transpo
+ rtThreadFactory.class
+SHA-256-Digest: IUzFot6xLX7wMkpCBC+nQ8fgZC1FE5FD2ml9484J9hw=
+
+Name: com/balancedbytes/games/ffb/net/commands/ClientCommandCloseSessi
+ on.class
+SHA-256-Digest: xwscud2MzpV+e6QW4eDPAFr0+zIGxEhb28OILRCTokQ=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogPettyCash$1.clas
+ s
+SHA-256-Digest: EJy+5YuohXqQOiqE2o438HiekWlBQzgIywL2N/Q/tAo=
+
+Name: com/balancedbytes/games/ffb/net/commands/ServerCommandUserSettin
+ gs.class
+SHA-256-Digest: TAFBAmCfczTtPHA3LXZxLG5gs7wxsT9y/PGo2AvBbHU=
+
+Name: org/glassfish/tyrus/client/auth/AuthConfig$Builder.class
+SHA-256-Digest: 9zLXIEOrv9bPaM+0DEQVPOBbc4htAzx9cGDgHUq/5Vc=
+
+Name: com/balancedbytes/games/ffb/net/commands/ClientCommandArgueTheCa
+ ll.class
+SHA-256-Digest: Sl9ab+SAjJ3uKkZJuxH6J22u001HMAQirejnYnZT8c8=
+
+Name: com/balancedbytes/games/ffb/client/ReplayControl$ReplayButton.cl
+ ass
+SHA-256-Digest: MYBtGp9826x3q6A1Py6K0PjSpbIcr/UYmOip2YJdhNo=
+
+Name: org/glassfish/tyrus/spi/ClientEngine$TimeoutHandler.class
+SHA-256-Digest: w7mPWJtqFC54sAkXY80vPG34CO9sFpQT1tLOXouq9zo=
+
+Name: com/balancedbytes/games/ffb/client/ActionKeyBindings.class
+SHA-256-Digest: o5R0Y30vWBxn1Q4kZxoAuYHdOyBYm3jl4QzHSXldbNs=
+
+Name: org/glassfish/tyrus/core/uri/internal/UriTemplate$4.class
+SHA-256-Digest: i/GjmZJoF2aibKLHXvDeInskfMX8eopY+dM1arjVIWU=
+
+Name: com/balancedbytes/games/ffb/client/util/UtilClientPlayerDrag.cla
+ ss
+SHA-256-Digest: dKL2q2TKhtSLAZmyO3FYOD5P1+E5rX1Mg4e40K4i8Ys=
+
+Name: com/balancedbytes/games/ffb/report/ReportBlockRoll.class
+SHA-256-Digest: 1y3smoYhLk++riqKIRZtbMLCPaHbnXF1AG9JCINnIJ0=
+
+Name: com/balancedbytes/games/ffb/ClientMode.class
+SHA-256-Digest: e7cZm+97PB1HsjssY9UwNenyd48laavZWcQLbwxy3yU=
+
+Name: javax/websocket/SessionException.class
+SHA-256-Digest: etn88/7VJszD0PaKVMBdku6ripRMB1lzXp60GK966Ss=
+
+Name: com/balancedbytes/games/ffb/dialog/UtilDialogParameter.class
+SHA-256-Digest: Vk87h++Tz3DwjThs+WvfYTVnmlhzbE713PchCPr9XOQ=
+
+Name: com/balancedbytes/games/ffb/report/ReportHandOver.class
+SHA-256-Digest: mDM0IyScHuqBXx3/hxK3V+a0oZNi9aRDwkfcdP4bzH4=
+
+Name: com/balancedbytes/games/ffb/model/change/ModelChangeProcessor.cl
+ ass
+SHA-256-Digest: uqfrR6pfV4AkTQAXJSdybCeL/HBAjvI0BSKBcT12UHQ=
+
+Name: com/balancedbytes/games/ffb/model/AnimationTypeFactory.class
+SHA-256-Digest: n0Z7Frbdc0RYqeGlajlpgDBf8WN6vOVUrJnnm22Bm5s=
+
+Name: com/balancedbytes/games/ffb/dialog/DialogInterceptionParameter.c
+ lass
+SHA-256-Digest: 7jMDggPNGJ8NowGdvUhGCppB/kHuTkdLM+NHiMcmpzo=
+
+Name: com/balancedbytes/games/ffb/ReRollSourceFactory.class
+SHA-256-Digest: nF6Y45X413/8aUHzYPOVF9n/MjPtOkEtvPapcta9tIg=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogPettyCash$2.clas
+ s
+SHA-256-Digest: 5+cWWejiXOYqBBlgoKkMXQf5l0Jexr9MG8PvaebEgQg=
+
+Name: com/balancedbytes/games/ffb/model/Roster.class
+SHA-256-Digest: zESxw7ZT7Mp/d8TAH/T1/Un9wYPGXJ5bQlIy4BlWKN4=
+
+Name: com/balancedbytes/games/ffb/dialog/DialogPassBlockParameter.clas
+ s
+SHA-256-Digest: mZQYq8cjw8e3M+jBcpStPxnsxgX8hSuDyDLuGS5Sxpw=
+
+Name: com/balancedbytes/games/ffb/net/commands/ClientCommandFoul.class
+SHA-256-Digest: 7xGvzPm1uTQ7gseO5+nJdygll8t7knKi3pLftHSpraE=
+
+Name: com/balancedbytes/games/ffb/net/commands/ClientCommandIllegalPro
+ cedure.class
+SHA-256-Digest: Mvyaa1//v1fL+XSBJ+/pHu+vZjxRXKxqmxg+Q2z75wU=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogProgressBar.clas
+ s
+SHA-256-Digest: ehP8LqmTCp0BRNCGglK3D3X0SegWjZgdTQPqCO21M3U=
+
+Name: org/glassfish/tyrus/core/ReflectionHelper$3.class
+SHA-256-Digest: M5lZAoG8xgYgnngaed4uE8XpQvQlAPn+ES2LNPrTfs4=
+
+Name: com/balancedbytes/games/ffb/Inducement.class
+SHA-256-Digest: /HP8ziZkn8EJkL8A7Zd9xEHYJxubNlV6N0ynJGgeBfg=
+
+Name: com/balancedbytes/games/ffb/dialog/DialogApothecaryChoiceParamet
+ er.class
+SHA-256-Digest: 30P1B+TKBQZT89R5lqyb3WlgyBqlJX8U/tAWrEkCs3A=
+
+Name: com/balancedbytes/games/ffb/util/UtilCards$1.class
+SHA-256-Digest: gbwaz9bReFzxJD5Y1HtRs7kDeiTMjmxo/XzC9QTHDPU=
+
+Name: com/balancedbytes/games/ffb/client/state/IPlayerPopupMenuKeys.cl
+ ass
+SHA-256-Digest: luQoxF71Wa6jJM1a41BbV7LKX3R9U6Ifl6ZclObmWGc=
+
+Name: com/balancedbytes/games/ffb/Card.class
+SHA-256-Digest: KJnEs9I3i0AWpeO99v8kclErMaU1OhcehseUKzv8WLM=
+
+Name: com/balancedbytes/games/ffb/net/commands/ServerCommandLeave.clas
+ s
+SHA-256-Digest: uvq1yCuwArBL8ipAs/BiuAxhx2CXcZOZh8Jzs2RN5NM=
+
+Name: com/balancedbytes/games/ffb/client/state/ClientStateWaitForSetup
+ .class
+SHA-256-Digest: hbvrtFNTEA3qfsc3poMv+OsFJvK771vcx1dC16aiAZU=
+
+Name: org/glassfish/tyrus/core/TyrusEndpointWrapper.class
+SHA-256-Digest: UpwBLYEx1Re5jAXeiO3zBjcskrLRVSxeXFSL7DcfWzA=
+
+Name: org/glassfish/tyrus/spi/ClientContainer.class
+SHA-256-Digest: Chq40vSGvrxg6OX+rBWPzlnG6laX881fN1XUyW2N9Ho=
+
+Name: org/glassfish/tyrus/core/BasicMessageHandler.class
+SHA-256-Digest: IYlAoIrydbpI7POxoJF4n1a+50PpdC24bYA5THKWdSs=
+
+Name: com/balancedbytes/games/ffb/client/dialog/inducements/DialogBuyI
+ nducements.class
+SHA-256-Digest: FcAf3bVweAXuzGI1f0y5xUcF9GjIpDfvsQ+s+iYB7Zo=
+
+Name: com/balancedbytes/games/ffb/net/commands/ServerCommandGameState.
+ class
+SHA-256-Digest: BCmXKpEESJjY7ZMl00lmvuS9OTg38cuH+tmSBO5ekDc=
+
+Name: javax/websocket/OnOpen.class
+SHA-256-Digest: gIeEz2UQX80dnyPl6AEmStQQOm2vgHeWf3r5AExU8GM=
+
+Name: javax/websocket/Encoder$Text.class
+SHA-256-Digest: MLSBz31fPhQvrgmN6qmvCP4wWhX04w3iR1CpK9CAPiM=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogAbout.class
+SHA-256-Digest: /YN7xbmA0M17TEohACTbfX/e5GUWXQ3ZPvVPrjkmdxI=
+
+Name: com/balancedbytes/games/ffb/report/ReportApothecaryChoice.class
+SHA-256-Digest: gojhbMCKPmZDXuBuDsNufcjpH0ajB3a+Ql5rLuusMhE=
+
+Name: com/balancedbytes/games/ffb/xml/UtilXml.class
+SHA-256-Digest: wCV8tlAlda2hnC/monnoobwgXzpvFvnIpzmHP86PFQ0=
+
+Name: com/balancedbytes/games/ffb/client/FieldComponent.class
+SHA-256-Digest: 2cBjpcs7nRhbm5mD28GqKSpeykdRrbWWpKX1BisCSbo=
+
+Name: com/balancedbytes/games/ffb/KickoffResultFactory.class
+SHA-256-Digest: Ol18kUtebG1snDkrkf+i4i3OMTJQAZNUDwtssfx/6RU=
+
+Name: com/balancedbytes/games/ffb/report/ReportSkillUse.class
+SHA-256-Digest: p0dSlWT9jmHo+smdcg2TUdqdt4UBZto6XM66CKVRhzg=
+
+Name: org/glassfish/tyrus/core/coder/PrimitiveDecoders$ShortDecoder.cl
+ ass
+SHA-256-Digest: HkGz9G8DyAyRcxNRMuQspelqCubY4emOU8dDc13TOI8=
+
+Name: org/glassfish/tyrus/core/OsgiRegistry$1.class
+SHA-256-Digest: VGZjDT5zGMx/sjPBq2T4i8nCOOheLUMwhGmCDqFvQw4=
+
+Name: com/balancedbytes/games/ffb/util/UtilInducements.class
+SHA-256-Digest: YRJSmRsx5GPcA6HaJRtPLqumQHaR4LQHsOEP/PuPkpo=
+
+Name: com/balancedbytes/games/ffb/report/ReportReceiveChoice.class
+SHA-256-Digest: w0l35Hp9AXxboPLjtIuhqTm4RilMUcxa75mf513OmUw=
+
+Name: com/balancedbytes/games/ffb/client/PlayerIconFactory.class
+SHA-256-Digest: tjNV+zofrpFmhWwpoNK+bi4LjddX7hmlHV0ScG8tryM=
+
+Name: com/balancedbytes/games/ffb/client/dialog/PlayerCheckList$Player
+ CheckListMouseAdapter.class
+SHA-256-Digest: gjxLtqN9EgrmJYWWQ4hFaaJQfDHmG9TgkxoYtGg+KrY=
+
+Name: com/balancedbytes/games/ffb/model/change/ModelChangeObservable.c
+ lass
+SHA-256-Digest: T2A6rPLIC/e0IXJ0gsOFKZJPwqdRCv10/JnFi5onGu8=
+
+Name: org/glassfish/tyrus/container/jdk/client/TaskQueueFilter$WriteTa
+ sk.class
+SHA-256-Digest: eECNuM+DpE9kH0T5xvzAv5CgqDhQH3IKuWDKPHFUA2c=
+
+Name: com/balancedbytes/games/ffb/report/ReportKickoffExtraReRoll.clas
+ s
+SHA-256-Digest: w8Y9dzCPbsIc14f16qdTB+NKPzBLWEsJGWnOwewiGyk=
+
+Name: com/balancedbytes/games/ffb/DefenderAction.class
+SHA-256-Digest: pGxiNFDRlNzWRxg6c1TzsiZ9FxTE2vAt41Zg7uUNENs=
+
+Name: com/balancedbytes/games/ffb/GameListEntry.class
+SHA-256-Digest: LKjqQbSgjIOSmi/jXtdVGG/zWTSskOJXhIhRA2JKyqk=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogReRoll.class
+SHA-256-Digest: CednLiHBtsOJe5BHScMBf2fwAVEeBW3JnwLRo+xHyHg=
+
+Name: com/balancedbytes/games/ffb/SendToBoxReasonFactory.class
+SHA-256-Digest: A2x1yCGJZyIuiFMmmXuqO5D4rtiuHgZAMM1hWyGgxL4=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogLogin$2.class
+SHA-256-Digest: xvGRKgOE49yosvqgAHeeOAu1s9BEpN5jcNhq3q0HkLI=
+
+Name: com/balancedbytes/games/ffb/client/state/ClientStateKickoffRetur
+ n.class
+SHA-256-Digest: aSCM5uL+0LjFIjSLvSFQKUI7Ai8J/SkQlFygEgIHxWc=
+
+Name: org/glassfish/tyrus/client/ClientProperties.class
+SHA-256-Digest: Ucj3XplS6HMRflq51h5rJxymDga4hyv4btT1t28kGYk=
+
+Name: org/glassfish/tyrus/core/TextBuffer.class
+SHA-256-Digest: brz57SEu8s4Tes4YVPImu2l3ovmHvoAeUdJm/elehfo=
+
+Name: org/glassfish/tyrus/core/TyrusWebSocketEngine$1.class
+SHA-256-Digest: D4WcuqK4VEPvrTt3FBM/zKUSukFOGmuwxgVA4FqKuxs=
+
+Name: com/balancedbytes/games/ffb/client/dialog/inducements/DropDownPa
+ nel.class
+SHA-256-Digest: +oPMJTbj/FfA/uLcF5BmRwq/TDgnUE37wiI7eVuwcOc=
+
+Name: com/balancedbytes/games/ffb/client/ui/ResourceComponent.class
+SHA-256-Digest: t8CHNm2WcoD0fD990+8OYMJ9ek772TDceqqvsiSKnto=
+
+Name: com/balancedbytes/games/ffb/client/layer/FieldLayerRangeRuler.cl
+ ass
+SHA-256-Digest: h/zboON4n7XnEWhGBQuNNtk2xRcpGOuOPy+UgDoSBx4=
+
+Name: org/glassfish/tyrus/client/TyrusClientEngine$5.class
+SHA-256-Digest: AL0KVzEYk1DRC5UJuHNVT6ql3hiH02M+B6b6KHGgqxo=
+
+Name: org/glassfish/tyrus/core/cluster/RemoteSession$2$1.class
+SHA-256-Digest: oAb42cHLROKgZq17XLHTDHVC5UKRRe10ZhczgOG/SMA=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogWinningsReRollHa
+ ndler.class
+SHA-256-Digest: jLLkY6+bK8GqCchn0Qdqq7ZJGT7KCUqjRexP+QcQXdU=
+
+Name: com/balancedbytes/games/ffb/client/handler/ClientCommandHandlerT
+ alk.class
+SHA-256-Digest: yyEIPaVdBNL3uNEnj2ZGe4rZTIpyWCa4GGA0d8cVfaY=
+
+Name: com/balancedbytes/games/ffb/dialog/DialogWinningsReRollParameter
+ .class
+SHA-256-Digest: 4OOOHEIsSJG4nqk4+gDfeyfI/15Q6ZKMJFI0muTr+ow=
+
+Name: com/balancedbytes/games/ffb/client/util/UtilClientMarker$2.class
+SHA-256-Digest: INxivTRPa+uhHOQsumaMCwYY8Tb7KrJ4F7fkDVMgjY0=
+
+Name: org/glassfish/tyrus/core/AnnotatedEndpoint.class
+SHA-256-Digest: pOk75GivcX62zoil2KdfcEOdaDxjVLgyZVmr/71tsTg=
+
+Name: org/glassfish/tyrus/core/InputStreamBuffer$1.class
+SHA-256-Digest: VXUYW1NV7CXQnzZleUbiB1qulZNyCnbFguOUcBpq+r0=
+
+Name: org/glassfish/tyrus/client/ClientManager$ReconnectHandler.class
+SHA-256-Digest: CUVknsL9YnOWIEpnX9OzXSXY1cneM898I/sp1szDWII=
+
+Name: com/balancedbytes/games/ffb/net/commands/ServerCommandTeamSetupL
+ ist.class
+SHA-256-Digest: HlTJyZFJ09cDTvOpvs2Ava8RHIsGGhdlKxqdZ2jxNpA=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogGameChoice$5.cla
+ ss
+SHA-256-Digest: KQdQv7K6ZAA+y3ssOStdWMOJ++Bbkgq8wPuA/tgqA4I=
+
+Name: com/balancedbytes/games/ffb/report/ReportPenaltyShootout.class
+SHA-256-Digest: 6z3iv3tHHTJfwKK8Qqhqshs9bEe6U2zBbofL9ZE0+tk=
+
+Name: org/glassfish/tyrus/container/jdk/client/SslFilter$4.class
+SHA-256-Digest: 6HCcEHxyrnrB+Uz7PlxjVNfAc7WfxiiTZ0IEi2V7Rv8=
+
+Name: org/glassfish/tyrus/client/ThreadPoolConfig.class
+SHA-256-Digest: D0hwIsj31R663Y7ZeTKl98CQCCOBxMBUp8ZBgirjx1o=
+
+Name: org/glassfish/tyrus/client/auth/DigestAuthenticator$Algorithm.cl
+ ass
+SHA-256-Digest: lYHhdlb0Bi97hgI1Rra/I5gQhj+8lBezZspqitZc1Ec=
+
+Name: com/balancedbytes/games/ffb/RightStuffModifier.class
+SHA-256-Digest: PxO/CNSexfIyzF+hQxQsXjpRFYb69zvisodr6SaK7RU=
+
+Name: com/balancedbytes/games/ffb/client/ui/ChatLogDocument.class
+SHA-256-Digest: 8YitHjM3mD8ZWppC3e4lCvoP7RTjQwyrUiPeJYKSqLE=
+
+Name: org/glassfish/tyrus/core/cluster/RemoteSession.class
+SHA-256-Digest: tsWd6jeYUpN+z9X+BmYPL7Gbgs7aO3DfIplVmX0YW38=
+
+Name: org/glassfish/tyrus/core/monitoring/ApplicationEventListener$1.c
+ lass
+SHA-256-Digest: emjctENOxxz38cLqsspYi8sJE8vQ6ia9RqSYz/eqBkI=
+
+Name: org/glassfish/tyrus/core/BufferedStringReader.class
+SHA-256-Digest: UtrIHt858IN152Er7KoPlQh7MJUAmxjrBcPB8X/Ec0E=
+
+Name: org/glassfish/tyrus/core/TyrusWebSocketEngine$3.class
+SHA-256-Digest: x6l+GsmlD2F36dYULbRNE3+UebaL2ztmPWnUxZbOd44=
+
+Name: org/glassfish/tyrus/core/coder/NoOpTextCoder.class
+SHA-256-Digest: MIIDiPcIZsf9aJfu9CwyLeBfhlWZqpOHKV8glWW50ac=
+
+Name: com/balancedbytes/games/ffb/client/util/UtilClientGraphics.class
+SHA-256-Digest: xL/296UHsbUwXa2eOLVAq/GGw3a7/iwsUevFQxo9d3Q=
+
+Name: org/glassfish/tyrus/core/BaseContainer$ShutDownCondition.class
+SHA-256-Digest: Ru5QpodnAC3JqUvFT3JyTZG2Odv/URfWvrO8ty1sGsw=
+
+Name: org/glassfish/tyrus/core/TyrusWebSocketEngine$TyrusReadHandler.c
+ lass
+SHA-256-Digest: q3HwRu/e50QGLzRuLw0Sv+6Ql1xyheK1WYNdmNmOyIU=
+
+Name: com/balancedbytes/games/ffb/net/commands/ServerCommandJoin.class
+SHA-256-Digest: 8WW0KMC60B/izfEkFo2VuYidaGHZI4m7Gr0cNkmdlW8=
+
+Name: org/glassfish/tyrus/container/jdk/client/SslEngineConfigurator.c
+ lass
+SHA-256-Digest: 3xD/EQoMpuDGm8sou3wNnTdv5piWOhejD8h1M+G6CJE=
+
+Name: com/balancedbytes/games/ffb/model/Team$1.class
+SHA-256-Digest: 02I/pyBYpbvWBWe2RD2Lr0USu+Gt5D+OPl8Bw1bpnhg=
+
+Name: com/balancedbytes/games/ffb/util/UtilPassing.class
+SHA-256-Digest: xg7BmBdfiC9w5flgTb5d2KADmZqkFp1Sl5sajXs0RY0=
+
+Name: org/glassfish/tyrus/core/TyrusWebSocket$State.class
+SHA-256-Digest: /7e+SmLXedtoxO2dWu/uEWblsys8Rq7+7Hsgmjhk4KU=
+
+Name: org/glassfish/tyrus/core/uri/internal/UriComponent$Type.class
+SHA-256-Digest: YuMgSZqRVT51TNktcjdI8LbMAYavpipL+0R6o1t7FFQ=
+
+Name: com/balancedbytes/games/ffb/net/commands/ServerCommand.class
+SHA-256-Digest: JsHOobLTk+O8Wat4nL8reQbR3bDpb8ghVSIHMz+UMSM=
+
+Name: org/glassfish/tyrus/client/TyrusClientEngine$3.class
+SHA-256-Digest: anRG3KY+09P6mFJ2jczM8NPKWCffxGczZU515lf+UhQ=
+
+Name: org/glassfish/tyrus/core/l10n/package-info.class
+SHA-256-Digest: FvNkzkMmJRRJ90cEeXHsobRA/pD+A5uIK6Cx99/cBPU=
+
+Name: org/glassfish/tyrus/core/Version$1.class
+SHA-256-Digest: pk+MrLozUd78YppWApW+TjHi0LL4A2IQRQ1myDNjLZc=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogGameChoice$3.cla
+ ss
+SHA-256-Digest: PjTs7m3CGqtrzKSMh/MGVWTMNwzTGy5jIHa8CanZZYc=
+
+Name: com/balancedbytes/games/ffb/FieldCoordinate.class
+SHA-256-Digest: OJrEkmgNw6wmwrcIvS2ChIHnOwhuyBmY570TbvbL1sg=
+
+Name: org/glassfish/tyrus/client/auth/BasicAuthenticator.class
+SHA-256-Digest: HBbF4cT/zTZzIDnbS0C0a/J7W8VsAAiYmumw6yOMWPw=
+
+Name: org/glassfish/tyrus/core/TyrusSession$IdleTimeoutCommand.class
+SHA-256-Digest: 5w1JInl9Ii1KjCsnJm/yfza50oB1Hfr1GdROg6cvkoM=
+
+Name: com/balancedbytes/games/ffb/DirectionFactory.class
+SHA-256-Digest: 7Fb4hQ97EntlPbiNdHBGDyPd0LEE6nTQ9K0Z0GqbdcA=
+
+Name: com/balancedbytes/games/ffb/FantasyFootballException.class
+SHA-256-Digest: 59QbIIFGvzsipvuTvjpwTzA4obFOcl60VJNBaZ3FSBg=
+
+Name: com/balancedbytes/games/ffb/LeapModifier.class
+SHA-256-Digest: NufR8kNpxtz/MENT8sVTtT3Y/4pelkT8E9eDXZAZKjo=
+
+Name: com/balancedbytes/games/ffb/client/ActionKeyAction.class
+SHA-256-Digest: iqEQSBoQH++8uNpFljStOCgpQDHw6nRIQWr/JBOxW+U=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogCoinChoiceHandle
+ r.class
+SHA-256-Digest: P5pjsyhFTtPCQ3wZkyn5lXt0aYcDaIvB0I2xzVi9jL4=
+
+Name: com/balancedbytes/games/ffb/SkillCategoryFactory.class
+SHA-256-Digest: rdaZtUEwzO2I2X0Dhhl3TkADVhD/3XfcAd1Ju3LNhac=
+
+Name: com/balancedbytes/games/ffb/net/commands/ClientCommandDebugClien
+ tState.class
+SHA-256-Digest: Xgck/N6a3h8g5qrNt+WOnvQYOXvy6kg0p7KLnMCqEPY=
+
+Name: com/eclipsesource/json/JsonNumber.class
+SHA-256-Digest: N6vWX3zr1Ko0eFQJmYug2LV43yScIZp5M57HKf03jis=
+
+Name: com/balancedbytes/games/ffb/client/ui/ResourceSlot.class
+SHA-256-Digest: lPdJwoX+EVj6cIjcFy+znCDrZEUBVQddu4PTaevInGg=
+
+Name: com/balancedbytes/games/ffb/dialog/DialogParameterFactory.class
+SHA-256-Digest: hhv2SD9kM9EEHOOwCtTgGmRczFUuHsJxtMikCEUuxtw=
+
+Name: com/balancedbytes/games/ffb/json/JsonEnumWithNameOption.class
+SHA-256-Digest: 6XfgSpklEYV5aVATGYjxXks/eT4HhDTcrGNJY5C47nY=
+
+Name: org/glassfish/tyrus/spi/UpgradeResponse.class
+SHA-256-Digest: C6HXcIGhNS8vAJLqgHXlmWJnJAN7o4aN1RoZOfwnDJo=
+
+Name: com/balancedbytes/games/ffb/InjuryModifierFactory$1.class
+SHA-256-Digest: D8mLCNJBuIUcAVNEmeO3mpuiqZ9AFk7QSu69rFbIx88=
+
+Name: javax/websocket/server/DefaultServerEndpointConfig.class
+SHA-256-Digest: ZcLBQCWpmW899ZQc1A8o2SxzLtOaksxTCLlYUI8VSuY=
+
+Name: org/glassfish/tyrus/core/ExecutorServiceProvider.class
+SHA-256-Digest: dEvfYwoFbNwnmwod24Iwl8khTlRmhdpae52dZXKXXP8=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogHandler.class
+SHA-256-Digest: Y+JnEI2Ab1w9xJuW0Kg/Xfna7BjFhy3zUDOJr+1JZ0Y=
+
+Name: com/balancedbytes/games/ffb/client/dialog/IDialog.class
+SHA-256-Digest: D/oW7S6QqZunNu8eTvwgzPYFm6s5yM7mTLPImucJ1qw=
+
+Name: com/balancedbytes/games/ffb/client/IIconProperty.class
+SHA-256-Digest: hrBzwHn2Hwzo65c0aTt6VOVXmJy+mcY0XtJyIDyi2v4=
+
+Name: org/glassfish/tyrus/client/ClientManager$ClientManagerHandshakeL
+ istener.class
+SHA-256-Digest: ddRzYFk+3C3SPyzGVSyVALm/12Bg3gj0OQ/73Ile9zE=
+
+Name: org/glassfish/tyrus/core/OsgiRegistry$OsgiServiceFinder$1.class
+SHA-256-Digest: AexCAcgoqa/XIB8VaY92ef2JpGiZlLJFxvjmC0KTyvI=
+
+Name: com/balancedbytes/games/ffb/net/NetCommandLog.class
+SHA-256-Digest: 0mkfNhXkZADqisdyxN/kGJVjB1zaLZEsN6854tSvU+k=
+
+Name: org/glassfish/tyrus/client/auth/DigestAuthenticator$DigestScheme
+ .class
+SHA-256-Digest: PrdHKNWcnEDqE9tUGW7rfyZpOoSNC4TX+TjSrt/6Zdw=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogProgressBar$1.cl
+ ass
+SHA-256-Digest: AtRWQPRzAxprz1KcRB2NFAAEIs77XZEQw3FJub8pEUQ=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogPettyCash.class
+SHA-256-Digest: NJiTQREBre0lJR2NBe0CEW3y+m5ZyXptTEgZMrUOgOM=
+
+Name: com/balancedbytes/games/ffb/util/StringTool.class
+SHA-256-Digest: K7/8Ww1dqqhUv4uQL73K10Xewf4ZoTuXAmchIRpNGog=
+
+Name: com/balancedbytes/games/ffb/PathFinderWithPassBlockSupport$PathF
+ indContext.class
+SHA-256-Digest: 8g1DWhkwZ3MsZRqrtzhWTSo1Gk7DswUNCyelv81diQY=
+
+Name: com/balancedbytes/games/ffb/BlockResultFactory.class
+SHA-256-Digest: 5+hhsyv4w1OSBkUv8Qnl68L3q2MMeoIMqoQNDOfBDAk=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogInformation.clas
+ s
+SHA-256-Digest: nY5uADOzANsJdAn/CSBs8I+XE9C+LhWNi2SGQdD4RoE=
+
+Name: com/balancedbytes/games/ffb/DodgeModifier.class
+SHA-256-Digest: fBYlPlkqYLuYfcIRqzj9e2M74WtGgAXfR1cJRdaUc+o=
+
+Name: com/balancedbytes/games/ffb/net/commands/ClientCommandSetMarker.
+ class
+SHA-256-Digest: v1SYhV2JF1tDajRXD/TgDNTy8tQmmjp6m0QUqWtrF2I=
+
+Name: com/balancedbytes/games/ffb/client/handler/ClientCommandHandlerS
+ ound.class
+SHA-256-Digest: fIoTCrIBTPACkwYI9C3yfK0j4tYs7mG5z/+14K7fnQg=
+
+Name: org/glassfish/tyrus/core/cluster/ClusterContext.class
+SHA-256-Digest: 9j6DpfrckHcNrXNEtx2wjdg28jANoP4rWJ8ppg/vmVs=
+
+Name: client.ini
+SHA-256-Digest: gnEASBnXrhuWm2KMeAFIMGcrhnR3URfUsfLUEuibjvo=
+
+Name: org/glassfish/tyrus/core/TyrusRemoteEndpoint$1.class
+SHA-256-Digest: oOwS95ddmMSYZFtzfpQsu7ywdczFTIkblZb4TGhckJo=
+
+Name: com/balancedbytes/games/ffb/option/GameOptionFactory$1.class
+SHA-256-Digest: PLTWIy2zEYU/FGF9x7K9/XQdSK+99hlKQGcE4xA6yf0=
+
+Name: com/balancedbytes/games/ffb/IKickOffResult.class
+SHA-256-Digest: kE30rNy2JP//tJ9ZN9o9LyKffvrnA5j4PYn6WdCb/4k=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogSetupErrorHandle
+ r.class
+SHA-256-Digest: qdneYtO9WVJ0HB/O40ZhSNN8cnGRgk5MB2U2FlctTIs=
+
+Name: com/balancedbytes/games/ffb/model/TurnData.class
+SHA-256-Digest: na1tsBN6aNhHRayXUqXnxmvuHQlRRTHeo0H1ImXWTAg=
+
+Name: org/glassfish/tyrus/core/TyrusUpgradeResponse$1.class
+SHA-256-Digest: b0qT/FgD5VWy4IE6YnJjn5QtrvyKitpz9V5wlMxfwiw=
+
+Name: com/balancedbytes/games/ffb/client/layer/FieldLayerOverPlayers.c
+ lass
+SHA-256-Digest: Sisv+1YH9AlRDGID9pOS6/RBRQAIAZfXLdWJpfGnsJE=
+
+Name: org/glassfish/tyrus/client/ClientManager$3$1.class
+SHA-256-Digest: 9smApAgyj9F6z9feV+ma4/cNSFxT6LcQnKR6/uGlcSQ=
+
+Name: org/glassfish/tyrus/core/TyrusEndpointWrapper$SessionListener.cl
+ ass
+SHA-256-Digest: w+vkYa/d9wyVm2v8n3QxESDxw4ObDj9I0TFvp/ft+14=
+
+Name: org/glassfish/tyrus/core/frame/CloseFrame$1.class
+SHA-256-Digest: CGDwjzovc7pNc8zFp8DxX5Rs5x/UfhHsuoZk9hStAvo=
+
+Name: org/glassfish/tyrus/core/OsgiRegistry$OsgiServiceFinder$2.class
+SHA-256-Digest: TJlSF2O8HaYGWW+6sLJivIH68y3amkZg2P88dXf8Wqo=
+
+Name: com/balancedbytes/games/ffb/client/state/ClientStateMove$1.class
+SHA-256-Digest: UhpmPRQN2xDHgRvIekp2iCOGnzbnMgzcZLQa4R44eCk=
+
+Name: org/glassfish/tyrus/core/MessageHandlerManager$MessageHandlerCom
+ parator.class
+SHA-256-Digest: /umtspHgcGUOkMTSUjX9qRIJcxo4G1EdZt4ekmrah/4=
+
+Name: org/glassfish/tyrus/core/TyrusEndpointWrapper$SessionListener$On
+ OpenResult.class
+SHA-256-Digest: OLIy+zmtKCQCf+kDxDzd8oQw6Z3Thqc+cg4KGUPOceM=
+
+Name: com/balancedbytes/games/ffb/client/layer/FieldLayerTeamLogo.clas
+ s
+SHA-256-Digest: Z4v9CB/4YiLmJj04IGoNymeXA7JZ7w7UdZtwTS+MVnA=
+
+Name: javax/websocket/RemoteEndpoint.class
+SHA-256-Digest: P+GPKJt0Xzms11Jgc30bvJ7YjCISG+Kshb3Iz49qSJY=
+
+Name: org/glassfish/tyrus/core/coder/ToStringEncoder.class
+SHA-256-Digest: K0bBpONEEPVChsp2P6yNTmlugD4/KMDWfaCqOAY/SZs=
+
+Name: com/balancedbytes/games/ffb/PlayerState.class
+SHA-256-Digest: gvHDfEPmpdEI8Q9A9w4lcograen4KITOC0nkGWmN+V0=
+
+Name: com/balancedbytes/games/ffb/model/Game.class
+SHA-256-Digest: 42c12VswnmS2XQwXQW2dkVWm+vWPAqt94XScp+WheZE=
+
+Name: com/balancedbytes/games/ffb/net/commands/ClientCommandBlock.clas
+ s
+SHA-256-Digest: zGzmjUO/zs8uBOEnPGZ6XiBts5gY443lzXmfKM1rIFY=
+
+Name: com/balancedbytes/games/ffb/dialog/DialogUseIgorParameter.class
+SHA-256-Digest: nAEGvrvBSYKLUJIz2unSM0C5I+zAv3iA4AWGBhFvC1M=
+
+Name: com/balancedbytes/games/ffb/client/state/ClientStateWaitForOppon
+ ent$1.class
+SHA-256-Digest: d4FOBcBOhWM4h4Gf2c4v43l8zeVtwjAGa5ry1UmNJTc=
+
+Name: com/balancedbytes/games/ffb/report/ReportStandUpRoll.class
+SHA-256-Digest: lfNNb6afA3D+meiJZG/C5C4Efcbl1Pcbk+SzVW0+1qY=
+
+Name: com/balancedbytes/games/ffb/json/LZString.class
+SHA-256-Digest: LKEhjotIVOt91KUdHVK/1hLeA9FcauTfLoXSoPy/i+A=
+
+Name: org/glassfish/tyrus/core/monitoring/EndpointEventListener$1.clas
+ s
+SHA-256-Digest: K+PPCk1dZ85iKVxdZwJ+S+06yQf2XSXI1yH0i+axwfY=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogApothecaryChoice
+ .class
+SHA-256-Digest: SKgl5G5lWhZ2vG3bjxPW8LZ0NxduCbPShlyoghB1Q4w=
+
+Name: org/glassfish/tyrus/container/jdk/client/JdkClientContainer$1$1.
+ class
+SHA-256-Digest: nvCVZjuIHcQRuRJ4zy24u+rc414MZhjDRTHkd9mmw+A=
+
+Name: com/balancedbytes/games/ffb/json/JsonObjectOption.class
+SHA-256-Digest: wWbv8jr+3T2x1QgiAGzlR1sw4VAmmpgwarSvrom/g5c=
+
+Name: com/balancedbytes/games/ffb/client/IClientPropertyValue.class
+SHA-256-Digest: a2ZIQ5mGUWvcrJmNODBa7BMoeynjlXI2KIBQY75XzCg=
+
+Name: com/eclipsesource/json/JsonObject$Member.class
+SHA-256-Digest: IB2bemHaa5O+ZLZoprCxnT+lzqcbxGhwbU1eJOV6GKQ=
+
+Name: com/balancedbytes/games/ffb/report/ReportRaiseDead.class
+SHA-256-Digest: /q2ETVu5+hnRBUnS8ulMLgbdrDg3LEqfMgd19FzfpxE=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogManager.class
+SHA-256-Digest: 2iXh94TYHwOU1jCAJ0RgHFfZ9e9XM+otDG7HizOUGRo=
+
+Name: com/balancedbytes/games/ffb/client/dialog/inducements/DialogBuyC
+ ardsHandler.class
+SHA-256-Digest: 8svOFRWtABk9+/EKpEIcUIS5Qfbx6LB4kfOod5/HxKI=
+
+Name: com/balancedbytes/games/ffb/client/layer/FieldLayerRangeGrid.cla
+ ss
+SHA-256-Digest: 6cSkbeVbsJrfnpeKXyr1fH35FJXVO46q/0BoErQAtoY=
+
+Name: com/balancedbytes/games/ffb/xml/IXmlReadable.class
+SHA-256-Digest: v9wV5qLYHprijH0b2e0KMWjZ7CozWClmWW+fau3dqdQ=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogLogin$4.class
+SHA-256-Digest: +S93d25WDwW6ZZP7qljQXRdTOyOhNJMojFXVg7Ci+ZE=
+
+Name: com/balancedbytes/games/ffb/dialog/DialogIdFactory.class
+SHA-256-Digest: 9e4L93hzTWGGD4tDTP4pEORtDdQYJQqj98bc+gXGGv8=
+
+Name: com/balancedbytes/games/ffb/util/ArrayTool.class
+SHA-256-Digest: VhmxbBu5xbuU9sLwamosGQdLqFS1nLe7gtzsVM25Vq0=
+
+Name: com/balancedbytes/games/ffb/client/util/UtilClientReflection.cla
+ ss
+SHA-256-Digest: 5Si2xICJPw+rYjOgcnK44ggPlKnoBi3fJCOGoYunyN4=
+
+Name: org/glassfish/tyrus/core/TyrusRemoteEndpoint.class
+SHA-256-Digest: Yekrl/wko3of8HR3kRPG3ED/Hu5fKJtl+7dMVBIyUgE=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogGameChoice.class
+SHA-256-Digest: XyKzRNNxIcMjRo7K+wZL3ZM0T9ltQ068y/XqAHIpX64=
+
+Name: org/glassfish/tyrus/core/l10n/Localizable.class
+SHA-256-Digest: mbrwYSjU0ZaXpPzRuvpAidr/MvxTsFIWws2pqDfbeBM=
+
+Name: com/balancedbytes/games/ffb/client/util/UtilClientStateBlocking.
+ class
+SHA-256-Digest: 9Xh/Os69zxZ6IivUEUHbZbJewBC+sDZIN0kMLHOuGEY=
+
+Name: com/balancedbytes/games/ffb/report/ReportId.class
+SHA-256-Digest: CT994q+0mFoWgrz7bPy7ETVDruzWz5r1afVrS80dZes=
+
+Name: com/balancedbytes/games/ffb/client/state/ClientStateSelect.class
+SHA-256-Digest: DJLLbk9c4sOZId4BqI6iyh0AO4M19Z5RIcgM91EcofI=
+
+Name: org/glassfish/tyrus/core/cluster/package-info.class
+SHA-256-Digest: 3nQLkYJko+Vyb7t61kXKzF31ifX0N0EzlcLvZjTLhIU=
+
+Name: org/glassfish/tyrus/client/TyrusClientEngine.class
+SHA-256-Digest: 9kNoi7KvZd3Y+C37WoCJhA94aLM4dzu/RBACJVDwcmI=
+
+Name: org/glassfish/tyrus/core/StrictUtf8$Encoder.class
+SHA-256-Digest: Zg1x68i0rwUoDwZ+rX3NyzQqqYHn4g7kcsjRATCTuxs=
+
+Name: com/balancedbytes/games/ffb/IRollModifier.class
+SHA-256-Digest: VkTr8lcJJ4GpH/ni7Hc29fC7emgEqt89bZ+YhwZlYWI=
+
+Name: com/balancedbytes/games/ffb/SoundIdFactory.class
+SHA-256-Digest: XXfSLnXjOkgK44ZUS/waNf9woBWLaP2YBYLdbuJPh1A=
+
+Name: com/balancedbytes/games/ffb/GameStatus.class
+SHA-256-Digest: ktZZkpMP50EicOCRsY3WjnZciuvXi8ljP40dMVDH1Js=
+
+Name: com/balancedbytes/games/ffb/PasswordChallenge.class
+SHA-256-Digest: 5qXwve9K2bW/Nug5M7RyeqtgARQo7BohjbZhFKSPIKM=
+
+Name: org/glassfish/tyrus/container/jdk/client/TaskQueueFilter$1.class
+SHA-256-Digest: 78cDwLJsxy3RYDIEjUorbCTsOA36v19+ss8Xis4+wLc=
+
+Name: com/balancedbytes/games/ffb/json/JsonAbstractOption.class
+SHA-256-Digest: hZnRw18JicyTf4d14WAgWhR+XN+soIWLFCeCGp+Bkpc=
+
+Name: org/glassfish/tyrus/core/uri/internal/MultivaluedHashMap.class
+SHA-256-Digest: doYDJWlmnNj/1C20YVRGnvPavjc06muk6nz5Z9r7sLs=
+
+Name: com/balancedbytes/games/ffb/client/util/UtilClientJTable.class
+SHA-256-Digest: TJmi7MKJWaAcMYWo4C6F7uBzeE1jjZOWwq0yoirWKw8=
+
+Name: org/glassfish/tyrus/client/TyrusClientEngine$TyrusClientEngineSt
+ ate.class
+SHA-256-Digest: LT4rfuazc8p/V5s9vCLQ8A4On56fUB3js4OOUMQpVgA=
+
+Name: com/balancedbytes/games/ffb/net/commands/ServerCommandReplay.cla
+ ss
+SHA-256-Digest: er3gtksSCQesOcjSPog2Y2idX56SG8VoGynC0qP7N7Y=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogTeamChoice$5.cla
+ ss
+SHA-256-Digest: rs5egduPlcV/aZxfEWqbqnpcKhJb+FSmYynJSVPscGA=
+
+Name: com/balancedbytes/games/ffb/InterceptionModifierFactory$1.class
+SHA-256-Digest: b1IYUpOMoe8gsySzGuCvtohWQgeR+ef7kjcXg9UGT4A=
+
+Name: org/glassfish/tyrus/container/jdk/client/HttpRequestBuilder.clas
+ s
+SHA-256-Digest: v95+JqWJPenBTMTc0ktFQS51UgIEiRCGAwPNt99oJl4=
+
+Name: com/balancedbytes/games/ffb/model/FieldModel.class
+SHA-256-Digest: /bzzpOVOKODlal+7Kblh9+V63gEWGJN18Ebi70hRvHc=
+
+Name: com/balancedbytes/games/ffb/net/commands/ClientCommandActingPlay
+ er.class
+SHA-256-Digest: iVixWARg04aOi7Z8gPxfbpeyLTwyope5e7i+vFy6N7w=
+
+Name: com/balancedbytes/games/ffb/xml/IXmlWriteable.class
+SHA-256-Digest: ULAjkD6YIOd6XLTgt342ifIahTWwFbJbJjIBtEB/bgM=
+
+Name: org/glassfish/tyrus/container/jdk/client/TransportFilter$Transpo
+ rtThreadFactory$1.class
+SHA-256-Digest: TJgxbwF2HTz8Enw+rXUBXMq0raDJOAKNGBhMAQneSAE=
+
+Name: com/balancedbytes/games/ffb/client/animation/AnimationSequenceFa
+ ctory.class
+SHA-256-Digest: JjlSDYeDywLY7P5E7W74sAoKiUCToJYIOG3eMrK1cxg=
+
+Name: org/glassfish/tyrus/container/jdk/client/SslFilter$WriteQueue$1$
+ 1.class
+SHA-256-Digest: pS9e7iTKcLDyEU+YBciX0Q6Qo2s5Yz3eGLsv0SZUExw=
+
+Name: org/glassfish/tyrus/core/AnnotatedEndpoint$ParameterExtractor.cl
+ ass
+SHA-256-Digest: gixemcwwnobSzV1q63MSbpymZdOai7sud91F0muQ9pk=
+
+Name: org/glassfish/tyrus/container/jdk/client/SslFilter$2.class
+SHA-256-Digest: MD/M5vdGhNLjFowNHYpPA5QDiTXYu+Ol5uBUxyhYhUk=
+
+Name: com/balancedbytes/games/ffb/net/commands/ClientCommandEndTurn.cl
+ ass
+SHA-256-Digest: KQdWSARPi1HPG3F39ix/c3uJqbSZRmyAqCrbClYb200=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogReceiveChoiceHan
+ dler.class
+SHA-256-Digest: sbwlbWZ/kBc94IWAU8OCcD/E26SgxUBdTHGQ9CZPTTU=
+
+Name: com/balancedbytes/games/ffb/client/layer/FieldLayer.class
+SHA-256-Digest: 0vpst7+EiqxAIIKpAub/mWN/mImhVht0Xb6LIOpad+8=
+
+Name: com/balancedbytes/games/ffb/json/JsonArrayOption.class
+SHA-256-Digest: z1tD5fhoVFxOZcY5BKeYJ1QlKaWXD2pc0gVQJpSPBr8=
+
+Name: com/balancedbytes/games/ffb/report/ReportPilingOn.class
+SHA-256-Digest: sq++A6zPSZJXLzdQyjDT0t6v1CaAfl9t/TtU+XwdGis=
+
+Name: org/glassfish/tyrus/core/ReflectionHelper$1.class
+SHA-256-Digest: ZG+ZYhafiYNR6kXkZESbhPi+PLaX5kw/HrdpBNt/MTM=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogPilingOn.class
+SHA-256-Digest: tgI0nwk0K2dxIp40yM4yx+qoeu1bJCF2cpFfl93SDtw=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogTeamChoice$4.cla
+ ss
+SHA-256-Digest: xyJPRNLluG2ISWIgiZUCdBp6V8AfJL6zCYBeh264VI8=
+
+Name: com/balancedbytes/games/ffb/net/commands/ClientCommandSetupPlaye
+ r.class
+SHA-256-Digest: HEMZbkr92XkWGt589HBWf7DSHowlC1jfH37QXRfKPF0=
+
+Name: com/balancedbytes/games/ffb/client/state/ClientStateStartGame.cl
+ ass
+SHA-256-Digest: kgX/DqfR6LhHKCYdVf9ma+58tCBsfedTqAuMtDrrIck=
+
+Name: com/balancedbytes/games/ffb/client/state/ClientStatePushback$1.c
+ lass
+SHA-256-Digest: lFndJLRoI86GKN8FXjnvPJib3u+TDYzRFZeviBwe94Y=
+
+Name: com/balancedbytes/games/ffb/util/FileIterator$1.class
+SHA-256-Digest: jPJuQXde6MmelAZgLOP67LaON4YcFj5Ov3Zn60L7pGY=
+
+Name: com/balancedbytes/games/ffb/net/commands/ClientCommandPlayerChoi
+ ce.class
+SHA-256-Digest: yDDODDbwEc8MLMWaP07n2cfBgAJ4kkXQ7ksxsUWYO9M=
+
+Name: org/glassfish/tyrus/core/coder/PrimitiveDecoders$FloatDecoder.cl
+ ass
+SHA-256-Digest: V/Fx/8IXBHczjy2F4mvMOJOpobbHypGniZiL7KW+dOg=
+
+Name: org/glassfish/tyrus/core/TyrusEndpointWrapper$10.class
+SHA-256-Digest: ml3MWQaFSiFgRj/vXSOyFWx34vaDdE6Yh64FQ2ngd3M=
+
+Name: com/balancedbytes/games/ffb/report/ReportBiteSpectator.class
+SHA-256-Digest: MSG48u7ESDODAK3Fa1v9mYdMlu0n2pBl7pGJapddRV8=
+
+Name: org/glassfish/tyrus/container/jdk/client/SslFilter$3.class
+SHA-256-Digest: Ak1i0P4cImY52XRqsdO1JBpS7kUZZIunCkPKUXhBIpI=
+
+Name: com/balancedbytes/games/ffb/report/ReportCardsBought.class
+SHA-256-Digest: 0m2U97GfNkNns9DD/W4evLUk3HEbcJFKC+fyhN1rebE=
+
+Name: org/glassfish/tyrus/core/uri/internal/PatternWithGroups$1.class
+SHA-256-Digest: FVO6LRUegy6jUIFwFBvG60BTV2GJfV1xx4mQjIpyD6M=
+
+Name: com/balancedbytes/games/ffb/PickupModifier.class
+SHA-256-Digest: P5etjCTAw9DTkXvDYMzgnuE+okRkoD1Sw3i9KIthLhs=
+
+Name: javax/websocket/CloseReason$CloseCodes.class
+SHA-256-Digest: TM/HDtuOk4ljNzJZiWXPqDyCG3VLnsb35b4i1eGRtcg=
+
+Name: org/glassfish/tyrus/core/coder/ReaderDecoder.class
+SHA-256-Digest: 88+Fx3AtM0MDKpS5vDrmcI+iRPRb4y7WFMs9W6HHHnw=
+
+Name: com/balancedbytes/games/ffb/net/commands/ClientCommandPasswordCh
+ allenge.class
+SHA-256-Digest: 6ncVDgtaqNT/6cURBkEMK0Lhp/OSPclJpXpZr6bb5Ik=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogGameConcessionHa
+ ndler.class
+SHA-256-Digest: 8Sj2XV1H/hijeITh0l7XSWJH/M9aZa12F2o7GFghX0o=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogWizardSpellHandl
+ er.class
+SHA-256-Digest: XU/n8QkkNPn0b/BvEX0wKb02kmtwsB67zJc+fMb8YaQ=
+
+Name: org/glassfish/tyrus/core/TyrusServerEndpointConfig.class
+SHA-256-Digest: BzJwKyx9ofyuEgKKhdBhnDXaKWBASkMXB1+uFrBE7Hc=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogLogin$3.class
+SHA-256-Digest: 6dpBysOyi5+AvewE3PUy4NEbRuTTeQRqZ8m2QZaBA9I=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogStartGame.class
+SHA-256-Digest: phU42N2NRpYLWa4LKYW6y3dZ72Ahc4YGVK04sf2MC5I=
+
+Name: org/glassfish/tyrus/container/jdk/client/HttpResponseParser.clas
+ s
+SHA-256-Digest: qrypAR0lBCZxNXoe61PlkAQVQZz8Qd7NCAUV36/uCCE=
+
+Name: com/balancedbytes/games/ffb/CardEffect.class
+SHA-256-Digest: bmEhLrkwtwdoHsfDXl36VEAdAkLmdEwDowNUaUnR+W0=
+
+Name: com/balancedbytes/games/ffb/model/change/ModelChangeDataTypeFact
+ ory.class
+SHA-256-Digest: elA1Snyp4KRMyKc+Ups192o6O47aap58GTI5o1CfyGQ=
+
+Name: com/balancedbytes/games/ffb/TeamListEntry.class
+SHA-256-Digest: l9d1jaKyES9+ZJt5+AY+reC4r1Qkpm9sHkPgISukJ80=
+
+Name: org/glassfish/tyrus/core/TyrusWebSocket.class
+SHA-256-Digest: rWjTJ2Fm9Fj7oIxeRAREYRDYs4Yg8urXEoeqpMjPRuM=
+
+Name: org/glassfish/tyrus/container/jdk/client/ClientFilter.class
+SHA-256-Digest: fp3h5nZXaSsOYccd+OMmxF21o3iHxJhaIx+a9HnJAns=
+
+Name: org/glassfish/tyrus/core/uri/internal/PatternWithGroups$GroupInd
+ exMatchResult.class
+SHA-256-Digest: UeClF36uk2L7SFHpev7NTbRSapx4GoxDm70CzoqZLrQ=
+
+Name: com/balancedbytes/games/ffb/client/state/ClientStateLogin$1.clas
+ s
+SHA-256-Digest: yzZomBfKKez9i12DjtLcgVy47u8/w9vPxqJ+UHv+aTw=
+
+Name: com/balancedbytes/games/ffb/TurnMode.class
+SHA-256-Digest: XCIXbQBGh7wK7V0R6YUYqKIC8JkjMPs78HmQ5d752Tw=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogBlockRoll$Backgr
+ oundPanel.class
+SHA-256-Digest: YNmba/USZqb89iInbINi5QoUlbA++ox1t3AWSOStj3A=
+
+Name: org/glassfish/tyrus/core/BufferedInputStream.class
+SHA-256-Digest: QhuL+qH81dCGt2QCrj2Bs7OTVH7NmX1/8ZJxeUtUUBw=
+
+Name: org/glassfish/tyrus/core/TyrusRemoteEndpoint$Async$1.class
+SHA-256-Digest: Uxsdj34TtcxZx38obGCoBpFzEd+3PspddpendVDtmRM=
+
+Name: com/balancedbytes/games/ffb/Direction.class
+SHA-256-Digest: AN+biveslbA/VMrKf5hraPaG1Tkazv/gGE6SZ94MXYQ=
+
+Name: com/balancedbytes/games/ffb/client/TextStyle.class
+SHA-256-Digest: ukC6zTo09Oalr6Pb2TkD+/y4BcdLXlCnwCQedrhqh4I=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogTeamChoice$3.cla
+ ss
+SHA-256-Digest: q0FkC/rNLeDoBwdi3IKBUfonFZtmX39VTcJaFetAe/c=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogTeamChoice.class
+SHA-256-Digest: +h/JKH1Zd9ofWp84LnV4Stc5skZgCz52ge+PZRzwRck=
+
+Name: org/glassfish/tyrus/spi/ReadHandler.class
+SHA-256-Digest: lfrYwhjxMoLV+PJkJMQCl6eurXM8A8vI3qJzxBh7MCw=
+
+Name: com/balancedbytes/games/ffb/client/ui/ChatComponent.class
+SHA-256-Digest: wDPVX6iEmZZ8kbL4dHEQpqC3wMnz5AwPk1/Z3Vfg95Q=
+
+Name: org/glassfish/tyrus/core/TyrusWebSocketEngine$TyrusConnection.cl
+ ass
+SHA-256-Digest: jBUKry/aEtRhHDIwfk0l5ti1twNLgkOXOQeGq0ajB3M=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogBribesHandler.cl
+ ass
+SHA-256-Digest: JLVp7dwFzmokza/aioHGPFR/EX/5eSLbjWR9evpsaXU=
+
+Name: javax/websocket/Extension$Parameter.class
+SHA-256-Digest: vfK1kqxmjIWz1U2icnnqw1dxX2OLc0PSrlLxr77TuxU=
+
+Name: org/glassfish/tyrus/container/jdk/client/SslFilter$1.class
+SHA-256-Digest: b+pgmMboq4qenNNLeOj2ADx9Vvy6IKKYdGqIvR6SH34=
+
+Name: com/balancedbytes/games/ffb/PassModifierFactory$1.class
+SHA-256-Digest: 86O2xIdzV+XaTbnfKWe1Vru/+llMcjlOXdhM7pgcikk=
+
+Name: com/balancedbytes/games/ffb/client/util/UtilClientMarker$1.class
+SHA-256-Digest: OumsIaXm4KRkQMyYE8M93M+JL5iUEIxY0WYVi3D5T2Q=
+
+Name: com/balancedbytes/games/ffb/report/ReportFactory.class
+SHA-256-Digest: hpf4eapmfnZQchUddkmLqlmTIKV4H6j/m4kVigZ+q8g=
+
+Name: com/balancedbytes/games/ffb/client/ActionKey.class
+SHA-256-Digest: w7DNyXrM/DvrmXBqEc7djIdCJPzm70lTJ4Wb0SrwC38=
+
+Name: com/balancedbytes/games/ffb/client/handler/ClientCommandHandler.
+ class
+SHA-256-Digest: 8qlrMw9A5uv8WnbVaYAbpOI2iwlVY7netv8z12EA82U=
+
+Name: com/balancedbytes/games/ffb/report/ReportKickoffScatter.class
+SHA-256-Digest: xnX0ayUeGc0CHPwlUsuV//sJUCdiAFfvz64Mu+gSyuA=
+
+Name: com/balancedbytes/games/ffb/net/NetCommandId.class
+SHA-256-Digest: 8WdZa7NsnoKlkS3jkSMOmLvPMZ+QFHx4Dj6jvV6vUTg=
+
+Name: org/glassfish/tyrus/container/jdk/client/JdkContainerProvider.cl
+ ass
+SHA-256-Digest: Gh1uV/tJp8N++0/vc56QsmHoaQNqpoiT/e4QKa8DStg=
+
+Name: com/balancedbytes/games/ffb/client/state/ClientStateWaitForOppon
+ ent.class
+SHA-256-Digest: l/AAJkobclz5oudLITf7X6se2qkmqTZdTO5yKI9Zph0=
+
+Name: com/balancedbytes/games/ffb/model/AnimationType.class
+SHA-256-Digest: LJwdYQI7WjzjVfJaYpGTSPnpGhbdu/gx6m2KcxGXxdI=
+
+Name: org/glassfish/tyrus/core/AnnotatedEndpoint$WholeHandler$1.class
+SHA-256-Digest: ydVbN5hv1+crj8V/FAU03MG2QWwpt9UzUp2nf3OKVsU=
+
+Name: org/glassfish/tyrus/core/uri/internal/PathTemplate$PathTemplateP
+ arser.class
+SHA-256-Digest: qIv54+XAdmksFyPSQSgP7XAdKGk6Bc1v7QSUHkAsUWo=
+
+Name: com/balancedbytes/games/ffb/SkillUse.class
+SHA-256-Digest: 0KDTAwvQsBJSz1WsCF2ksB74AHT9FDGlG27evtihrZA=
+
+Name: com/balancedbytes/games/ffb/report/ReportArgueTheCallRoll.class
+SHA-256-Digest: vVSIHBeJgzID+IHbXXRE3Nke1Kji8DVzQWo3f/OOd2Y=
+
+Name: com/balancedbytes/games/ffb/LeaderState.class
+SHA-256-Digest: fbYCixwSRMMg4ai/APBNYs0nCik6da+sfIO5mKYiaBg=
+
+Name: com/balancedbytes/games/ffb/client/handler/ClientCommandHandlerL
+ eave.class
+SHA-256-Digest: UD7OIz/fyVa7/0hb0EZrKzC3FjB8hXIgLR+LObQDmMQ=
+
+Name: com/balancedbytes/games/ffb/net/commands/ClientCommandGaze.class
+SHA-256-Digest: z4UQfshyxJrUjOz4VpNQygNCeylIr3MGV+qIWJyFxQM=
+
+Name: org/glassfish/tyrus/core/RequestContext$Builder.class
+SHA-256-Digest: YRo51HyBz2Z/dBLa9Cg7UR4cm/bnUbptkON1abJbPqU=
+
+Name: org/glassfish/tyrus/core/TyrusSession$State.class
+SHA-256-Digest: Gv38ssdX6ZE8yZBk1Zsd7leC8Y/RUeTMCG/HbnNPoSA=
+
+Name: com/balancedbytes/games/ffb/PlayerMarker.class
+SHA-256-Digest: NEH+1/+96TPR7HtMPHgQ28qkp3S5TvVE5MMgn+SaM0Y=
+
+Name: com/balancedbytes/games/ffb/client/util/UtilClientTimeout.class
+SHA-256-Digest: 6jVeq3pYo+ujgj+cvMTDnKe1QaMmUsNiCtPvsnpv/QE=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogLogin$5.class
+SHA-256-Digest: XdQdpqASXM5UeL3BqTYg/+JgtwIXT8JT8cl7G2LdU5k=
+
+Name: com/balancedbytes/games/ffb/dialog/DialogWizardSpellParameter.cl
+ ass
+SHA-256-Digest: cbjbysYm+mn1cYszToAicocPtw17S8Aum+4N9Lq9Y4M=
+
+Name: com/balancedbytes/games/ffb/PlayerChoiceModeFactory.class
+SHA-256-Digest: 2De7T8z2XAjpo6PQZO8EKKqGSwX1mrKJhILmmczOL0A=
+
+Name: org/glassfish/tyrus/core/uri/internal/UriTemplate$TemplateValueS
+ trategy.class
+SHA-256-Digest: Gcmtm36aCTh01BZZ16w/miKsvPeXlJBH3qUREklRDzo=
+
+Name: org/glassfish/tyrus/container/jdk/client/TaskQueueFilter$2.class
+SHA-256-Digest: L661sehdwqEZ+/cVOS/QfD2u9M/SQwHjve5GkVA+Jzk=
+
+Name: com/balancedbytes/games/ffb/json/IJsonOption.class
+SHA-256-Digest: UcKbUcxrT8fHySVEN7XLDy/DUv+8d0FBOfRd4Hbfe68=
+
+Name: com/balancedbytes/games/ffb/client/UserInterface.class
+SHA-256-Digest: zwKIYevVPZ4wWGSYwfd00XkQYb0AjN9+qvR2sp/ZKuE=
+
+Name: javax/websocket/server/PathParam.class
+SHA-256-Digest: A20/TfFB18DWcTI5dU5fjNEfRXpNmJmMkQFtHkBqUiw=
+
+Name: com/balancedbytes/games/ffb/client/ClientData.class
+SHA-256-Digest: xUR10m9oi73RcS3FxGoIWjCvtJATCc+Jx+PPHmRt9XM=
+
+Name: com/balancedbytes/games/ffb/dialog/DialogId.class
+SHA-256-Digest: nMd7N3yXG3VN/+CGhphUpE/LMfwOOuPzPzLceV6xjdk=
+
+Name: com/balancedbytes/games/ffb/util/UtilBlock.class
+SHA-256-Digest: 22p0nqzSPp3W1GdgqcRisrGXTnrsZESz2nWoX0Q4Yfk=
+
+Name: org/glassfish/tyrus/core/monitoring/package-info.class
+SHA-256-Digest: RUqedjSexX6eBBCAjBHXkaqChNHpHiDiM9ZUhnRJ7OQ=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogTeamChoice$1.cla
+ ss
+SHA-256-Digest: UrFV7IMlRQq1Re4aadUovtLpWMrDKI6Ibcot1wxeyj0=
+
+Name: com/balancedbytes/games/ffb/report/ReportReRoll.class
+SHA-256-Digest: A23wGVe2AlmodApIv9l50pCld+ujxn2MRIdKM0+Ts4c=
+
+Name: com/balancedbytes/games/ffb/PassModifierFactory.class
+SHA-256-Digest: CrzdcuT0Pf2JftDXaVVfpPO/+kldsATlch/fjbqNYZI=
+
+Name: com/balancedbytes/games/ffb/client/ui/TurnDiceStatusComponent$1.
+ class
+SHA-256-Digest: rJlv+OYrdRSgVk4ELh8WaDymipr1u5aYjRN29gfT+cM=
+
+Name: com/balancedbytes/games/ffb/model/Player.class
+SHA-256-Digest: t+wGw1p9jgOOL37dsODqHh9SpWUquXJjvIMlr7SPzC0=
+
+Name: com/balancedbytes/games/ffb/json/Data.class
+SHA-256-Digest: uEJgfgWxS/joB0BAQHMn6JeVeHhA6Uo2zuwQtM+oIDg=
+
+Name: com/balancedbytes/games/ffb/client/handler/ClientCommandHandlerG
+ ameState.class
+SHA-256-Digest: n0+9F5Eynq+GttyEd/4Hty2xIBjCi2J6tbmMaS5wA9Q=
+
+Name: com/balancedbytes/games/ffb/net/commands/ClientCommandReceiveCho
+ ice.class
+SHA-256-Digest: L0YmsguaVpYUAvCDijL0kkpNEPY5aW65yK3wFK3J+3I=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogArgueTheCallHand
+ ler.class
+SHA-256-Digest: dSdGRtK6O5NUauF1NeNXtou8ErMMalSprB2JzEO0IpE=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogLogin$6.class
+SHA-256-Digest: 7S+he9vA9mB2p0ECo5EqyAj79V+XyypQ8/c135ZuWE8=
+
+Name: com/balancedbytes/games/ffb/net/commands/ClientCommandJourneymen
+ .class
+SHA-256-Digest: 99C3+BwA0UyNSlV8FKbIjOOq7l6nbHq2aykj5U6vvUE=
+
+Name: com/balancedbytes/games/ffb/CatchScatterThrowInModeFactory.class
+SHA-256-Digest: jlyGYsEbfdQoAf49mRL3wUkwR/F6uVsA/Phq8fjXHQ4=
+
+Name: javax/websocket/CloseReason$CloseCode.class
+SHA-256-Digest: uxRXazcVO/X4fArsuvzwDbI+gtanhC3GFCIR/XkMumo=
+
+Name: org/glassfish/tyrus/core/coder/PrimitiveDecoders$IntegerDecoder.
+ class
+SHA-256-Digest: RZepYBm1mk8AXFaIv0YvR37p8XkjP902cgo+fFpow/o=
+
+Name: com/balancedbytes/games/ffb/report/ReportConfusionRoll.class
+SHA-256-Digest: ua+r8my9Bbks22Rpsd1IIPaEmoikkQ7QVhbtR1pEcrE=
+
+Name: javax/websocket/Encoder$TextStream.class
+SHA-256-Digest: Yx0r0Ca2DHfooN/TgeLXAx9NpHHq2V/E5oVUwOUiABs=
+
+Name: javax/websocket/Encoder$Binary.class
+SHA-256-Digest: 0DuucltJLMhP8fZCNPWeoDGyttrHjNS7jgCIZEnlx9w=
+
+Name: com/balancedbytes/games/ffb/client/animation/AnimationSequenceSp
+ ecialEffect.class
+SHA-256-Digest: nTP3AOolnNKaXDZxxmEmcUi5Lak6bOL5ShTF3rtzrlc=
+
+Name: com/balancedbytes/games/ffb/client/dialog/DialogApothecaryChoice
+ Handler.class
+SHA-256-Digest: R+HGEDa5Uhm4t6EHh8tVZ8sCSMv4Gxb7BKYNr6Gvfa8=
+

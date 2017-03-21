@@ -1,10 +1,13 @@
-FFB Client Boardball Mod v1.1.0
+FFB Client Boardball Mod v0.5.0
 ===============================
+
 
 
 System Requirements
 -------------------
+
 Windows PC with JRE/JDK installed.
+
 
 
 Installation
@@ -18,9 +21,9 @@ Installation
 
 3. Run the setup.bat file.
 
-   If errors were reported then you have to associate boardball.exe with JNLP
+   If errors were reported then you have to associate BOARDBALL.BAT with JNLP
    files manually. At (4) of the Start process (see below) you will not find
-   boardball.exe in the context menu, but there should be an option to add it,
+   BOARDBALL.BAT in the context menu, but there should be an option to add it,
    either by clicking on Open With or Open With > Choose default program and
    then by clicking on the Browse button.
 
@@ -28,9 +31,12 @@ Note that the common FFB client remains the default application/option to play
 and spectate.
 
 
+
 Uninstallation
 --------------
-Start both of the REG files in the troubleshoot folder.
+
+Start each one the REG files in the troubleshoot folder.
+
 
 
 Update
@@ -44,15 +50,19 @@ If you intend to keep new files in a different location then uninstall
 boardball and do a new installation.
 
 
+
 Start
 -----
 
 1. Click on a Play or Spectate link in FUMBBL. Either you will
 
    a) be able to open the JNLP file with Boardball immediately
-   b) or you are able to save the file.
+   b) or you are able to add another program to open with
+   c) or you are able to save the file
 
    In case of (a), you are done.
+   In case of (b), browse BOARDBALL.BAT to run with. Hopefully this has to be
+      done only once.
 
 2. The downloaded JNLP file should be listed in the Downloads bar or menu of your
    Browser.
@@ -61,9 +71,18 @@ Start
    Windows Explorer should open with the JNLP file selected.
 
 4. Right click on the selected file and you should be able to open it with
-   Boardball by choosing "Open With" entry of the context menu.
+   Boardball by choosing "Open With" entry of the context menu. Either
+
+   a) you are able to start the JNLP file with Boardball
+   b) or you can add another program to start with (by choosing Open with
+      directily or Open With > Choose deafult program)
+
+   In case of (a), you are done.
+   In case of (b), browse BOARDBALL.BAT to run with. Hopefully this has to be
+      done only once.
 
 Once started, please do the recommended Client Setup (below).
+
 
 
 Client Setup
